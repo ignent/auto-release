@@ -613,7 +613,7 @@ write_group_table() {
       log "Skipping download for ${name}: $(jq -r '.error // "unknown error"' <<<"${result_json}")"
     fi
 
-    jq -n \
+    jq -nc \
       --argjson index "${index}" \
       --arg name "${name}" \
       --arg version "${version}" \
