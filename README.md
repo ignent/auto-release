@@ -30,7 +30,7 @@
 | 10 | AntennaPod | N/A | N/A | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | v9.3.1-707 | 2026-03-13T05:56:15Z | [onlyoffice-manager-9.3.1-arm64-v8a.apk](https://github.com/ONLYOFFICE/documents-app-android/releases/download/v9.3.1-707/onlyoffice-manager-9.3.1-arm64-v8a.apk) |
 | 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
-| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=0e8d497c6dd1cde230b76e5186d24db4&t=1779162094](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=0e8d497c6dd1cde230b76e5186d24db4&t=1779162094) |
+| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=8f7b761868b169cd611747d7ae5ef72d&t=1779163032](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=8f7b761868b169cd611747d7ae5ef72d&t=1779163032) |
 <!-- APK_TABLE_END -->
 
 ## 模块下载
@@ -39,7 +39,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.2 | 2026-03-09T10:11:49Z | [SukiSU_v4.1.2_40545-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.2/SukiSU_v4.1.2_40545-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-18T13:07:00+00:00 | [Manager-release.zip](https://productionresultssa15.blob.core.windows.net/actions-results/46a44a7c-623d-40f9-a127-dff47e418737/workflow-job-run-670de338-000c-5de9-986c-5e9902c5f7da/artifacts/1e334ef3caafd9a893933d8586bb1684b825cd3636e6623f2d247046a1ed4a39.zip?rscd=attachment%3B+filename%3D%22Manager-release.zip%22&rsct=application%2Fzip&se=2026-05-19T03%3A51%3A46Z&sig=wDW3cTwkPqtDywPYUxudZV59R6ZIJbbciBu5bcEUEm4%3D&ske=2026-05-19T05%3A25%3A24Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-05-19T01%3A25%3A24Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-05-19T03%3A41%3A41Z&sv=2025-11-05) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-18T13:07:00+00:00 | [Manager-release.zip](https://productionresultssa15.blob.core.windows.net/actions-results/46a44a7c-623d-40f9-a127-dff47e418737/workflow-job-run-670de338-000c-5de9-986c-5e9902c5f7da/artifacts/1e334ef3caafd9a893933d8586bb1684b825cd3636e6623f2d247046a1ed4a39.zip?rscd=attachment%3B+filename%3D%22Manager-release.zip%22&rsct=application%2Fzip&se=2026-05-19T04%3A07%3A25Z&sig=JGNBhKivc%2FbO4g35brgBA58WlgYA3A2%2BHXhuAl0oNvA%3D&ske=2026-05-19T05%3A25%3A50Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-05-19T01%3A25%3A50Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-05-19T03%3A57%3A20Z&sv=2025-11-05) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.0-162 | 2026-03-31T18:47:49Z | [TEESimulator-RS-v6.0.0-162-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-162/TEESimulator-RS-v6.0.0-162-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
