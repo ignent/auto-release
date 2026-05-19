@@ -1,19 +1,8 @@
 # Auto Release
 
-通过 GitHub Actions 每天自动拉取 `sources.json` 里定义的软件，并按 `APK` 与 `模块` 分开下载到 `releases/` 目录。
+## Download Table
 
-## 自定义方式
-
-直接编辑 `sources.json`：
-
-- `groups[].items` 里每一项就是一个下载源
-- `github_apk` 用于 GitHub Release APK 自动择优
-- `github_asset` 用于 GitHub Release 指定扩展名资源
-- `direct` 用于直链下载
-- `mt_manager_t28` 用于 MT 管理器 TargetSdk28 页面解析
-- `telegram_lsposed` 用于 LSPosed Telegram 页面解析，仅记录最新文件名，不下载文件
-
-## APK 下载
+### APK 下载
 
 <!-- APK_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
@@ -33,7 +22,7 @@
 | 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=400bc3bb9172686460b5212797bd1d8d&t=1779165869](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=400bc3bb9172686460b5212797bd1d8d&t=1779165869) |
 <!-- APK_TABLE_END -->
 
-## 模块下载
+### 模块下载
 
 <!-- MODULE_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
