@@ -415,7 +415,7 @@ fetch_direct_item() {
     --arg name "${name}" \
     --arg version "${version}" \
     --arg updated_at "${updated_at}" \
-    --arg download_url "${effective_url:-${url}}" \
+    --arg download_url "${url}" \
     --arg asset_name "${filename}" \
     --arg source_url "${url}" \
     '{ok:($ok == "true"),name:$name,version:$version,updated_at:$updated_at,download_url:$download_url,asset_name:$asset_name,source_url:$source_url}'
