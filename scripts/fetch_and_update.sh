@@ -150,17 +150,20 @@ PY
 }
 
 fetch_antennapod_fallback() {
-  local page_html fdroid_url fdroid_html
+  local page_html page_html_file fdroid_url fdroid_html fdroid_html_file
   page_html="$(fetch_text "https://antennapod.org/download/")"
+  page_html_file="$(mktemp "${TMP_DIR}/antennapod-page.XXXXXX.html")"
+  printf '%s' "${page_html}" > "${page_html_file}"
   fdroid_url="$(
-    PAGE_HTML="${page_html}" python3 <<'PY'
+    PAGE_HTML_FILE="${page_html_file}" python3 <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 import os
 import re
 
 base_url = "https://antennapod.org/download/"
-html = os.environ["PAGE_HTML"]
+with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
+    html = fp.read()
 
 class Parser(HTMLParser):
     def __init__(self):
@@ -187,15 +190,18 @@ else:
 PY
   )"
   fdroid_html="$(fetch_text "${fdroid_url}")"
+  fdroid_html_file="$(mktemp "${TMP_DIR}/antennapod-fdroid.XXXXXX.html")"
+  printf '%s' "${fdroid_html}" > "${fdroid_html_file}"
 
-  FDROID_HTML="${fdroid_html}" FDROID_URL="${fdroid_url}" python3 <<'PY'
+  FDROID_HTML_FILE="${fdroid_html_file}" FDROID_URL="${fdroid_url}" python3 <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 import json
 import os
 import re
 
-html = os.environ["FDROID_HTML"]
+with open(os.environ["FDROID_HTML_FILE"], "r", encoding="utf-8") as fp:
+    html = fp.read()
 page_url = os.environ["FDROID_URL"]
 
 class Parser(HTMLParser):
@@ -406,12 +412,14 @@ fetch_direct_item() {
 
 fetch_mt_item() {
   local item_json="$1"
-  local name page_url html
+  local name page_url html html_file
   name="$(jq -r '.name' <<<"${item_json}")"
   page_url="$(jq -r '.url' <<<"${item_json}")"
   html="$(fetch_text "${page_url}")"
+  html_file="$(mktemp "${TMP_DIR}/mt-page.XXXXXX.html")"
+  printf '%s' "${html}" > "${html_file}"
 
-  PAGE_HTML="${html}" PAGE_URL="${page_url}" ITEM_NAME="${name}" python3 <<'PY'
+  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" python3 <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 import json
@@ -419,7 +427,8 @@ import os
 import re
 import urllib.request
 
-html = os.environ["PAGE_HTML"]
+with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
+    html = fp.read()
 page_url = os.environ["PAGE_URL"]
 item_name = os.environ["ITEM_NAME"]
 text = re.sub(r"<[^>]+>", "\n", html)
@@ -504,18 +513,21 @@ PY
 
 fetch_telegram_lsposed_item() {
   local item_json="$1"
-  local name page_url download_url html
+  local name page_url download_url html html_file
   name="$(jq -r '.name' <<<"${item_json}")"
   page_url="$(jq -r '.url' <<<"${item_json}")"
   download_url="$(jq -r '.download_url' <<<"${item_json}")"
   html="$(fetch_text "${page_url}")"
+  html_file="$(mktemp "${TMP_DIR}/lsposed-page.XXXXXX.html")"
+  printf '%s' "${html}" > "${html_file}"
 
-  PAGE_HTML="${html}" PAGE_URL="${page_url}" DIRECT_URL="${download_url}" ITEM_NAME="${name}" python3 <<'PY'
+  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" DIRECT_URL="${download_url}" ITEM_NAME="${name}" python3 <<'PY'
 import json
 import os
 import re
 
-html = os.environ["PAGE_HTML"]
+with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
+    html = fp.read()
 page_url = os.environ["PAGE_URL"]
 direct_url = os.environ["DIRECT_URL"]
 item_name = os.environ["ITEM_NAME"]
