@@ -196,6 +196,7 @@ PY
   FDROID_HTML_FILE="${fdroid_html_file}" FDROID_URL="${fdroid_url}" python3 <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
+from datetime import datetime
 import json
 import os
 import re
@@ -275,6 +276,16 @@ if selected is None:
 
 version_match = re.search(r"Version\s+([^\s(]+)\s+\((\d+)\)", selected["header"])
 version_name = version_match.group(1) if version_match else ""
+date_match = re.search(r"Added on\s+([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4})", selected["header"])
+release_date = ""
+if date_match:
+    try:
+        release_date = datetime.strptime(date_match.group(1), "%b %d, %Y").date().isoformat()
+    except ValueError:
+        try:
+            release_date = datetime.strptime(date_match.group(1), "%B %d, %Y").date().isoformat()
+        except ValueError:
+            release_date = date_match.group(1)
 
 apk_href = None
 for text, href in selected["links"]:
@@ -289,7 +300,7 @@ apk_name = apk_url.rstrip("/").split("/")[-1] or "AntennaPod.apk"
 print(json.dumps({
     "ok": True,
     "version": version_name,
-    "updated_at": "",
+    "updated_at": release_date,
     "download_url": apk_url,
     "asset_name": apk_name,
     "page_url": page_url
@@ -540,10 +551,12 @@ if matches:
     message_url = latest.group(1).strip()
     asset_name = latest.group(2).strip()
     updated_at = latest.group(3).strip()
+    version_match = re.search(r'LSPosed-(v[^-]+(?:-[^-]+)*)-release\.zip', asset_name)
+    version = version_match.group(1) if version_match else asset_name
     print(json.dumps({
         "ok": True,
         "name": item_name,
-        "version": asset_name,
+        "version": version,
         "updated_at": updated_at,
         "source_url": message_url,
         "metadata_only": True
