@@ -211,10 +211,11 @@ class Parser(HTMLParser):
         self.items = []
         self.capture_li = False
         self.li_depth = 0
-        self.current_classes = ""
         self.current_href = None
         self.current_text = []
         self.current_item = None
+        self.in_header = False
+        self.header_depth = 0
 
     def handle_starttag(self, tag, attrs):
         attrs_dict = dict(attrs)
@@ -228,7 +229,11 @@ class Parser(HTMLParser):
           return
         if tag == "li":
           self.li_depth += 1
-        self.current_classes = classes
+        if tag == "div" and "package-version-header" in classes:
+          self.in_header = True
+          self.header_depth = 1
+        elif self.in_header:
+          self.header_depth += 1
         if tag == "a":
           self.current_href = attrs_dict.get("href")
           self.current_text = []
@@ -239,7 +244,7 @@ class Parser(HTMLParser):
         text = data.strip()
         if not text:
           return
-        if "package-version-header" in self.current_classes:
+        if self.in_header:
           if self.current_item["header"]:
             self.current_item["header"] += " "
           self.current_item["header"] += text
@@ -253,13 +258,16 @@ class Parser(HTMLParser):
           self.current_item["links"].append((" ".join(self.current_text).strip(), self.current_href))
           self.current_href = None
           self.current_text = []
+        if self.in_header:
+          self.header_depth -= 1
+          if self.header_depth == 0:
+            self.in_header = False
         if tag == "li":
           self.li_depth -= 1
           if self.li_depth == 0:
             self.items.append(self.current_item)
             self.current_item = None
             self.capture_li = False
-        self.current_classes = ""
 
 parser = Parser()
 parser.feed(html)
