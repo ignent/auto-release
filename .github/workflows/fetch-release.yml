@@ -1,0 +1,56 @@
+name: Fetch and Bundle Releases
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-and-package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl zip
+
+      - name: Pull latest main
+        run: git pull origin main --rebase
+        
+      - name: Make scripts executable
+        run: chmod +x scripts/fetch_and_update.sh
+
+      - name: Update README table and download releases
+        run: ./scripts/fetch_and_update.sh
+        
+      - name: Package releases
+        run: |
+          TODAY=$(date +%Y%m%d)
+          ZIP_NAME="releases_$TODAY.zip"
+      
+          if [ -d "releases" ] && [ "$(find releases -type f | head -n 1)" ]; then
+            find releases -type f -print0 | xargs -0 zip -j "$ZIP_NAME"
+            echo "Created $ZIP_NAME"
+          else
+            echo "No files in releases to package."
+          fi
+          
+      - name: Upload zip artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: releases_${{ github.run_id }}
+          path: releases_*.zip
+      
+      - name: Commit updated README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update release table in README"
+          branch: main
+          file_pattern: README.md sources.json
+          github_token: ${{ secrets.GITHUB_TOKEN }}

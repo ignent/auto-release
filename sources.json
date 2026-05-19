@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "key": "apks",
+      "title": "APK 下载",
+      "output_dir": "apks",
+      "items": [
+        { "name": "Breezy Weather", "type": "github_apk", "repo": "breezy-weather/breezy-weather" },
+        { "name": "FlClash", "type": "github_apk", "repo": "chen08209/FlClash" },
+        { "name": "阅读", "type": "github_apk", "repo": "gedoor/legado" },
+        { "name": "StreamMusic", "type": "github_apk", "repo": "gitbobobo/StreamMusic" },
+        { "name": "LocalSend", "type": "github_apk", "repo": "localsend/localsend" },
+        { "name": "PiliPlus", "type": "github_apk", "repo": "bggRGjQaUbCoE/PiliPlus" },
+        { "name": "ServerBox", "type": "github_apk", "repo": "lollipopkit/flutter_server_box" },
+        { "name": "Salt Player", "type": "github_apk", "repo": "Moriafly/SaltPlayerSource" },
+        { "name": "NewPipe", "type": "github_apk", "repo": "TeamNewPipe/NewPipe" },
+        { "name": "AntennaPod", "type": "github_apk", "repo": "AntennaPod/AntennaPod" },
+        { "name": "ONLYOFFICE Documents", "type": "github_apk", "repo": "ONLYOFFICE/documents-app-android" },
+        { "name": "Droid-ify", "type": "github_apk", "repo": "Droid-ify/client" },
+        { "name": "MT管理器", "type": "mt_manager_t28", "url": "https://mt2.cn/download/" }
+      ]
+    },
+    {
+      "key": "modules",
+      "title": "模块下载",
+      "output_dir": "modules",
+      "items": [
+        {
+          "name": "SukiSU Ultra",
+          "type": "github_asset",
+          "repo": "SukiSU-Ultra/SukiSU-Ultra",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "ReSukiSU Manager Nightly",
+          "type": "direct",
+          "url": "https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip",
+          "filename": "Manager-release.zip",
+          "version": "nightly"
+        },
+        {
+          "name": "Tricky Addon Enhanced",
+          "type": "github_asset",
+          "repo": "Enginex0/tricky-addon-enhanced",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "TEESimulator-RS",
+          "type": "github_asset",
+          "repo": "Enginex0/TEESimulator-RS",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "PlayIntegrityFix",
+          "type": "github_asset",
+          "repo": "KOWX712/PlayIntegrityFix",
+          "extensions": [".zip"]
+        },
+        {
+          "name": "mountify",
+          "type": "github_asset",
+          "repo": "backslashxx/mountify",
+          "extensions": [".zip"]
+        },
+        {
+          "name": "LSPosed Telegram",
+          "type": "telegram_lsposed",
+          "url": "https://t.me/s/LSPosed",
+          "download_url": "http://lsposed.zip/"
+        },
+        {
+          "name": "Zygisk Next",
+          "type": "github_asset",
+          "repo": "Dr-TSNG/ZygiskNext",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"]
+        }
+      ]
+    }
+  ]
+}
