@@ -69,7 +69,7 @@
           "extensions": [".zip"]
         },
         {
-          "name": "LSPosed Telegram",
+          "name": "LSPosed",
           "type": "telegram_lsposed",
           "url": "https://t.me/s/LSPosed"
         },

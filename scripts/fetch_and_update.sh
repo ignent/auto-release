@@ -530,20 +530,22 @@ with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
 page_url = os.environ["PAGE_URL"]
 item_name = os.environ["ITEM_NAME"]
 
-message_match = re.search(
-    r'data-post="LSPosed/\d+".*?tgme_widget_message_reply_text"[^>]*>(LSPosed-v[^<]+?\.zip)</div>.*?<time datetime="([^"]+)"',
+matches = list(re.finditer(
+    r'<a class="tgme_widget_message_document_wrap" href="([^"]+)">.*?<div class="tgme_widget_message_document_title[^>]*>(LSPosed-v[^<]+?\.zip)</div>.*?<time datetime="([^"]+)"',
     html,
     re.S,
-)
-if message_match:
-    asset_name = message_match.group(1).strip()
-    updated_at = message_match.group(2).strip()
+))
+if matches:
+    latest = max(matches, key=lambda m: m.group(3))
+    message_url = latest.group(1).strip()
+    asset_name = latest.group(2).strip()
+    updated_at = latest.group(3).strip()
     print(json.dumps({
         "ok": True,
         "name": item_name,
         "version": asset_name,
         "updated_at": updated_at,
-        "source_url": page_url,
+        "source_url": message_url,
         "metadata_only": True
     }, ensure_ascii=False))
 else:
