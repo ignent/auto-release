@@ -18,6 +18,19 @@
 <!-- APK_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
+| 1 | Breezy Weather | v6.2.0 | 2026-05-01T19:21:42Z | [breezy-weather-arm64-v8a-v6.2.0_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.0/breezy-weather-arm64-v8a-v6.2.0_standard.apk) |
+| 2 | FlClash | v0.8.92 | 2026-02-02T02:38:52Z | [FlClash-0.8.92-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.92/FlClash-0.8.92-android-arm64-v8a.apk) |
+| 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
+| 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
+| 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
+| 6 | PiliPlus | 2.0.7.2 | 2026-05-15T03:21:02Z | [PiliPlus_android_2.0.7-ad6c0e0d1+4956_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.2/PiliPlus_android_2.0.7-ad6c0e0d1%2B4956_arm64-v8a.apk) |
+| 7 | ServerBox | v1.0.1409 | 2026-05-12T12:08:55Z | [ServerBox_v1.0.1409_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1409/ServerBox_v1.0.1409_arm64.apk) |
+| 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
+| 9 | NewPipe | v0.28.6 | 2026-05-01T16:48:10Z | [NewPipe_v0.28.6.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.6/NewPipe_v0.28.6.apk) |
+| 10 | AntennaPod | N/A | N/A | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
+| 11 | ONLYOFFICE Documents | v9.3.1-707 | 2026-03-13T05:56:15Z | [onlyoffice-manager-9.3.1-arm64-v8a.apk](https://github.com/ONLYOFFICE/documents-app-android/releases/download/v9.3.1-707/onlyoffice-manager-9.3.1-arm64-v8a.apk) |
+| 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
+| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=0e8d497c6dd1cde230b76e5186d24db4&t=1779162094](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=0e8d497c6dd1cde230b76e5186d24db4&t=1779162094) |
 <!-- APK_TABLE_END -->
 
 ## 模块下载
@@ -25,4 +38,12 @@
 <!-- MODULE_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
+| 1 | SukiSU Ultra | v4.1.2 | 2026-03-09T10:11:49Z | [SukiSU_v4.1.2_40545-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.2/SukiSU_v4.1.2_40545-release.apk) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-18T13:07:00+00:00 | [Manager-release.zip](https://productionresultssa15.blob.core.windows.net/actions-results/46a44a7c-623d-40f9-a127-dff47e418737/workflow-job-run-670de338-000c-5de9-986c-5e9902c5f7da/artifacts/1e334ef3caafd9a893933d8586bb1684b825cd3636e6623f2d247046a1ed4a39.zip?rscd=attachment%3B+filename%3D%22Manager-release.zip%22&rsct=application%2Fzip&se=2026-05-19T03%3A51%3A46Z&sig=wDW3cTwkPqtDywPYUxudZV59R6ZIJbbciBu5bcEUEm4%3D&ske=2026-05-19T05%3A25%3A24Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-05-19T01%3A25%3A24Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-05-19T03%3A41%3A41Z&sv=2025-11-05) |
+| 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
+| 4 | TEESimulator-RS | v6.0.0-162 | 2026-03-31T18:47:49Z | [TEESimulator-RS-v6.0.0-162-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-162/TEESimulator-RS-v6.0.0-162-Release.zip) |
+| 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
+| 6 | mountify | 201 | 2026-05-05T00:28:18Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/201/mountify.zip) |
+| 7 | LSPosed Telegram | N/A | N/A | [查看来源](https://t.me/s/LSPosed) |
+| 8 | Zygisk Next | v1.3.4 | 2026-04-08T08:11:14Z | [Zygisk-Next-1.3.4-746-d1b76b3-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.3.4/Zygisk-Next-1.3.4-746-d1b76b3-release.zip) |
 <!-- MODULE_TABLE_END -->
