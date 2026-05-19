@@ -444,7 +444,6 @@ from urllib.parse import urljoin
 import json
 import os
 import re
-import urllib.request
 
 with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
     html = fp.read()
@@ -513,17 +512,15 @@ if not candidates:
 
 candidates.sort(key=lambda item: item[0], reverse=True)
 _, _, entry_url = candidates[0]
-request = urllib.request.Request(entry_url, headers={"User-Agent": "Mozilla/5.0"})
-with urllib.request.urlopen(request, timeout=60) as response:
-    final_url = response.geturl()
-asset_name = final_url.rstrip("/").split("/")[-1] or "MTManager.apk"
+version_suffix = version[1:] if version.startswith("v") else version
+asset_name = f"MT{version_suffix}-target28.apk" if version_suffix and version_suffix != "N/A" else "MT-target28.apk"
 
 print(json.dumps({
     "ok": True,
     "name": item_name,
     "version": version,
     "updated_at": updated_at,
-    "download_url": final_url,
+    "download_url": entry_url,
     "asset_name": asset_name,
     "source_url": page_url
 }, ensure_ascii=False))
