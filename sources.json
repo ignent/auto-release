@@ -71,8 +71,7 @@
         {
           "name": "LSPosed Telegram",
           "type": "telegram_lsposed",
-          "url": "https://t.me/s/LSPosed",
-          "download_url": "http://lsposed.zip/"
+          "url": "https://t.me/s/LSPosed"
         },
         {
           "name": "Zygisk Next",

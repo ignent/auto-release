@@ -11,7 +11,7 @@
 - `github_asset` 用于 GitHub Release 指定扩展名资源
 - `direct` 用于直链下载
 - `mt_manager_t28` 用于 MT 管理器 TargetSdk28 页面解析
-- `telegram_lsposed` 用于 LSPosed Telegram 页面解析
+- `telegram_lsposed` 用于 LSPosed Telegram 页面解析，仅记录最新文件名，不下载文件
 
 ## APK 下载
 

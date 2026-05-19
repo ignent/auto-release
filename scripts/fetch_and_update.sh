@@ -513,15 +513,14 @@ PY
 
 fetch_telegram_lsposed_item() {
   local item_json="$1"
-  local name page_url download_url html html_file
+  local name page_url html html_file
   name="$(jq -r '.name' <<<"${item_json}")"
   page_url="$(jq -r '.url' <<<"${item_json}")"
-  download_url="$(jq -r '.download_url' <<<"${item_json}")"
   html="$(fetch_text "${page_url}")"
   html_file="$(mktemp "${TMP_DIR}/lsposed-page.XXXXXX.html")"
   printf '%s' "${html}" > "${html_file}"
 
-  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" DIRECT_URL="${download_url}" ITEM_NAME="${name}" python3 <<'PY'
+  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" python3 <<'PY'
 import json
 import os
 import re
@@ -529,7 +528,6 @@ import re
 with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
     html = fp.read()
 page_url = os.environ["PAGE_URL"]
-direct_url = os.environ["DIRECT_URL"]
 item_name = os.environ["ITEM_NAME"]
 
 message_match = re.search(
@@ -540,16 +538,13 @@ message_match = re.search(
 if message_match:
     asset_name = message_match.group(1).strip()
     updated_at = message_match.group(2).strip()
-    version_match = re.search(r'LSPosed-(v[^-]+(?:-[^-]+)*)-release\.zip', asset_name)
-    version = version_match.group(1) if version_match else asset_name.replace(".zip", "")
     print(json.dumps({
         "ok": True,
         "name": item_name,
-        "version": version,
+        "version": asset_name,
         "updated_at": updated_at,
-        "download_url": direct_url,
-        "asset_name": asset_name,
-        "source_url": page_url
+        "source_url": page_url,
+        "metadata_only": True
     }, ensure_ascii=False))
 else:
     print(json.dumps({
@@ -557,8 +552,6 @@ else:
         "name": item_name,
         "version": "N/A",
         "updated_at": "",
-        "download_url": direct_url,
-        "asset_name": "lsposed.zip",
         "source_url": page_url,
         "error": "Latest LSPosed Telegram post not found"
     }, ensure_ascii=False))
@@ -582,7 +575,7 @@ write_group_table() {
   local index=1
   while IFS= read -r item_json; do
     [[ -z "${item_json}" ]] && continue
-    local source_type result_json name version updated_at download_url asset_name source_url status
+    local source_type result_json name version updated_at download_url asset_name source_url status metadata_only
     source_type="$(jq -r '.type' <<<"${item_json}")"
     case "${source_type}" in
       github_apk)
@@ -612,8 +605,9 @@ write_group_table() {
     download_url="$(jq -r '.download_url // ""' <<<"${result_json}")"
     asset_name="$(jq -r '.asset_name // ""' <<<"${result_json}")"
     source_url="$(jq -r '.source_url // ""' <<<"${result_json}")"
+    metadata_only="$(jq -r '.metadata_only // false' <<<"${result_json}")"
 
-    if [[ "${status}" == "true" && -n "${download_url}" ]]; then
+    if [[ "${status}" == "true" && "${metadata_only}" != "true" && -n "${download_url}" ]]; then
       local download_dir filename safe_name
       download_dir="${DOWNLOAD_ROOT}/$(jq -r '.output_dir' <<<"${group_json}")"
       mkdir -p "${download_dir}"
@@ -621,6 +615,8 @@ write_group_table() {
       filename="${download_dir}/${safe_name}__${asset_name}"
       log "Downloading ${group_name}: ${name}"
       download_file "${download_url}" "${filename}"
+    elif [[ "${status}" == "true" && "${metadata_only}" == "true" ]]; then
+      log "Resolved ${group_name}: ${name} (metadata only)"
     else
       log "Skipping download for ${name}: $(jq -r '.error // "unknown error"' <<<"${result_json}")"
     fi
