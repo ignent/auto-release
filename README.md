@@ -16,10 +16,10 @@
 | 7 | ServerBox | v1.0.1409 | 2026-05-12T12:08:55Z | [ServerBox_v1.0.1409_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1409/ServerBox_v1.0.1409_arm64.apk) |
 | 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.6 | 2026-05-01T16:48:10Z | [NewPipe_v0.28.6.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.6/NewPipe_v0.28.6.apk) |
-| 10 | AntennaPod | N/A | N/A | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
+| 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | v9.3.1-707 | 2026-03-13T05:56:15Z | [onlyoffice-manager-9.3.1-arm64-v8a.apk](https://github.com/ONLYOFFICE/documents-app-android/releases/download/v9.3.1-707/onlyoffice-manager-9.3.1-arm64-v8a.apk) |
 | 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
-| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=400bc3bb9172686460b5212797bd1d8d&t=1779165869](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=400bc3bb9172686460b5212797bd1d8d&t=1779165869) |
+| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk?sign=adfc3b12d64aafedf12d022956c4bd35&t=1779166127](https://dl.mt2.cn/release/26040964/MT2.26.4-target28.apk?sign=adfc3b12d64aafedf12d022956c4bd35&t=1779166127) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
