@@ -1088,7 +1088,7 @@ if start_index != -1 and end_index != -1 and end_index > start_index:
         match = re.fullmatch(r"\[(.*?)\]\((.*?)\)", link_cell)
         if match:
             label, url = match.groups()
-            if label == "查看来源":
+            if label in {"查看来源", "前往下载", "最新版本页"}:
                 source_url = url
             else:
                 download_label = label
@@ -1116,6 +1116,43 @@ format_markdown_link() {
   printf '[%s](%s)' "${label}" "${url}"
 }
 
+resolve_proxy_item_page_url() {
+  local item_json="$1"
+  local source_type source_url repo url
+  source_type="$(jq -r '.type' <<<"${item_json}")"
+  case "${source_type}" in
+    github_proxy)
+      source_url="$(jq -r '.source_url // ""' <<<"${item_json}")"
+      if [[ -n "${source_url}" ]]; then
+        printf '%s\n' "${source_url}"
+        return
+      fi
+      repo="$(jq -r '.repo // ""' <<<"${item_json}")"
+      [[ -n "${repo}" ]] && printf 'https://github.com/%s\n' "${repo}"
+      ;;
+    apple_app_store|page_metadata)
+      url="$(jq -r '.url // ""' <<<"${item_json}")"
+      [[ -n "${url}" ]] && printf '%s\n' "${url}"
+      ;;
+    *)
+      ;;
+  esac
+}
+
+build_github_release_tag_url() {
+  local repo="$1"
+  local version="$2"
+  [[ -z "${repo}" || -z "${version}" || "${version}" == "N/A" ]] && return
+  local encoded_version
+  encoded_version="$("${PYTHON_BIN}" - "${version}" <<'PY'
+from urllib.parse import quote
+import sys
+print(quote(sys.argv[1], safe=""))
+PY
+)"
+  printf 'https://github.com/%s/releases/tag/%s\n' "${repo}" "${encoded_version}"
+}
+
 write_group_table() {
   local group_json="$1"
   local output_file="$2"
@@ -1130,9 +1167,10 @@ write_group_table() {
   local index=1
   while IFS= read -r item_json; do
     [[ -z "${item_json}" ]] && continue
-    local source_type result_json name version updated_at download_url asset_name source_url status metadata_only fetch_status item_name existing_row
+    local source_type result_json name version updated_at download_url asset_name source_url status metadata_only fetch_status item_name existing_row proxy_page_url
     source_type="$(jq -r '.type' <<<"${item_json}")"
     item_name="$(jq -r '.name' <<<"${item_json}")"
+    proxy_page_url=""
     result_json=""
     fetch_status=0
     set +e
@@ -1197,21 +1235,72 @@ write_group_table() {
     asset_name="$(jq -r '.asset_name // ""' <<<"${result_json}")"
     source_url="$(jq -r '.source_url // ""' <<<"${result_json}")"
     metadata_only="$(jq -r '.metadata_only // false' <<<"${result_json}")"
+    if [[ "${group_key}" == "proxy_clients" ]]; then
+      proxy_page_url="$(resolve_proxy_item_page_url "${item_json}")"
+      [[ -z "${source_url}" && -n "${proxy_page_url}" ]] && source_url="${proxy_page_url}"
+    fi
 
     if [[ "${status}" != "true" && -n "${existing_row}" ]]; then
       log "Preserving existing ${group_name}: ${item_name}"
+      if [[ "${group_key}" == "proxy_clients" && -n "${proxy_page_url}" ]]; then
+        local preserve_source_url repo release_tag_url existing_version
+        preserve_source_url="${proxy_page_url}"
+        if [[ "${source_type}" == "github_proxy" ]]; then
+          repo="$(jq -r '.repo // ""' <<<"${item_json}")"
+          existing_version="$(jq -r '.version // "N/A"' <<<"${existing_row}")"
+          release_tag_url="$(build_github_release_tag_url "${repo}" "${existing_version}")"
+          [[ -n "${release_tag_url}" ]] && preserve_source_url="${release_tag_url}"
+        fi
+        jq -nc \
+          --argjson index "${index}" \
+          --argjson existing "${existing_row}" \
+          --arg source_url "${preserve_source_url}" \
+          '{
+            index: $index,
+            name: $existing.name,
+            version: $existing.version,
+            updated_at: $existing.updated_at,
+            download_label: "",
+            download_url: "",
+            source_url: $source_url,
+            status: "true"
+          }' >> "${items_file}"
+      else
+        jq -nc \
+          --argjson index "${index}" \
+          --argjson existing "${existing_row}" \
+          '{
+            index: $index,
+            name: $existing.name,
+            version: $existing.version,
+            updated_at: $existing.updated_at,
+            download_label: $existing.download_label,
+            download_url: $existing.download_url,
+            source_url: $existing.source_url,
+            status: ($existing.status | tostring)
+          }' >> "${items_file}"
+      fi
+      index=$((index + 1))
+      continue
+    fi
+
+    if [[ "${group_key}" == "proxy_clients" && "${status}" != "true" && -n "${proxy_page_url}" ]]; then
+      log "Falling back to source page for ${group_name}: ${item_name}"
       jq -nc \
         --argjson index "${index}" \
-        --argjson existing "${existing_row}" \
+        --arg name "${item_name}" \
+        --arg version "${version:-N/A}" \
+        --arg updated_at "${updated_at:-N/A}" \
+        --arg source_url "${proxy_page_url}" \
         '{
           index: $index,
-          name: $existing.name,
-          version: $existing.version,
-          updated_at: $existing.updated_at,
-          download_label: $existing.download_label,
-          download_url: $existing.download_url,
-          source_url: $existing.source_url,
-          status: ($existing.status | tostring)
+          name: $name,
+          version: ($version | if . == "" then "N/A" else . end),
+          updated_at: ($updated_at | if . == "" then "N/A" else . end),
+          download_label: "",
+          download_url: "",
+          source_url: $source_url,
+          status: "true"
         }' >> "${items_file}"
       index=$((index + 1))
       continue
@@ -1272,7 +1361,13 @@ write_group_table() {
       row_url="$(jq -r '.download_url' <<<"${row}")"
       row_source="$(jq -r '.source_url' <<<"${row}")"
       row_status="$(jq -r '.status' <<<"${row}")"
-      if [[ "${row_status}" == "true" && -n "${row_url}" ]]; then
+      if [[ "${group_key}" == "proxy_clients" && "${row_status}" == "true" && ( -n "${row_source}" || -n "${row_url}" ) ]]; then
+        if [[ -n "${row_source}" ]]; then
+          link="$(format_markdown_link "前往下载" "${row_source}")"
+        else
+          link="$(format_markdown_link "前往下载" "${row_url}")"
+        fi
+      elif [[ "${row_status}" == "true" && -n "${row_url}" ]]; then
         link="$(format_markdown_link "${row_label}" "${row_url}")"
       elif [[ -n "${row_source}" ]]; then
         link="$(format_markdown_link "查看来源" "${row_source}")"

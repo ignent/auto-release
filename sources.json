@@ -103,15 +103,15 @@
         {
           "name": "Clash-nyanpasu",
           "type": "github_proxy",
-          "repo": "keiko233/clash-nyanpasu",
-          "source_url": "https://github.com/keiko233/clash-nyanpasu/releases",
+          "repo": "libnyanpasu/clash-nyanpasu",
+          "source_url": "https://github.com/libnyanpasu/clash-nyanpasu/releases",
           "platforms": "Win/Mac/Linux"
         },
         {
           "name": "clash-party",
           "type": "github_proxy",
-          "repo": "pompurin404/mihomo-party",
-          "source_url": "https://github.com/pompurin404/mihomo-party",
+          "repo": "mihomo-party-org/clash-party",
+          "source_url": "https://github.com/mihomo-party-org/clash-party",
           "platforms": "Win/Mac/Linux"
         },
         {
@@ -215,8 +215,8 @@
         {
           "name": "Hiddify",
           "type": "github_proxy",
-          "repo": "hiddify/hiddify-next",
-          "source_url": "https://github.com/hiddify/hiddify-next/releases",
+          "repo": "hiddify/hiddify-app",
+          "source_url": "https://github.com/hiddify/hiddify-app/releases",
           "platforms": "全平台"
         },
         {
@@ -241,24 +241,17 @@
           "platforms": "Android"
         },
         {
-          "name": "Pantheon",
-          "type": "github_proxy",
-          "repo": "Zephyruso/Pantheon",
-          "source_url": "https://github.com/Zephyruso/Pantheon",
-          "platforms": "Windows+linux"
-        },
-        {
           "name": "V2rayU",
           "type": "github_proxy",
           "repo": "yanue/V2rayU",
-          "source_url": "https://github.com/yanue/V2rayU/tree/master",
+          "source_url": "https://github.com/yanue/V2rayU/releases",
           "platforms": "Mac"
         },
         {
           "name": "Karing",
           "type": "github_proxy",
           "repo": "KaringX/karing",
-          "source_url": "https://github.com/KaringX/karing/blob/main/README_cn.md",
+          "source_url": "https://github.com/KaringX/karing/releases",
           "platforms": "Win/Mac/IOS/Android"
         },
         {
@@ -366,7 +359,7 @@
         {
           "name": "vproxy",
           "type": "page_metadata",
-          "url": "https://vproxy.5vnetwork.com/zh",
+          "url": "https://vx.5vnetwork.com/zh",
           "platforms": "IOS、安卓、Win、Mac"
         },
         {
@@ -376,28 +369,24 @@
           "platforms": "IOS"
         },
         {
-          "name": "shadowlink",
-          "type": "static_metadata",
-          "platforms": "IOS"
-        },
-        {
           "name": "Passwall",
-          "type": "static_metadata",
+          "type": "github_proxy",
+          "repo": "Openwrt-Passwall/openwrt-passwall",
+          "source_url": "https://github.com/Openwrt-Passwall/openwrt-passwall",
           "platforms": "路由器"
         },
         {
           "name": "OpenClash",
-          "type": "static_metadata",
-          "platforms": "路由器"
-        },
-        {
-          "name": "padavan固件",
-          "type": "static_metadata",
+          "type": "github_proxy",
+          "repo": "vernesong/OpenClash",
+          "source_url": "https://github.com/vernesong/OpenClash",
           "platforms": "路由器"
         },
         {
           "name": "homeproxy",
-          "type": "static_metadata",
+          "type": "github_proxy",
+          "repo": "immortalwrt/homeproxy",
+          "source_url": "https://github.com/immortalwrt/homeproxy",
           "platforms": "路由器"
         }
       ]
