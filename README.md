@@ -37,7 +37,7 @@
 | 8 | Zygisk Next | v1.3.4 | 2026-04-08T08:11:14Z | [Zygisk-Next-1.3.4-746-d1b76b3-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.3.4/Zygisk-Next-1.3.4-746-d1b76b3-release.zip) |
 <!-- MODULE_TABLE_END -->
 
-### 代理工具
+## Proxy Tools
 
 <!-- PROXY_CLIENT_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
