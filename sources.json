@@ -4,6 +4,8 @@
       "key": "apks",
       "title": "APK 下载",
       "output_dir": "apks",
+      "start_marker": "<!-- APK_TABLE_START -->",
+      "end_marker": "<!-- APK_TABLE_END -->",
       "items": [
         { "name": "Breezy Weather", "type": "github_apk", "repo": "breezy-weather/breezy-weather" },
         { "name": "FlClash", "type": "github_apk", "repo": "chen08209/FlClash" },
@@ -24,6 +26,8 @@
       "key": "modules",
       "title": "模块下载",
       "output_dir": "modules",
+      "start_marker": "<!-- MODULE_TABLE_START -->",
+      "end_marker": "<!-- MODULE_TABLE_END -->",
       "items": [
         {
           "name": "SukiSU Ultra",
@@ -79,6 +83,322 @@
           "repo": "Dr-TSNG/ZygiskNext",
           "extensions": [".zip"],
           "preferred_keywords": ["release"]
+        }
+      ]
+    },
+    {
+      "key": "proxy_clients",
+      "title": "代理工具",
+      "output_dir": "proxy-clients",
+      "start_marker": "<!-- PROXY_CLIENT_TABLE_START -->",
+      "end_marker": "<!-- PROXY_CLIENT_TABLE_END -->",
+      "items": [
+        {
+          "name": "Clash-verge-rev",
+          "type": "github_proxy",
+          "repo": "clash-verge-rev/clash-verge-rev",
+          "source_url": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "Clash-nyanpasu",
+          "type": "github_proxy",
+          "repo": "keiko233/clash-nyanpasu",
+          "source_url": "https://github.com/keiko233/clash-nyanpasu/releases",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "clash-party",
+          "type": "github_proxy",
+          "repo": "pompurin404/mihomo-party",
+          "source_url": "https://github.com/pompurin404/mihomo-party",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "sparkle",
+          "type": "github_proxy",
+          "repo": "xishang0128/sparkle",
+          "source_url": "https://github.com/xishang0128/sparkle",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "AnyPortal",
+          "type": "github_proxy",
+          "repo": "AnyPortal/AnyPortal",
+          "source_url": "https://github.com/AnyPortal/AnyPortal",
+          "platforms": "Win/Mac/Linux/安卓"
+        },
+        {
+          "name": "ClashX.Meta",
+          "type": "github_proxy",
+          "repo": "MetaCubeX/ClashX.Meta",
+          "source_url": "https://github.com/MetaCubeX/ClashX.Meta",
+          "platforms": "Mac"
+        },
+        {
+          "name": "FlClash",
+          "type": "github_proxy",
+          "repo": "chen08209/FlClash",
+          "source_url": "https://github.com/chen08209/FlClash",
+          "platforms": "Win/Mac/Android"
+        },
+        {
+          "name": "Clash Mi",
+          "type": "github_proxy",
+          "repo": "KaringX/clashmi",
+          "source_url": "https://github.com/KaringX/clashmi/releases",
+          "platforms": "Win/Mac/Android/IOS"
+        },
+        {
+          "name": "FlyClash",
+          "type": "github_proxy",
+          "repo": "GtxFury/FlyClash",
+          "source_url": "https://github.com/GtxFury/FlyClash/releases",
+          "platforms": "Windows"
+        },
+        {
+          "name": "clash-rs",
+          "type": "github_proxy",
+          "repo": "Watfaq/clash-rs",
+          "source_url": "https://github.com/Watfaq/clash-rs",
+          "platforms": "全平台"
+        },
+        {
+          "name": "GUI.for.Clash",
+          "type": "github_proxy",
+          "repo": "GUI-for-Cores/GUI.for.Clash",
+          "source_url": "https://github.com/GUI-for-Cores/GUI.for.Clash",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "GUI.for.Singbox",
+          "type": "github_proxy",
+          "repo": "GUI-for-Cores/GUI.for.SingBox",
+          "source_url": "https://github.com/GUI-for-Cores/GUI.for.SingBox",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "singbox for windows",
+          "type": "github_proxy",
+          "repo": "xinggaoya/sing-box-windows",
+          "source_url": "https://github.com/xinggaoya/sing-box-windows",
+          "platforms": "Win"
+        },
+        {
+          "name": "Pandora-Box",
+          "type": "github_proxy",
+          "repo": "snakem982/Pandora-Box",
+          "source_url": "https://github.com/snakem982/Pandora-Box/",
+          "platforms": "Win/Mac"
+        },
+        {
+          "name": "V2rayN",
+          "type": "github_proxy",
+          "repo": "2dust/v2rayN",
+          "source_url": "https://github.com/2dust/v2rayN/releases",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "Throne",
+          "type": "github_proxy",
+          "repo": "throneproj/Throne",
+          "source_url": "https://github.com/throneproj/Throne",
+          "platforms": "Win"
+        },
+        {
+          "name": "netch",
+          "type": "github_proxy",
+          "repo": "NetchX/Netch",
+          "source_url": "https://github.com/NetchX/Netch/releases",
+          "platforms": "Win"
+        },
+        {
+          "name": "Hiddify",
+          "type": "github_proxy",
+          "repo": "hiddify/hiddify-next",
+          "source_url": "https://github.com/hiddify/hiddify-next/releases",
+          "platforms": "全平台"
+        },
+        {
+          "name": "ClashMetaForAndroid",
+          "type": "github_proxy",
+          "repo": "MetaCubeX/ClashMetaForAndroid",
+          "source_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases",
+          "platforms": "Android"
+        },
+        {
+          "name": "V2rayNG",
+          "type": "github_proxy",
+          "repo": "2dust/v2rayNG",
+          "source_url": "https://github.com/2dust/v2rayNG",
+          "platforms": "Android"
+        },
+        {
+          "name": "Nekobox",
+          "type": "github_proxy",
+          "repo": "MatsuriDayo/NekoBoxForAndroid",
+          "source_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+          "platforms": "Android"
+        },
+        {
+          "name": "Pantheon",
+          "type": "github_proxy",
+          "repo": "Zephyruso/Pantheon",
+          "source_url": "https://github.com/Zephyruso/Pantheon",
+          "platforms": "Windows+linux"
+        },
+        {
+          "name": "V2rayU",
+          "type": "github_proxy",
+          "repo": "yanue/V2rayU",
+          "source_url": "https://github.com/yanue/V2rayU/tree/master",
+          "platforms": "Mac"
+        },
+        {
+          "name": "Karing",
+          "type": "github_proxy",
+          "repo": "KaringX/karing",
+          "source_url": "https://github.com/KaringX/karing/blob/main/README_cn.md",
+          "platforms": "Win/Mac/IOS/Android"
+        },
+        {
+          "name": "Clash for Windows",
+          "type": "page_metadata",
+          "url": "https://purehub.app/detail.php?id=2",
+          "platforms": "Win/Mac/Linux"
+        },
+        {
+          "name": "Sing-box",
+          "type": "page_metadata",
+          "url": "https://sing-box.sagernet.org/",
+          "platforms": "全平台"
+        },
+        {
+          "name": "v2raytun",
+          "type": "page_metadata",
+          "url": "https://v2raytun.com/",
+          "platforms": "全平台"
+        },
+        {
+          "name": "Surfboard",
+          "type": "page_metadata",
+          "url": "https://manual.getsurfboard.com",
+          "platforms": "Android"
+        },
+        {
+          "name": "Surge",
+          "type": "page_metadata",
+          "url": "https://nssurge.com",
+          "platforms": "IOS/Mac/Apple TV"
+        },
+        {
+          "name": "Shadowrocket",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/ae/app/shadowrocket/id932747118",
+          "platforms": "IOS/Mac/Apple TV"
+        },
+        {
+          "name": "Egern",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/egern/id1616105820",
+          "platforms": "IOS"
+        },
+        {
+          "name": "Stash",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349",
+          "platforms": "IOS/Apple TV"
+        },
+        {
+          "name": "QuantumultX",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/quantumult-x/id1443988620",
+          "platforms": "IOS/Mac/Apple TV"
+        },
+        {
+          "name": "Loon",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/in/app/loon/id1373567447",
+          "platforms": "IOS/Mac/Apple TV"
+        },
+        {
+          "name": "LanceX",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/lancex/id1536754048",
+          "platforms": "IOS/Mac"
+        },
+        {
+          "name": "Pharos Pro",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/pharos-pro/id1456610173",
+          "platforms": "IOS"
+        },
+        {
+          "name": "strisand",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/streisand/id6450534064?ign-itscg=30200&ign-itsct=apps_box_badge",
+          "platforms": "IOS"
+        },
+        {
+          "name": "Potatso",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/potatso/id1239860606",
+          "platforms": "IOS"
+        },
+        {
+          "name": "kitsunebi",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073",
+          "platforms": "IOS"
+        },
+        {
+          "name": "oneclick",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197",
+          "platforms": "IOS"
+        },
+        {
+          "name": "Spectre",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/spectre-vpn/id1508712998",
+          "platforms": "IOS"
+        },
+        {
+          "name": "vproxy",
+          "type": "page_metadata",
+          "url": "https://vproxy.5vnetwork.com/zh",
+          "platforms": "IOS、安卓、Win、Mac"
+        },
+        {
+          "name": "V2Box",
+          "type": "apple_app_store",
+          "url": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+          "platforms": "IOS"
+        },
+        {
+          "name": "shadowlink",
+          "type": "static_metadata",
+          "platforms": "IOS"
+        },
+        {
+          "name": "Passwall",
+          "type": "static_metadata",
+          "platforms": "路由器"
+        },
+        {
+          "name": "OpenClash",
+          "type": "static_metadata",
+          "platforms": "路由器"
+        },
+        {
+          "name": "padavan固件",
+          "type": "static_metadata",
+          "platforms": "路由器"
+        },
+        {
+          "name": "homeproxy",
+          "type": "static_metadata",
+          "platforms": "路由器"
         }
       ]
     }

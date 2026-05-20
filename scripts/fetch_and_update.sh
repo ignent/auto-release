@@ -7,6 +7,8 @@ README_FILE="${ROOT_DIR}/README.md"
 CONFIG_FILE="${ROOT_DIR}/sources.json"
 DOWNLOAD_ROOT="${ROOT_DIR}/releases"
 TMP_DIR="$(mktemp -d)"
+SKIP_DOWNLOADS="${SKIP_DOWNLOADS:-0}"
+GITHUB_TOKEN="${GITHUB_TOKEN:-}"
 
 cleanup() {
   rm -rf "${TMP_DIR}"
@@ -15,6 +17,22 @@ trap cleanup EXIT
 
 log() {
   printf '[fetch] %s\n' "$*"
+}
+
+resolve_python_bin() {
+  local candidate=""
+  if command -v python3 >/dev/null 2>&1; then
+    candidate="$(command -v python3)"
+    if [[ "${candidate}" != *"/WindowsApps/python3" && "${candidate}" != *"\\WindowsApps\\python3.exe" ]]; then
+      printf '%s\n' "${candidate}"
+      return 0
+    fi
+  fi
+  if command -v python >/dev/null 2>&1; then
+    command -v python
+    return 0
+  fi
+  return 1
 }
 
 require_command() {
@@ -26,7 +44,12 @@ require_command() {
 
 require_command curl
 require_command jq
-require_command python3
+PYTHON_BIN="$(resolve_python_bin)" || {
+  printf 'Missing required command: python3 or python\n' >&2
+  exit 1
+}
+export PYTHONIOENCODING="UTF-8"
+export PYTHONUTF8="1"
 
 mkdir -p "${DOWNLOAD_ROOT}"
 
@@ -104,11 +127,7 @@ download_file() {
 }
 
 json_escape() {
-  python3 -c 'import json,sys; print(json.dumps(sys.stdin.read()))'
-}
-
-fetch_json() {
-  curl --fail --location --silent --show-error --retry 3 "$1"
+  "${PYTHON_BIN}" -c 'import json,sys; print(json.dumps(sys.stdin.read()))'
 }
 
 fetch_text() {
@@ -116,7 +135,7 @@ fetch_text() {
 }
 
 sanitize_filename() {
-  python3 - "$1" <<'PY'
+  "${PYTHON_BIN}" - "$1" <<'PY'
 import re
 import sys
 print(re.sub(r'[\\/:*?"<>|]+', "_", sys.argv[1]))
@@ -124,7 +143,7 @@ PY
 }
 
 extract_filename_from_url() {
-  python3 - "$1" <<'PY'
+  "${PYTHON_BIN}" - "$1" <<'PY'
 from urllib.parse import urlparse, unquote
 import os
 import sys
@@ -135,7 +154,7 @@ PY
 }
 
 parse_last_modified_to_iso() {
-  python3 - "$1" <<'PY'
+  "${PYTHON_BIN}" - "$1" <<'PY'
 from email.utils import parsedate_to_datetime
 import sys
 value = sys.argv[1].strip()
@@ -155,7 +174,7 @@ fetch_antennapod_fallback() {
   page_html_file="$(mktemp "${TMP_DIR}/antennapod-page.XXXXXX.html")"
   printf '%s' "${page_html}" > "${page_html_file}"
   fdroid_url="$(
-    PAGE_HTML_FILE="${page_html_file}" python3 <<'PY'
+    PAGE_HTML_FILE="${page_html_file}" "${PYTHON_BIN}" <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 import os
@@ -189,11 +208,12 @@ else:
     print(match.group(0) if match else "https://f-droid.org/en/packages/de.danoeh.antennapod/")
 PY
   )"
+  [[ -z "${fdroid_url}" ]] && fdroid_url="https://f-droid.org/en/packages/de.danoeh.antennapod/"
   fdroid_html="$(fetch_text "${fdroid_url}")"
   fdroid_html_file="$(mktemp "${TMP_DIR}/antennapod-fdroid.XXXXXX.html")"
   printf '%s' "${fdroid_html}" > "${fdroid_html_file}"
 
-  FDROID_HTML_FILE="${fdroid_html_file}" FDROID_URL="${fdroid_url}" python3 <<'PY'
+  FDROID_HTML_FILE="${fdroid_html_file}" FDROID_URL="${fdroid_url}" "${PYTHON_BIN}" <<'PY'
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 from datetime import datetime
@@ -319,15 +339,52 @@ PY
 fetch_github_release_item() {
   local item_json="$1"
   local mode="$2"
-  local name repo api_url response tag_name published_at html_url release_name extensions preferred avoid
+  local name repo api_url releases_api_url response response_file response_status tag_name published_at html_url release_name extensions preferred avoid
+  local -a github_headers=(
+    -H 'Accept: application/vnd.github+json'
+    -H 'User-Agent: auto-release-script'
+    -H 'X-GitHub-Api-Version: 2022-11-28'
+  )
   name="$(jq -r '.name' <<<"${item_json}")"
   repo="$(jq -r '.repo' <<<"${item_json}")"
   api_url="https://api.github.com/repos/${repo}/releases/latest"
-  response="$(fetch_json "${api_url}")"
-  tag_name="$(jq -r '.tag_name // .name // "N/A"' <<<"${response}")"
-  published_at="$(jq -r '.published_at // ""' <<<"${response}")"
-  html_url="$(jq -nr --arg repo "${repo}" --argjson data "${response}" '$data.html_url // ("https://github.com/" + $repo + "/releases/latest")')"
-  release_name="$(jq -r '.name // ""' <<<"${response}")"
+  releases_api_url="https://api.github.com/repos/${repo}/releases?per_page=1"
+  response_file="$(mktemp "${TMP_DIR}/github-release.XXXXXX.json")"
+  if [[ -n "${GITHUB_TOKEN}" ]]; then
+    github_headers+=(-H "Authorization: Bearer ${GITHUB_TOKEN}")
+  fi
+  response_status="$(curl --location --silent --show-error --retry 3 \
+    "${github_headers[@]}" \
+    --output "${response_file}" \
+    --write-out '%{http_code}' \
+    "${api_url}")"
+
+  if [[ "${response_status}" == "200" ]]; then
+    response="$(cat "${response_file}")"
+  else
+    response_status="$(curl --location --silent --show-error --retry 3 \
+      "${github_headers[@]}" \
+      --output "${response_file}" \
+      --write-out '%{http_code}' \
+      "${releases_api_url}")"
+    if [[ "${response_status}" == "200" && "$(jq -r 'if length > 0 then "true" else "false" end' "${response_file}")" == "true" ]]; then
+      response="$(jq -c '.[0]' "${response_file}")"
+    else
+      response=""
+    fi
+  fi
+
+  html_url="https://github.com/${repo}/releases"
+  if [[ -n "${response}" ]]; then
+    html_url="$(jq -r --arg repo "${repo}" '.html_url // ("https://github.com/" + $repo + "/releases/latest")' <<<"${response}")"
+    tag_name="$(jq -r '.tag_name // .name // "N/A"' <<<"${response}")"
+    published_at="$(jq -r '.published_at // ""' <<<"${response}")"
+    release_name="$(jq -r '.name // ""' <<<"${response}")"
+  else
+    tag_name="N/A"
+    published_at=""
+    release_name=""
+  fi
   extensions="$(jq -c '.extensions // []' <<<"${item_json}")"
   preferred="$(jq -c '.preferred_keywords // []' <<<"${item_json}")"
   avoid="$(jq -c '.avoid_keywords // []' <<<"${item_json}")"
@@ -438,92 +495,76 @@ fetch_mt_item() {
   html_file="$(mktemp "${TMP_DIR}/mt-page.XXXXXX.html")"
   printf '%s' "${html}" > "${html_file}"
 
-  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" python3 <<'PY'
-from html.parser import HTMLParser
+  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" "${PYTHON_BIN}" <<'PY'
 from urllib.parse import urljoin
 import json
 import os
 import re
 
-with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
-    html = fp.read()
 page_url = os.environ["PAGE_URL"]
 item_name = os.environ["ITEM_NAME"]
-text = re.sub(r"<[^>]+>", "\n", html)
-version_match = re.search(r"版本名[:：]\s*(v[^\s]+)", text)
-date_match = re.search(r"发布时间[:：]\s*([0-9]{4}-[0-9]{2}-[0-9]{2})", text)
-version = version_match.group(1) if version_match else "N/A"
-updated_at = date_match.group(1) if date_match else ""
 
-keywords = ("本地下载（正式版 TargetSdk28）", "正式版 TargetSdk28", "正式版 T28", "TargetSdk28")
+try:
+    with open(os.environ["PAGE_HTML_FILE"], "r", encoding="utf-8") as fp:
+        html = fp.read()
 
-class Parser(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.links = []
-        self.current_href = None
-        self.buffer = []
+    text = re.sub(r"<[^>]+>", "\n", html)
+    version_match = re.search(r"版本名[:：]\s*(v[^\s<]+)", text)
+    date_match = re.search(r"发布时间[:：]\s*([0-9]{4}-[0-9]{2}-[0-9]{2})", text)
+    version = version_match.group(1) if version_match else "N/A"
+    updated_at = date_match.group(1) if date_match else ""
 
-    def handle_starttag(self, tag, attrs):
-        if tag == "a":
-            self.current_href = dict(attrs).get("href")
-            self.buffer = []
-
-    def handle_data(self, data):
-        if self.current_href is not None:
-            self.buffer.append(data)
-
-    def handle_endtag(self, tag):
-        if tag == "a" and self.current_href is not None:
-            text = "".join(self.buffer).strip()
-            self.links.append((text, self.current_href))
-            self.current_href = None
-            self.buffer = []
-
-parser = Parser()
-parser.feed(html)
-
-candidates = []
-for text_value, href in parser.links:
-    if any(keyword in text_value for keyword in keywords):
+    candidates = []
+    for href, label in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>\s*<b>\s*&gt;&gt;\s*([^<]+)\s*</b>\s*</a>', html, re.S):
+        if "TargetSdk28" not in label:
+            continue
         score = 0
-        if "正式版" in text_value:
+        if "正式版" in label:
             score += 50
-        if "TargetSdk28" in text_value:
+        if "TargetSdk28" in label:
             score += 40
-        if "本地下载" in text_value:
+        if "本地下载" in label:
             score += 10
-        if "共存" in text_value:
+        if "共存" in label:
             score -= 100
-        candidates.append((score, text_value, urljoin(page_url, href)))
+        candidates.append((score, label.strip(), urljoin(page_url, href.strip())))
 
-if not candidates:
+    if not candidates:
+        print(json.dumps({
+            "ok": False,
+            "name": item_name,
+            "version": version,
+            "updated_at": updated_at,
+            "download_url": "",
+            "asset_name": "",
+            "source_url": page_url,
+            "error": "TargetSdk28 link not found"
+        }, ensure_ascii=False))
+    else:
+        candidates.sort(key=lambda item: item[0], reverse=True)
+        _, _, entry_url = candidates[0]
+        version_suffix = version[1:] if version.startswith("v") else version
+        asset_name = f"MT{version_suffix}-target28.apk" if version_suffix and version_suffix != "N/A" else "MT-target28.apk"
+        print(json.dumps({
+            "ok": True,
+            "name": item_name,
+            "version": version,
+            "updated_at": updated_at,
+            "download_url": entry_url,
+            "asset_name": asset_name,
+            "source_url": page_url
+        }, ensure_ascii=False))
+except Exception as exc:
     print(json.dumps({
         "ok": False,
         "name": item_name,
-        "version": version,
-        "updated_at": updated_at,
+        "version": "N/A",
+        "updated_at": "",
         "download_url": "",
         "asset_name": "",
         "source_url": page_url,
-        "error": "TargetSdk28 link not found"
+        "error": f"MT parser failed: {exc}"
     }, ensure_ascii=False))
-    raise SystemExit
-
-candidates.sort(key=lambda item: item[0], reverse=True)
-_, _, entry_url = candidates[0]
-version_suffix = version[1:] if version.startswith("v") else version
-asset_name = f"MT{version_suffix}-target28.apk" if version_suffix and version_suffix != "N/A" else "MT-target28.apk"
-
-print(json.dumps({
-    "ok": True,
-    "name": item_name,
-    "version": version,
-    "updated_at": updated_at,
-    "download_url": entry_url,
-    "asset_name": asset_name,
-    "source_url": page_url
-}, ensure_ascii=False))
 PY
 }
 
@@ -536,7 +577,7 @@ fetch_telegram_lsposed_item() {
   html_file="$(mktemp "${TMP_DIR}/lsposed-page.XXXXXX.html")"
   printf '%s' "${html}" > "${html_file}"
 
-  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" python3 <<'PY'
+  PAGE_HTML_FILE="${html_file}" PAGE_URL="${page_url}" ITEM_NAME="${name}" "${PYTHON_BIN}" <<'PY'
 import json
 import os
 import re
@@ -578,6 +619,497 @@ else:
 PY
 }
 
+iterate_group_items() {
+  local group_json="$1"
+  jq -c '.items[]?' <<<"${group_json}"
+}
+
+fetch_github_proxy_item() {
+  local item_json="$1"
+  ITEM_JSON="${item_json}" "${PYTHON_BIN}" <<'PY'
+import json
+import os
+import urllib.error
+import urllib.request
+
+item = json.loads(os.environ["ITEM_JSON"])
+name = item.get("name", "")
+repo = item.get("repo", "").strip()
+platforms = item.get("platforms", "")
+source_url = item.get("source_url") or (f"https://github.com/{repo}" if repo else "")
+github_token = os.environ.get("GITHUB_TOKEN", "").strip()
+
+
+def emit(payload):
+    print(json.dumps(payload, ensure_ascii=False))
+
+
+def get_json(url):
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "auto-release-script",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    if github_token:
+        headers["Authorization"] = f"Bearer {github_token}"
+    request = urllib.request.Request(
+        url,
+        headers=headers,
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return response.status, json.load(response)
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        try:
+            return exc.code, json.loads(body)
+        except Exception:
+            return exc.code, {}
+    except Exception as exc:
+        return 0, {"error": str(exc)}
+
+
+def classify_platform(text):
+    lowered = text.lower()
+    has_android = "android" in lowered or "安卓" in text
+    has_windows = "windows" in lowered or "win" in lowered
+    has_linux = "linux" in lowered
+    has_mac = "mac" in lowered
+    count = sum((has_android, has_windows, has_linux, has_mac))
+    if count != 1:
+        return "multi"
+    if has_android:
+        return "android"
+    if has_windows:
+        return "windows"
+    if has_linux:
+        return "linux"
+    return "mac"
+
+
+RULES = {
+    "android": {
+        "exts": [".apk"],
+        "prefer": ["arm64-v8a", "arm64", "universal", "android", "release"],
+        "avoid": ["x86", "armeabi-v7a", "debug"],
+    },
+    "windows": {
+        "exts": [".exe", ".msi", ".zip", ".7z"],
+        "prefer": ["setup", "installer", "x64", "amd64", "win", "portable"],
+        "avoid": ["debug", "symbols", "pdb", "arm64"],
+    },
+    "linux": {
+        "exts": [".appimage", ".deb", ".rpm", ".tar.gz", ".tgz", ".tar.xz", ".zip"],
+        "prefer": ["linux", "amd64", "x86_64"],
+        "avoid": ["debug", "arm64", "aarch64"],
+    },
+    "mac": {
+        "exts": [".dmg", ".pkg", ".zip"],
+        "prefer": ["mac", "darwin", "universal", "apple"],
+        "avoid": ["debug"],
+    },
+}
+
+
+def score_asset(asset_name, platform_kind):
+    lowered = asset_name.lower()
+    if platform_kind == "multi":
+        return -9999
+
+    rule = RULES[platform_kind]
+    base_score = None
+    for index, extension in enumerate(rule["exts"]):
+        if lowered.endswith(extension):
+            base_score = 200 - (index * 20)
+            break
+    if base_score is None:
+        return -9999
+
+    score = base_score
+    for keyword in rule["prefer"]:
+        if keyword in lowered:
+            score += 15
+    for keyword in rule["avoid"]:
+        if keyword in lowered:
+            score -= 40
+    if "release" in lowered:
+        score += 10
+    if "debug" in lowered:
+        score -= 50
+    return score
+
+
+if not repo:
+    emit({
+        "ok": False,
+        "name": name,
+        "version": "N/A",
+        "updated_at": "",
+        "download_url": "",
+        "asset_name": "",
+        "source_url": source_url,
+        "error": "GitHub repository could not be resolved",
+    })
+    raise SystemExit
+
+release = None
+status, payload = get_json(f"https://api.github.com/repos/{repo}/releases/latest")
+if status == 200 and isinstance(payload, dict) and payload.get("id"):
+    release = payload
+
+if release is None:
+    status, payload = get_json(f"https://api.github.com/repos/{repo}/releases?per_page=1")
+    if status == 200 and isinstance(payload, list) and payload:
+        release = payload[0]
+
+if release is not None:
+    release_url = release.get("html_url") or f"https://github.com/{repo}/releases"
+    version = release.get("tag_name") or release.get("name") or "N/A"
+    updated_at = release.get("published_at") or release.get("created_at") or ""
+    assets = release.get("assets") or []
+    platform_kind = classify_platform(platforms)
+
+    chosen_asset = None
+    if platform_kind == "multi":
+        if len(assets) == 1:
+            chosen_asset = assets[0]
+    else:
+        best_score = -9999
+        for asset in assets:
+            asset_name = asset.get("name") or ""
+            asset_url = asset.get("browser_download_url") or ""
+            if not asset_name or not asset_url:
+                continue
+            score = score_asset(asset_name, platform_kind)
+            if score > best_score:
+                best_score = score
+                chosen_asset = asset
+
+    if chosen_asset and chosen_asset.get("browser_download_url"):
+        emit({
+            "ok": True,
+            "name": name,
+            "version": version,
+            "updated_at": updated_at,
+            "download_url": chosen_asset.get("browser_download_url", ""),
+            "asset_name": chosen_asset.get("name", ""),
+            "source_url": release_url,
+        })
+    else:
+        emit({
+            "ok": True,
+            "name": name,
+            "version": version,
+            "updated_at": updated_at,
+            "download_url": "",
+            "asset_name": "",
+            "source_url": release_url,
+            "metadata_only": True,
+        })
+    raise SystemExit
+
+status, payload = get_json(f"https://api.github.com/repos/{repo}/tags?per_page=1")
+if status == 200 and isinstance(payload, list) and payload:
+    latest_tag = payload[0]
+    version = latest_tag.get("name") or "N/A"
+    updated_at = ""
+    commit_sha = ((latest_tag.get("commit") or {}).get("sha") or "").strip()
+    if commit_sha:
+        commit_status, commit_payload = get_json(f"https://api.github.com/repos/{repo}/commits/{commit_sha}")
+        if commit_status == 200 and isinstance(commit_payload, dict):
+            updated_at = (((commit_payload.get("commit") or {}).get("committer") or {}).get("date") or "")
+    emit({
+        "ok": True,
+        "name": name,
+        "version": version,
+        "updated_at": updated_at,
+        "download_url": "",
+        "asset_name": "",
+        "source_url": f"https://github.com/{repo}/tags",
+        "metadata_only": True,
+    })
+    raise SystemExit
+
+status, payload = get_json(f"https://api.github.com/repos/{repo}/commits?per_page=1")
+if status == 200 and isinstance(payload, list) and payload:
+    latest_commit = payload[0]
+    emit({
+        "ok": True,
+        "name": name,
+        "version": ((latest_commit.get("sha") or "")[:7] or "N/A"),
+        "updated_at": (((latest_commit.get("commit") or {}).get("committer") or {}).get("date") or ""),
+        "download_url": "",
+        "asset_name": "",
+        "source_url": latest_commit.get("html_url") or source_url,
+        "metadata_only": True,
+    })
+    raise SystemExit
+
+emit({
+    "ok": False,
+    "name": name,
+    "version": "N/A",
+    "updated_at": "",
+    "download_url": "",
+    "asset_name": "",
+    "source_url": source_url,
+    "error": "GitHub metadata lookup failed",
+})
+PY
+}
+
+fetch_apple_app_store_item() {
+  local item_json="$1"
+  ITEM_JSON="${item_json}" "${PYTHON_BIN}" <<'PY'
+import json
+import os
+import re
+import urllib.error
+import urllib.request
+
+item = json.loads(os.environ["ITEM_JSON"])
+name = item.get("name", "")
+url = item.get("url", "")
+
+
+def emit(payload):
+    print(json.dumps(payload, ensure_ascii=False))
+
+
+def get_json(request_url):
+    request = urllib.request.Request(
+        request_url,
+        headers={"Accept": "application/json", "User-Agent": "auto-release-script"},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return response.status, json.load(response)
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        try:
+            return exc.code, json.loads(body)
+        except Exception:
+            return exc.code, {}
+    except Exception as exc:
+        return 0, {"error": str(exc)}
+
+
+match = re.search(r"/([a-z]{2})/app/.+/id(\d+)", url)
+fallback_match = re.search(r"/id(\d+)", url)
+country = match.group(1) if match else "us"
+app_id = match.group(2) if match else (fallback_match.group(1) if fallback_match else "")
+
+if not app_id:
+    emit({
+        "ok": False,
+        "name": name,
+        "version": "N/A",
+        "updated_at": "",
+        "download_url": "",
+        "asset_name": "",
+        "source_url": url,
+        "error": "App Store app id not found",
+    })
+    raise SystemExit
+
+lookup_urls = [
+    f"https://itunes.apple.com/lookup?id={app_id}&country={country}",
+    f"https://itunes.apple.com/lookup?id={app_id}",
+]
+
+result = None
+for lookup_url in lookup_urls:
+    status, payload = get_json(lookup_url)
+    if status == 200 and isinstance(payload, dict) and payload.get("resultCount"):
+        result = payload["results"][0]
+        break
+
+if result is None:
+    emit({
+        "ok": False,
+        "name": name,
+        "version": "N/A",
+        "updated_at": "",
+        "download_url": "",
+        "asset_name": "",
+        "source_url": url,
+        "error": "App Store lookup failed",
+    })
+    raise SystemExit
+
+emit({
+    "ok": True,
+    "name": name,
+    "version": result.get("version") or "N/A",
+    "updated_at": result.get("currentVersionReleaseDate") or result.get("releaseDate") or "",
+    "download_url": "",
+    "asset_name": "",
+    "source_url": result.get("trackViewUrl") or url,
+    "metadata_only": True,
+})
+PY
+}
+
+fetch_page_metadata_item() {
+  local item_json="$1"
+  ITEM_JSON="${item_json}" "${PYTHON_BIN}" <<'PY'
+import html
+import json
+import os
+import re
+import urllib.error
+import urllib.request
+from email.utils import parsedate_to_datetime
+
+item = json.loads(os.environ["ITEM_JSON"])
+name = item.get("name", "")
+url = item.get("url", "")
+version_override = item.get("version", "")
+
+
+def emit(payload):
+    print(json.dumps(payload, ensure_ascii=False))
+
+
+def normalize_last_modified(value):
+    value = (value or "").strip()
+    if not value:
+        return ""
+    try:
+        return parsedate_to_datetime(value).isoformat()
+    except Exception:
+        return value
+
+
+def extract_version(text):
+    for pattern in (
+        r"(?i)(?:version|版本|ver\.?)\s*[:：]?\s*(v?\d+(?:\.\d+){1,5}(?:[-._a-z0-9]+)?)",
+        r"(?<!\w)(v\d+(?:\.\d+){1,5}(?:[-._a-z0-9]+)?)(?!\w)",
+        r"(?<!\w)(\d+(?:\.\d+){2,5}(?:[-._a-z0-9]+)?)(?!\w)",
+    ):
+        match = re.search(pattern, text)
+        if match:
+            return match.group(1)
+    return ""
+
+
+request = urllib.request.Request(url, headers={"User-Agent": "auto-release-script"})
+try:
+    with urllib.request.urlopen(request, timeout=30) as response:
+        status = response.status
+        final_url = response.geturl()
+        headers = response.headers
+        body = response.read(250000).decode("utf-8", errors="ignore")
+except urllib.error.HTTPError as exc:
+    status = exc.code
+    final_url = exc.geturl() or url
+    headers = exc.headers
+    body = exc.read(250000).decode("utf-8", errors="ignore")
+except Exception as exc:
+    emit({
+        "ok": False,
+        "name": name,
+        "version": version_override or "N/A",
+        "updated_at": "",
+        "download_url": "",
+        "asset_name": "",
+        "source_url": url,
+        "error": str(exc),
+    })
+    raise SystemExit
+
+title_match = re.search(r"<title[^>]*>(.*?)</title>", body, re.I | re.S)
+title_text = html.unescape(title_match.group(1)).strip() if title_match else ""
+plain_text = re.sub(r"<[^>]+>", " ", body)
+plain_text = html.unescape(re.sub(r"\s+", " ", plain_text)).strip()
+version = version_override or extract_version(title_text) or extract_version(plain_text[:12000]) or "N/A"
+
+emit({
+    "ok": 200 <= status < 400,
+    "name": name,
+    "version": version,
+    "updated_at": normalize_last_modified(headers.get("Last-Modified", "")),
+    "download_url": "",
+    "asset_name": "",
+    "source_url": final_url or url,
+    "metadata_only": True,
+    "error": "" if 200 <= status < 400 else f"HTTP {status}",
+})
+PY
+}
+
+fetch_static_metadata_item() {
+  local item_json="$1"
+  jq -n \
+    --arg name "$(jq -r '.name' <<<"${item_json}")" \
+    '{ok:false,name:$name,version:"N/A",updated_at:"",download_url:"",asset_name:"",source_url:"",error:"No source URL available"}'
+}
+
+extract_existing_group_rows() {
+  local group_json="$1"
+  local output_file="$2"
+  local start_marker end_marker
+  start_marker="$(jq -r '.start_marker' <<<"${group_json}")"
+  end_marker="$(jq -r '.end_marker' <<<"${group_json}")"
+
+  "${PYTHON_BIN}" - "${README_FILE}" "${start_marker}" "${end_marker}" "${output_file}" <<'PY'
+from pathlib import Path
+import json
+import re
+import sys
+
+readme_path = Path(sys.argv[1])
+start_marker = sys.argv[2]
+end_marker = sys.argv[3]
+output_path = Path(sys.argv[4])
+
+text = readme_path.read_text(encoding="utf-8")
+start_index = text.find(start_marker)
+end_index = text.find(end_marker)
+rows = []
+
+if start_index != -1 and end_index != -1 and end_index > start_index:
+    section = text[start_index + len(start_marker):end_index]
+    for line in section.splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) != 5:
+            continue
+        if cells[0] == "序号" or cells[0].replace("-", "") == "":
+            continue
+
+        _, name, version, updated_at, link_cell = cells
+        download_label = ""
+        download_url = ""
+        source_url = ""
+        status = False
+
+        match = re.fullmatch(r"\[(.*?)\]\((.*?)\)", link_cell)
+        if match:
+            label, url = match.groups()
+            if label == "查看来源":
+                source_url = url
+            else:
+                download_label = label
+                download_url = url
+                status = True
+        rows.append({
+            "name": name,
+            "version": version,
+            "updated_at": updated_at,
+            "download_label": download_label,
+            "download_url": download_url,
+            "source_url": source_url,
+            "status": status,
+        })
+
+with output_path.open("w", encoding="utf-8") as fp:
+    for row in rows:
+        fp.write(json.dumps(row, ensure_ascii=False) + "\n")
+PY
+}
+
 format_markdown_link() {
   local label="$1"
   local url="$2"
@@ -587,37 +1119,76 @@ format_markdown_link() {
 write_group_table() {
   local group_json="$1"
   local output_file="$2"
-  local group_name items_file
+  local group_name items_file group_key existing_rows_file
   group_name="$(jq -r '.title' <<<"${group_json}")"
-  items_file="${TMP_DIR}/items.jsonl"
+  group_key="$(jq -r '.key' <<<"${group_json}")"
+  items_file="${TMP_DIR}/${group_key}_items.jsonl"
+  existing_rows_file="${TMP_DIR}/${group_key}_existing.jsonl"
   : > "${items_file}"
+  extract_existing_group_rows "${group_json}" "${existing_rows_file}"
 
   local index=1
   while IFS= read -r item_json; do
     [[ -z "${item_json}" ]] && continue
-    local source_type result_json name version updated_at download_url asset_name source_url status metadata_only
+    local source_type result_json name version updated_at download_url asset_name source_url status metadata_only fetch_status item_name existing_row
     source_type="$(jq -r '.type' <<<"${item_json}")"
+    item_name="$(jq -r '.name' <<<"${item_json}")"
+    result_json=""
+    fetch_status=0
+    set +e
     case "${source_type}" in
       github_apk)
         result_json="$(fetch_github_release_item "${item_json}" "github_apk")"
+        fetch_status=$?
         ;;
       github_asset)
         result_json="$(fetch_github_release_item "${item_json}" "github_asset")"
+        fetch_status=$?
         ;;
       direct)
         result_json="$(fetch_direct_item "${item_json}")"
+        fetch_status=$?
         ;;
       mt_manager_t28)
         result_json="$(fetch_mt_item "${item_json}")"
+        fetch_status=$?
         ;;
       telegram_lsposed)
         result_json="$(fetch_telegram_lsposed_item "${item_json}")"
+        fetch_status=$?
+        ;;
+      github_proxy)
+        result_json="$(fetch_github_proxy_item "${item_json}")"
+        fetch_status=$?
+        ;;
+      apple_app_store)
+        result_json="$(fetch_apple_app_store_item "${item_json}")"
+        fetch_status=$?
+        ;;
+      page_metadata)
+        result_json="$(fetch_page_metadata_item "${item_json}")"
+        fetch_status=$?
+        ;;
+      static_metadata)
+        result_json="$(fetch_static_metadata_item "${item_json}")"
+        fetch_status=$?
         ;;
       *)
-        result_json="$(jq -n --arg name "$(jq -r '.name' <<<"${item_json}")" --arg type "${source_type}" '{ok:false,name:$name,version:"N/A",updated_at:"",download_url:"",asset_name:"",source_url:"",error:("Unsupported source type: " + $type)}')"
+        result_json="$(jq -n --arg name "${item_name}" --arg type "${source_type}" '{ok:false,name:$name,version:"N/A",updated_at:"",download_url:"",asset_name:"",source_url:"",error:("Unsupported source type: " + $type)}')"
+        fetch_status=0
         ;;
     esac
+    set -e
 
+    if [[ "${fetch_status}" -ne 0 || -z "${result_json}" ]] || ! jq -e . >/dev/null 2>&1 <<<"${result_json}"; then
+      result_json="$(jq -n \
+        --arg name "${item_name}" \
+        --arg type "${source_type}" \
+        --arg error "Fetcher exited with status ${fetch_status}" \
+        '{ok:false,name:$name,version:"N/A",updated_at:"",download_url:"",asset_name:"",source_url:"",error:($type + ": " + $error)}')"
+    fi
+
+    existing_row="$(jq -c --arg name "${item_name}" 'select(.name == $name)' "${existing_rows_file}" | head -n 1)"
     status="$(jq -r '.ok' <<<"${result_json}")"
     name="$(jq -r '.name' <<<"${result_json}")"
     version="$(jq -r '.version // "N/A"' <<<"${result_json}")"
@@ -627,14 +1198,37 @@ write_group_table() {
     source_url="$(jq -r '.source_url // ""' <<<"${result_json}")"
     metadata_only="$(jq -r '.metadata_only // false' <<<"${result_json}")"
 
+    if [[ "${status}" != "true" && -n "${existing_row}" ]]; then
+      log "Preserving existing ${group_name}: ${item_name}"
+      jq -nc \
+        --argjson index "${index}" \
+        --argjson existing "${existing_row}" \
+        '{
+          index: $index,
+          name: $existing.name,
+          version: $existing.version,
+          updated_at: $existing.updated_at,
+          download_label: $existing.download_label,
+          download_url: $existing.download_url,
+          source_url: $existing.source_url,
+          status: ($existing.status | tostring)
+        }' >> "${items_file}"
+      index=$((index + 1))
+      continue
+    fi
+
     if [[ "${status}" == "true" && "${metadata_only}" != "true" && -n "${download_url}" ]]; then
       local download_dir filename safe_name
       download_dir="${DOWNLOAD_ROOT}/$(jq -r '.output_dir' <<<"${group_json}")"
       mkdir -p "${download_dir}"
-      safe_name="$(sanitize_filename "${name}")"
-      filename="${download_dir}/${safe_name}__${asset_name}"
-      log "Downloading ${group_name}: ${name}"
-      download_file "${download_url}" "${filename}"
+      if [[ "${SKIP_DOWNLOADS}" == "1" ]]; then
+        log "Skipping binary download for ${group_name}: ${name} (SKIP_DOWNLOADS=1)"
+      else
+        safe_name="$(sanitize_filename "${name}")"
+        filename="${download_dir}/${safe_name}__${asset_name}"
+        log "Downloading ${group_name}: ${name}"
+        download_file "${download_url}" "${filename}"
+      fi
     elif [[ "${status}" == "true" && "${metadata_only}" == "true" ]]; then
       log "Resolved ${group_name}: ${name} (metadata only)"
     else
@@ -662,7 +1256,7 @@ write_group_table() {
       }' >> "${items_file}"
 
     index=$((index + 1))
-  done < <(jq -c '.items[]' <<<"${group_json}")
+  done < <(iterate_group_items "${group_json}")
 
   {
     echo "| 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |"
@@ -695,7 +1289,7 @@ replace_section() {
   local start_marker="$2"
   local end_marker="$3"
   local content_file="$4"
-  python3 - "$file" "$start_marker" "$end_marker" "$content_file" <<'PY'
+  "${PYTHON_BIN}" - "$file" "$start_marker" "$end_marker" "$content_file" <<'PY'
 from pathlib import Path
 import sys
 
@@ -717,17 +1311,25 @@ PY
 }
 
 main() {
-  local apk_table="${TMP_DIR}/apk_table.md"
-  local module_table="${TMP_DIR}/module_table.md"
+  local group_json group_key table_file output_dir start_marker end_marker
 
-  rm -rf "${DOWNLOAD_ROOT}/apks" "${DOWNLOAD_ROOT}/modules"
-  mkdir -p "${DOWNLOAD_ROOT}/apks" "${DOWNLOAD_ROOT}/modules"
+  while IFS= read -r group_json; do
+    [[ -z "${group_json}" ]] && continue
+    output_dir="${DOWNLOAD_ROOT}/$(jq -r '.output_dir' <<<"${group_json}")"
+    rm -rf "${output_dir}"
+    mkdir -p "${output_dir}"
+  done < <(jq -c '.groups[]' "${CONFIG_FILE}")
 
-  write_group_table "$(jq -c '.groups[] | select(.key == "apks")' "${CONFIG_FILE}")" "${apk_table}"
-  write_group_table "$(jq -c '.groups[] | select(.key == "modules")' "${CONFIG_FILE}")" "${module_table}"
+  while IFS= read -r group_json; do
+    [[ -z "${group_json}" ]] && continue
+    group_key="$(jq -r '.key' <<<"${group_json}")"
+    table_file="${TMP_DIR}/${group_key}_table.md"
+    start_marker="$(jq -r '.start_marker' <<<"${group_json}")"
+    end_marker="$(jq -r '.end_marker' <<<"${group_json}")"
 
-  replace_section "${README_FILE}" "<!-- APK_TABLE_START -->" "<!-- APK_TABLE_END -->" "${apk_table}"
-  replace_section "${README_FILE}" "<!-- MODULE_TABLE_START -->" "<!-- MODULE_TABLE_END -->" "${module_table}"
+    write_group_table "${group_json}" "${table_file}"
+    replace_section "${README_FILE}" "${start_marker}" "${end_marker}" "${table_file}"
+  done < <(jq -c '.groups[]' "${CONFIG_FILE}")
 
   log "README.md updated."
 }
