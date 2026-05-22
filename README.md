@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.2 | 2026-03-09T10:11:49Z | [SukiSU_v4.1.2_40545-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.2/SukiSU_v4.1.2_40545-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-20T16:30:59+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-21T11:42:57+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.0-235 | 2026-05-20T06:06:21Z | [TEESimulator-RS-v6.0.0-235-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-235/TEESimulator-RS-v6.0.0-235-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -56,8 +56,8 @@
 | 12 | GUI.for.Singbox | v1.24.1 | 2026-05-16T15:01:56Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.24.1) |
 | 13 | singbox for windows | v2.3.0 | 2026-04-26T07:32:50Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.0) |
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
-| 15 | V2rayN | 7.21.3 | 2026-05-10T10:00:06Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.21.3) |
-| 16 | Throne | 1.1.3 | 2026-05-18T20:47:22Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.3) |
+| 15 | V2rayN | 7.22.2 | 2026-05-18T09:37:56Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.2) |
+| 16 | Throne | 1.1.4 | 2026-05-21T10:40:05Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.4) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.28 | 2026-05-16T15:20:24Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.28) |
@@ -70,10 +70,10 @@
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-05-10T14:26:42+00:00 | [前往下载](https://nssurge.com) |
-| 29 | Shadowrocket | 2.2.83 | 2026-05-20T09:06:07Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
-| 30 | Egern | 2.18.0 | 2026-04-12T21:50:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
+| 29 | Shadowrocket | 2.2.84 | 2026-05-21T21:44:24Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
+| 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
-| 32 | QuantumultX | 1.5.5 | 2026-01-14T00:08:47Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
+| 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.3.9 | 2026-03-31T18:48:42Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.55 | 2026-03-27T23:32:46Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048?uo=4) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
