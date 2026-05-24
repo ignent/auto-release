@@ -15,7 +15,7 @@
 | 6 | PiliPlus | 2.0.7.2 | 2026-05-15T03:21:02Z | [PiliPlus_android_2.0.7-ad6c0e0d1+4956_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.7.2/PiliPlus_android_2.0.7-ad6c0e0d1%2B4956_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1409 | 2026-05-12T12:08:55Z | [ServerBox_v1.0.1409_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1409/ServerBox_v1.0.1409_arm64.apk) |
 | 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
-| 9 | NewPipe | v0.28.6 | 2026-05-01T16:48:10Z | [NewPipe_v0.28.6.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.6/NewPipe_v0.28.6.apk) |
+| 9 | NewPipe | v0.28.7 | 2026-05-23T20:03:53Z | [NewPipe_v0.28.7.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.7/NewPipe_v0.28.7.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
 | 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.2 | 2026-03-09T10:11:49Z | [SukiSU_v4.1.2_40545-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.2/SukiSU_v4.1.2_40545-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-22T18:45:12+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-24T02:28:27+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.0-235 | 2026-05-20T06:06:21Z | [TEESimulator-RS-v6.0.0-235-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-235/TEESimulator-RS-v6.0.0-235-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -70,7 +70,7 @@
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-05-10T14:26:42+00:00 | [前往下载](https://nssurge.com) |
-| 29 | Shadowrocket | 2.2.84 | 2026-05-21T21:44:24Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
+| 29 | Shadowrocket | 2.2.85 | 2026-05-22T12:16:56Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
