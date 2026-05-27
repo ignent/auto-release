@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
 | 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
-| 13 | MT管理器 | v2.26.4 | 2026-04-09 | [MT2.26.4-target28.apk](https://pan.mt2.cn/apk/26040964/target28) |
+| 13 | MT管理器 | v2.26.5 | 2026-05-26 | [MT2.26.5-target28.apk](https://pan.mt2.cn/apk/26052685/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
