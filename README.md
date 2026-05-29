@@ -27,8 +27,8 @@
 <!-- MODULE_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | SukiSU Ultra | v4.1.2 | 2026-03-09T10:11:49Z | [SukiSU_v4.1.2_40545-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.2/SukiSU_v4.1.2_40545-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-27T13:14:52+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 1 | SukiSU Ultra | v4.1.3 | 2026-05-28T09:59:05Z | [SukiSU_v4.1.3_40790-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40790-release.apk) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-28T12:59:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.0-235 | 2026-05-20T06:06:21Z | [TEESimulator-RS-v6.0.0-235-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-235/TEESimulator-RS-v6.0.0-235-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -70,7 +70,7 @@
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-05-10T14:26:42+00:00 | [前往下载](https://nssurge.com) |
-| 29 | Shadowrocket | 2.2.85 | 2026-05-22T12:16:56Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
+| 29 | Shadowrocket | 2.2.86 | 2026-05-27T10:24:06Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
