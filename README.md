@@ -8,7 +8,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Breezy Weather | v6.2.0 | 2026-05-01T19:21:42Z | [breezy-weather-arm64-v8a-v6.2.0_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.0/breezy-weather-arm64-v8a-v6.2.0_standard.apk) |
-| 2 | FlClash | v0.8.92 | 2026-02-02T02:38:52Z | [FlClash-0.8.92-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.92/FlClash-0.8.92-android-arm64-v8a.apk) |
+| 2 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [FlClash-0.8.93-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.93/FlClash-0.8.93-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-05-28T09:59:05Z | [SukiSU_v4.1.3_40790-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40790-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-28T12:59:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-05-30T01:48:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.0-235 | 2026-05-20T06:06:21Z | [TEESimulator-RS-v6.0.0-235-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-235/TEESimulator-RS-v6.0.0-235-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -48,7 +48,7 @@
 | 4 | sparkle | 1.26.4 | 2026-04-25T03:29:29Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.4) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.35 | 2026-05-17T03:38:09Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.35) |
-| 7 | FlClash | v0.8.92 | 2026-02-02T02:38:52Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.92) |
+| 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
 | 8 | Clash Mi | v1.0.23.904 | 2026-05-08T05:31:24Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.23.904) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.6 | 2026-05-18T00:07:36Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.6) |
@@ -69,7 +69,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-05-12T15:07:27+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-05-10T14:26:42+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-05-29T07:44:33+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.86 | 2026-05-27T10:24:06Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -85,6 +85,6 @@
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 9.8.9 | 2026-03-09T00:35:19Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.5.20-1 | 2026-05-20T07:39:06Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.5.20-1) |
-| 44 | OpenClash | v0.47.088 | 2026-04-10T12:34:34Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.088) |
+| 44 | OpenClash | v0.47.096 | 2026-05-30T01:45:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.096) |
 | 45 | homeproxy | 29f61ca | 2026-04-24T08:49:21Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/29f61caf303cd3a7051e26055dc97fdf4890e2b0) |
 <!-- PROXY_CLIENT_TABLE_END -->
