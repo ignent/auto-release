@@ -30,7 +30,7 @@
 | 1 | SukiSU Ultra | v4.1.3 | 2026-05-28T09:59:05Z | [SukiSU_v4.1.3_40790-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40790-release.apk) |
 | 2 | ReSukiSU Manager Nightly | nightly | 2026-05-30T01:48:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
-| 4 | TEESimulator-RS | v6.0.0-235 | 2026-05-20T06:06:21Z | [TEESimulator-RS-v6.0.0-235-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.0-235/TEESimulator-RS-v6.0.0-235-Release.zip) |
+| 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
 | 6 | mountify | 201 | 2026-05-05T00:28:18Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/201/mountify.zip) |
 | 7 | LSPosed | v2.0.2-7668 | 2026-04-23T14:13:45+00:00 | [查看来源](https://t.me/LSPosed/311) |
@@ -45,11 +45,11 @@
 | 1 | Clash-verge-rev | v2.5.1 | 2026-05-20T07:01:22Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.1) |
 | 2 | Clash-nyanpasu | v1.6.1 | 2024-09-07T16:48:05Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v1.6.1) |
 | 3 | clash-party | v1.9.5 | 2026-05-11T13:22:44Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.5) |
-| 4 | sparkle | 1.26.4 | 2026-04-25T03:29:29Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.4) |
+| 4 | sparkle | 1.26.5 | 2026-05-30T17:23:09Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.5) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.35 | 2026-05-17T03:38:09Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.35) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
-| 8 | Clash Mi | v1.0.23.904 | 2026-05-08T05:31:24Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.23.904) |
+| 8 | Clash Mi | v1.0.24.1006 | 2026-05-29T03:56:35Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.24.1006) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.6 | 2026-05-18T00:07:36Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.6) |
 | 11 | GUI.for.Clash | v1.24.1 | 2026-05-16T14:46:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.24.1) |
@@ -64,13 +64,13 @@
 | 20 | V2rayNG | 2.1.8 | 2026-05-19T09:02:27Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.1.8) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v4.2.8 | 2025-10-29T15:44:11Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v4.2.8) |
-| 23 | Karing | v1.2.18.2102 | 2026-04-28T10:15:33Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102) |
+| 23 | Karing | v1.2.19.2209 | 2026-05-26T03:53:19Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-05-12T15:07:27+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-05-29T07:44:33+00:00 | [前往下载](https://nssurge.com) |
-| 29 | Shadowrocket | 2.2.86 | 2026-05-27T10:24:06Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
+| 29 | Shadowrocket | 2.2.87 | 2026-05-30T23:10:51Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
