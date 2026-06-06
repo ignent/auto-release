@@ -13,7 +13,7 @@
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.0.8 | 2026-06-04T06:24:24Z | [PiliPlus_android_2.0.8-cd367a864+5014_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8/PiliPlus_android_2.0.8-cd367a864%2B5014_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1409 | 2026-05-12T12:08:55Z | [ServerBox_v1.0.1409_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1409/ServerBox_v1.0.1409_arm64.apk) |
+| 7 | ServerBox | v1.0.1426 | 2026-06-05T16:37:41Z | [ServerBox_v1.0.1426_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1426/ServerBox_v1.0.1426_arm64.apk) |
 | 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.7 | 2026-05-23T20:03:53Z | [NewPipe_v0.28.7.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.7/NewPipe_v0.28.7.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-04T14:34:48+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-05T14:13:08+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -75,7 +75,7 @@
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.4.0 | 2026-05-25T20:09:27Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
-| 34 | LanceX | 2.3.56 | 2026-06-02T08:44:18Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
+| 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048?uo=4) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.6.71 | 2026-04-16T05:22:56Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
 | 37 | Potatso | 2.16.0 | 2026-01-06T01:40:58Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
