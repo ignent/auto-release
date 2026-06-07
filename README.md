@@ -12,7 +12,7 @@
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
-| 6 | PiliPlus | 2.0.8 | 2026-06-04T06:24:24Z | [PiliPlus_android_2.0.8-cd367a864+5014_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8/PiliPlus_android_2.0.8-cd367a864%2B5014_arm64-v8a.apk) |
+| 6 | PiliPlus | 2.0.8.1 | 2026-06-06T04:20:39Z | [PiliPlus_android_2.0.8-3b9403a32+5024_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8.1/PiliPlus_android_2.0.8-3b9403a32%2B5024_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1426 | 2026-06-05T16:37:41Z | [ServerBox_v1.0.1426_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1426/ServerBox_v1.0.1426_arm64.apk) |
 | 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.7 | 2026-05-23T20:03:53Z | [NewPipe_v0.28.7.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.7/NewPipe_v0.28.7.apk) |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-05T14:13:08+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-06T06:47:16+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -52,15 +52,15 @@
 | 8 | Clash Mi | v1.0.24.1006 | 2026-05-29T03:56:35Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.24.1006) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.6 | 2026-05-18T00:07:36Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.6) |
-| 11 | GUI.for.Clash | v1.24.1 | 2026-05-16T14:46:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.24.1) |
-| 12 | GUI.for.Singbox | v1.24.1 | 2026-05-16T15:01:56Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.24.1) |
+| 11 | GUI.for.Clash | v1.25.0 | 2026-06-06T13:32:20Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.0) |
+| 12 | GUI.for.Singbox | v1.25.0 | 2026-06-06T13:33:58Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.0) |
 | 13 | singbox for windows | v2.3.0 | 2026-04-26T07:32:50Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.0) |
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.5 | 2026-06-02T11:19:24Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.5) |
-| 16 | Throne | 1.1.4 | 2026-05-21T10:40:05Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.4) |
+| 16 | Throne | 1.1.5 | 2026-06-06T21:45:40Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.5) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
-| 19 | ClashMetaForAndroid | v2.11.29 | 2026-05-31T16:49:32Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.29) |
+| 19 | ClashMetaForAndroid | v2.11.30 | 2026-06-06T07:46:18Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.30) |
 | 20 | V2rayNG | 2.2.3 | 2026-06-02T10:46:40Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.3) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v4.2.8 | 2025-10-29T15:44:11Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v4.2.8) |
