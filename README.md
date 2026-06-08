@@ -7,7 +7,7 @@
 <!-- APK_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | Breezy Weather | v6.2.0 | 2026-05-01T19:21:42Z | [breezy-weather-arm64-v8a-v6.2.0_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.0/breezy-weather-arm64-v8a-v6.2.0_standard.apk) |
+| 1 | Breezy Weather | v6.2.1 | 2026-06-07T12:53:50Z | [breezy-weather-arm64-v8a-v6.2.1_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.1/breezy-weather-arm64-v8a-v6.2.1_standard.apk) |
 | 2 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [FlClash-0.8.93-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.93/FlClash-0.8.93-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-06T06:47:16+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-07T13:26:43+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -47,13 +47,13 @@
 | 3 | clash-party | v1.9.5 | 2026-05-11T13:22:44Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.5) |
 | 4 | sparkle | 1.26.5 | 2026-05-30T17:23:09Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.5) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
-| 6 | ClashX.Meta | v1.4.36 | 2026-06-02T10:52:51Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.36) |
+| 6 | ClashX.Meta | v1.4.37 | 2026-06-07T06:44:34Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.37) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
 | 8 | Clash Mi | v1.0.24.1006 | 2026-05-29T03:56:35Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.24.1006) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.6 | 2026-05-18T00:07:36Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.6) |
-| 11 | GUI.for.Clash | v1.25.0 | 2026-06-06T13:32:20Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.0) |
-| 12 | GUI.for.Singbox | v1.25.0 | 2026-06-06T13:33:58Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.0) |
+| 11 | GUI.for.Clash | v1.25.1 | 2026-06-07T06:16:12Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.1) |
+| 12 | GUI.for.Singbox | v1.25.1 | 2026-06-07T06:22:47Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.1) |
 | 13 | singbox for windows | v2.3.0 | 2026-04-26T07:32:50Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.0) |
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.5 | 2026-06-02T11:19:24Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.5) |
