@@ -70,7 +70,7 @@
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-06-08T05:21:28+00:00 | [前往下载](https://nssurge.com) |
-| 29 | Shadowrocket | 2.2.87 | 2026-05-30T23:10:51Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
+| 29 | Shadowrocket | 2.2.88 | 2026-06-10T08:29:29Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
@@ -86,5 +86,5 @@
 | 42 | V2Box | 9.8.9 | 2026-03-09T00:35:19Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
 | 44 | OpenClash | v0.47.096 | 2026-05-30T01:45:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.096) |
-| 45 | homeproxy | 29f61ca | 2026-04-24T08:49:21Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/29f61ca) |
+| 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/46137662e2604f7127f9382d834326579db8fb6a) |
 <!-- PROXY_CLIENT_TABLE_END -->
