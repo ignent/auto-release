@@ -12,7 +12,7 @@
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
-| 6 | PiliPlus | 2.0.8.1 | 2026-06-06T04:20:39Z | [PiliPlus_android_2.0.8-3b9403a32+5024_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8.1/PiliPlus_android_2.0.8-3b9403a32%2B5024_arm64-v8a.apk) |
+| 6 | PiliPlus | 2.0.9.1 | 2026-06-12T04:21:17Z | [PiliPlus_android_2.0.9-1c19925b5+5047_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.9.1/PiliPlus_android_2.0.9-1c19925b5%2B5047_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1426 | 2026-06-05T16:37:41Z | [ServerBox_v1.0.1426_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1426/ServerBox_v1.0.1426_arm64.apk) |
 | 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.8 | 2026-06-09T22:25:43Z | [NewPipe_v0.28.8.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.8/NewPipe_v0.28.8.apk) |
@@ -58,7 +58,7 @@
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.6 | 2026-06-07T03:25:42Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.6) |
 | 16 | Throne | 1.1.6 | 2026-06-08T22:37:29Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.6) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.30 | 2026-06-06T07:46:18Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.30) |
 | 20 | V2rayNG | 2.2.3 | 2026-06-02T10:46:40Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.3) |
@@ -66,7 +66,7 @@
 | 22 | V2rayU | v4.2.8 | 2025-10-29T15:44:11Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v4.2.8) |
 | 23 | Karing | v1.2.19.2209 | 2026-05-26T03:53:19Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-05-31T10:38:11+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-06-12T14:20:19+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-06-08T05:21:28+00:00 | [前往下载](https://nssurge.com) |
@@ -86,5 +86,5 @@
 | 42 | V2Box | 9.8.9 | 2026-03-09T00:35:19Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
 | 44 | OpenClash | v0.47.096 | 2026-05-30T01:45:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.096) |
-| 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/46137662e2604f7127f9382d834326579db8fb6a) |
+| 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/4613766) |
 <!-- PROXY_CLIENT_TABLE_END -->
