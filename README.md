@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-11T13:20:30+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-14T15:47:15+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -86,5 +86,5 @@
 | 42 | V2Box | 9.8.9 | 2026-03-09T00:35:19Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
 | 44 | OpenClash | v0.47.096 | 2026-05-30T01:45:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.096) |
-| 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/46137662e2604f7127f9382d834326579db8fb6a) |
+| 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/4613766) |
 <!-- PROXY_CLIENT_TABLE_END -->
