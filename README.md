@@ -14,7 +14,7 @@
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.0.9.2 | 2026-06-13T09:40:58Z | [PiliPlus_android_2.0.9-2536350cc+5051_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.9.2/PiliPlus_android_2.0.9-2536350cc%2B5051_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1426 | 2026-06-05T16:37:41Z | [ServerBox_v1.0.1426_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1426/ServerBox_v1.0.1426_arm64.apk) |
-| 8 | Salt Player | 11.1.0 | 2026-03-17T02:30:24Z | [11.1.0-2026031101-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/11.1.0/11.1.0-2026031101-moriafly-arm64-v8a.apk) |
+| 8 | Salt Player | 12.0.0 | 2026-06-18T02:05:44Z | [12.0.0-2026061801-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.0.0/12.0.0-2026061801-moriafly-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.8 | 2026-06-09T22:25:43Z | [NewPipe_v0.28.8.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.8/NewPipe_v0.28.8.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-15T15:44:45+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-17T12:22:22+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-251 | 2026-05-30T12:47:09Z | [TEESimulator-RS-v6.0.1-251-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-251/TEESimulator-RS-v6.0.1-251-Release.zip) |
 | 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
@@ -52,8 +52,8 @@
 | 8 | Clash Mi | v1.0.24.1006 | 2026-05-29T03:56:35Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.24.1006) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.6 | 2026-05-18T00:07:36Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.6) |
-| 11 | GUI.for.Clash | v1.25.1 | 2026-06-07T06:16:12Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.1) |
-| 12 | GUI.for.Singbox | v1.25.1 | 2026-06-07T06:22:47Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.1) |
+| 11 | GUI.for.Clash | v1.25.2 | 2026-06-17T17:51:33Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.2) |
+| 12 | GUI.for.Singbox | v1.25.2 | 2026-06-17T18:00:50Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.2) |
 | 13 | singbox for windows | v2.3.0 | 2026-04-26T07:32:50Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.0) |
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.7 | 2026-06-12T11:17:09Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.7) |
@@ -66,7 +66,7 @@
 | 22 | V2rayU | v4.2.8 | 2025-10-29T15:44:11Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v4.2.8) |
 | 23 | Karing | v1.2.19.2209 | 2026-05-26T03:53:19Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-06-13T09:59:19+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-06-17T11:42:44+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-06-08T05:21:28+00:00 | [前往下载](https://nssurge.com) |
@@ -83,7 +83,7 @@
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 1.1.0 | 2023-09-26T04:44:25Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
-| 42 | V2Box | 10.0.8 | 2026-06-16T15:08:44Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
+| 42 | V2Box | 10.1.0 | 2026-06-16T23:44:10Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
 | 44 | OpenClash | v0.47.096 | 2026-05-30T01:45:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.096) |
 | 45 | homeproxy | 4613766 | 2026-06-09T10:28:38Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/46137662e2604f7127f9382d834326579db8fb6a) |
