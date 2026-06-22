@@ -31,10 +31,10 @@
 | 2 | ReSukiSU Manager Nightly | nightly | 2026-06-20T12:41:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
-| 5 | PlayIntegrityFix | v4.5-inject-s | 2026-03-28T05:32:00Z | [PlayIntegrityFix_v4.5-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.5-inject-s/PlayIntegrityFix_v4.5-inject-s.zip) |
+| 5 | PlayIntegrityFix | v4.6-inject-s | 2026-06-21T09:16:16Z | [PlayIntegrityFix_v4.6-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.6-inject-s/PlayIntegrityFix_v4.6-inject-s.zip) |
 | 6 | mountify | 201 | 2026-05-05T00:28:18Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/201/mountify.zip) |
 | 7 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 8 | Zygisk Next | v1.4.0 | 2026-06-18T12:51:17Z | [Zygisk-Next-1.4.0-768-37ee2d5-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.0/Zygisk-Next-1.4.0-768-37ee2d5-release.zip) |
+| 8 | Zygisk Next | v1.4.1 | 2026-06-21T14:46:38Z | [Zygisk-Next-1.4.1-780-9d7024c-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.1/Zygisk-Next-1.4.1-780-9d7024c-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -44,7 +44,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.1 | 2026-05-20T07:01:22Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.1) |
 | 2 | Clash-nyanpasu | v1.6.1 | 2024-09-07T16:48:05Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v1.6.1) |
-| 3 | clash-party | v1.9.5 | 2026-05-11T13:22:44Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.5) |
+| 3 | clash-party | v1.9.6 | 2026-06-21T13:31:12Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.6) |
 | 4 | sparkle | 1.26.5 | 2026-05-30T17:23:09Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.5) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.38 | 2026-06-11T05:54:17Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.38) |
@@ -52,8 +52,8 @@
 | 8 | Clash Mi | v1.0.24.1006 | 2026-05-29T03:56:35Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.24.1006) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.7 | 2026-06-20T14:11:09Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.7) |
-| 11 | GUI.for.Clash | v1.25.2 | 2026-06-17T17:51:33Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.2) |
-| 12 | GUI.for.Singbox | v1.25.2 | 2026-06-17T18:00:50Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.2) |
+| 11 | GUI.for.Clash | v1.25.3 | 2026-06-21T14:35:32Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.3) |
+| 12 | GUI.for.Singbox | v1.25.3 | 2026-06-21T14:49:32Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.25.3) |
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.7 | 2026-06-12T11:17:09Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.7) |
@@ -61,12 +61,12 @@
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.30 | 2026-06-06T07:46:18Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.30) |
-| 20 | V2rayNG | 2.2.4 | 2026-06-14T03:41:46Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.4) |
+| 20 | V2rayNG | 2.2.5 | 2026-06-20T10:06:00Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.5) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
-| 22 | V2rayU | v4.2.8 | 2025-10-29T15:44:11Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v4.2.8) |
+| 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
 | 23 | Karing | v1.2.19.2209 | 2026-05-26T03:53:19Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-06-17T11:42:44+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-06-21T05:07:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-06-08T05:21:28+00:00 | [前往下载](https://nssurge.com) |
