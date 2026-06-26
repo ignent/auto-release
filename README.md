@@ -28,11 +28,11 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-24T01:30:17+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-25T09:18:01+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.6-inject-s | 2026-06-21T09:16:16Z | [PlayIntegrityFix_v4.6-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.6-inject-s/PlayIntegrityFix_v4.6-inject-s.zip) |
-| 6 | mountify | 202 | 2026-06-23T03:45:32Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/202/mountify.zip) |
+| 6 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
 | 7 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
 | 8 | Zygisk Next | v1.4.2 | 2026-06-22T13:19:32Z | [Zygisk-Next-1.4.2-789-119aaa0-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.2/Zygisk-Next-1.4.2-789-119aaa0-release.zip) |
 <!-- MODULE_TABLE_END -->
@@ -47,7 +47,7 @@
 | 3 | clash-party | v1.9.6 | 2026-06-21T13:31:12Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.6) |
 | 4 | sparkle | 1.26.5 | 2026-05-30T17:23:09Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.5) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
-| 6 | ClashX.Meta | v1.4.38 | 2026-06-11T05:54:17Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.38) |
+| 6 | ClashX.Meta | v1.4.40 | 2026-06-25T16:22:19Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.40) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
 | 8 | Clash Mi | v1.0.25.1108 | 2026-06-23T02:53:04Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.25.1108) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
@@ -64,7 +64,7 @@
 | 20 | V2rayNG | 2.2.5 | 2026-06-20T10:06:00Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.5) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
-| 23 | Karing | v1.2.19.2209 | 2026-05-26T03:53:19Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209) |
+| 23 | Karing | v1.2.20.2308 | 2026-06-23T03:58:21Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.20.2308) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-06-21T05:07:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
@@ -74,7 +74,7 @@
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
-| 33 | Loon | 3.4.0 | 2026-05-25T20:09:27Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
+| 33 | Loon | 3.5.0 | 2026-06-25T19:46:51Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.6.72 | 2026-06-24T07:23:48Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
