@@ -18,8 +18,8 @@
 | 9 | NewPipe | v0.28.8 | 2026-06-09T22:25:43Z | [NewPipe_v0.28.8.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.8/NewPipe_v0.28.8.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
-| 12 | Droid-ify | v0.7.1 | 2026-03-19T07:22:27Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.1/app-release.apk) |
-| 13 | MT管理器 | v2.26.5 | 2026-05-26 | [MT2.26.5-target28.apk](https://pan.mt2.cn/apk/26052685/target28) |
+| 12 | Droid-ify | v0.7.3 | 2026-06-26T13:47:25Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.3/app-release.apk) |
+| 13 | MT管理器 | v2.26.6 | 2026-06-26 | [MT2.26.6-target28.apk](https://pan.mt2.cn/apk/26062662/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -47,7 +47,7 @@
 | 3 | clash-party | v1.9.6 | 2026-06-21T13:31:12Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v1.9.6) |
 | 4 | sparkle | 1.26.5 | 2026-05-30T17:23:09Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.5) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
-| 6 | ClashX.Meta | v1.4.40 | 2026-06-25T16:22:19Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.40) |
+| 6 | ClashX.Meta | v1.4.41 | 2026-06-26T12:49:12Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.41) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
 | 8 | Clash Mi | v1.0.25.1108 | 2026-06-23T02:53:04Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.25.1108) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
@@ -69,7 +69,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-06-21T05:07:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-06-24T05:49:07+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-06-26T06:30:36+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.88 | 2026-06-10T08:29:29Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.3.3 | 2026-04-01T17:30:26Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
