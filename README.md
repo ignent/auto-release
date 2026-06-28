@@ -13,8 +13,8 @@
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.17.0 | 2025-02-20T01:23:55Z | [LocalSend-1.17.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.0.9.2 | 2026-06-13T09:40:58Z | [PiliPlus_android_2.0.9-2536350cc+5051_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.9.2/PiliPlus_android_2.0.9-2536350cc%2B5051_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1426 | 2026-06-05T16:37:41Z | [ServerBox_v1.0.1426_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1426/ServerBox_v1.0.1426_arm64.apk) |
-| 8 | Salt Player | 12.0.0 | 2026-06-18T02:05:44Z | [12.0.0-2026061801-moriafly-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.0.0/12.0.0-2026061801-moriafly-arm64-v8a.apk) |
+| 7 | ServerBox | v1.0.1450 | 2026-06-27T12:29:45Z | [ServerBox_v1.0.1450_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1450/ServerBox_v1.0.1450_arm64.apk) |
+| 8 | Salt Player | 12.1.0-beta01 | 2026-06-28T01:05:46Z | [12.1.0-beta01-2026062801-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.1.0-beta01/12.1.0-beta01-2026062801-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.28.8 | 2026-06-09T22:25:43Z | [NewPipe_v0.28.8.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.28.8/NewPipe_v0.28.8.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-25T09:18:01+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-27T02:47:38+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.6-inject-s | 2026-06-21T09:16:16Z | [PlayIntegrityFix_v4.6-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.6-inject-s/PlayIntegrityFix_v4.6-inject-s.zip) |
@@ -81,7 +81,7 @@
 | 37 | Potatso | 2.16.0 | 2026-01-06T01:40:58Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
-| 40 | Spectre | 1.1.0 | 2023-09-26T04:44:25Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
+| 40 | Spectre | 1.1.0 | 2023-09-26T04:44:25Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.2 | 2026-06-19T17:43:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
