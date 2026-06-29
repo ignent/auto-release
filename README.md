@@ -49,7 +49,7 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.41 | 2026-06-26T12:49:12Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.41) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
-| 8 | Clash Mi | v1.0.25.1108 | 2026-06-23T02:53:04Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.25.1108) |
+| 8 | Clash Mi | 1.0.26.1200 | 2026-06-28T09:02:32Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/1.0.26.1200) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.7 | 2026-06-20T14:11:09Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.7) |
 | 11 | GUI.for.Clash | v1.25.3 | 2026-06-21T14:35:32Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.3) |
@@ -64,7 +64,7 @@
 | 20 | V2rayNG | 2.2.5 | 2026-06-20T10:06:00Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.5) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
-| 23 | Karing | v1.2.20.2308 | 2026-06-23T03:58:21Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.20.2308) |
+| 23 | Karing | v1.2.21.2402 | 2026-06-28T03:47:32Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.21.2402) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-06-21T05:07:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
@@ -81,7 +81,7 @@
 | 37 | Potatso | 2.16.0 | 2026-01-06T01:40:58Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
-| 40 | Spectre | 1.1.0 | 2023-09-26T04:44:25Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998) |
+| 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.2 | 2026-06-19T17:43:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.6.2-1 | 2026-06-02T09:49:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.6.2-1) |
