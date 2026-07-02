@@ -58,7 +58,7 @@
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.7 | 2026-06-12T11:17:09Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.7) |
 | 16 | Throne | 1.1.6 | 2026-06-08T22:37:29Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.6) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.30 | 2026-06-06T07:46:18Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.30) |
 | 20 | V2rayNG | 2.2.5 | 2026-06-20T10:06:00Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.5) |
@@ -86,5 +86,5 @@
 | 42 | V2Box | 10.1.3 | 2026-06-29T21:57:38Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.7.1-1 | 2026-06-30T16:57:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.1-1) |
 | 44 | OpenClash | v0.47.110 | 2026-06-29T03:08:55Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.110) |
-| 45 | homeproxy | e8b8ebc | 2026-06-30T09:00:50Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/e8b8ebcfbdd1759c5f7f323b5a9d32b5b5434954) |
+| 45 | homeproxy | e8b8ebc | 2026-06-30T09:00:50Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/e8b8ebc) |
 <!-- PROXY_CLIENT_TABLE_END -->
