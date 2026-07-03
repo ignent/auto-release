@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
 | 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
 | 12 | Droid-ify | v0.7.3 | 2026-06-26T13:47:25Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.3/app-release.apk) |
-| 13 | MT管理器 | v2.26.6 | 2026-06-26 | [MT2.26.6-target28.apk](https://pan.mt2.cn/apk/26062662/target28) |
+| 13 | MT管理器 | v2.26.7 | 2026-07-03 | [MT2.26.7-target28.apk](https://pan.mt2.cn/apk/26070303/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-06-30T02:32:03+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-03T01:17:42+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.6-inject-s | 2026-06-21T09:16:16Z | [PlayIntegrityFix_v4.6-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.6-inject-s/PlayIntegrityFix_v4.6-inject-s.zip) |
@@ -49,7 +49,7 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.42 | 2026-07-01T02:42:34Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.42) |
 | 7 | FlClash | v0.8.93 | 2026-05-29T06:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.93) |
-| 8 | Clash Mi | 1.0.26.1201 | 2026-06-29T08:38:01Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/1.0.26.1201) |
+| 8 | Clash Mi | v1.0.26.1201 | 2026-06-29T08:38:01Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.26.1201) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.7 | 2026-06-20T14:11:09Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.7) |
 | 11 | GUI.for.Clash | v1.25.4 | 2026-06-29T16:12:40Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.4) |
@@ -58,13 +58,13 @@
 | 14 | Pandora-Box | v1.0.21 | 2026-04-27T10:47:23Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.21) |
 | 15 | V2rayN | 7.22.7 | 2026-06-12T11:17:09Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.22.7) |
 | 16 | Throne | 1.1.6 | 2026-06-08T22:37:29Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.1.6) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.30 | 2026-06-06T07:46:18Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.30) |
 | 20 | V2rayNG | 2.2.5 | 2026-06-20T10:06:00Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.5) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
-| 23 | Karing | v1.2.21.2404 | 2026-06-30T11:00:23Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.21.2404) |
+| 23 | Karing | v1.2.21.2406 | 2026-07-02T03:57:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.21.2406) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-06-21T05:07:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
@@ -86,5 +86,5 @@
 | 42 | V2Box | 10.1.3 | 2026-06-29T21:57:38Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.7.1-1 | 2026-06-30T16:57:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.1-1) |
 | 44 | OpenClash | v0.47.110 | 2026-06-29T03:08:55Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.110) |
-| 45 | homeproxy | e8b8ebc | 2026-06-30T09:00:50Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/e8b8ebc) |
+| 45 | homeproxy | e8b8ebc | 2026-06-30T09:00:50Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/e8b8ebcfbdd1759c5f7f323b5a9d32b5b5434954) |
 <!-- PROXY_CLIENT_TABLE_END -->
