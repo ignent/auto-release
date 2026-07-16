@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-14T10:06:47+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-15T05:31:41+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -49,7 +49,7 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.43 | 2026-07-08T03:49:25Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.43) |
 | 7 | FlClash | v0.8.94 | 2026-07-11T12:36:15Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.94) |
-| 8 | Clash Mi | v1.0.26.1206 | 2026-07-07T04:36:04Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.26.1206) |
+| 8 | Clash Mi | v1.0.27.1301 | 2026-07-13T01:10:22Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.27.1301) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.7 | 2026-06-20T14:11:09Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.7) |
 | 11 | GUI.for.Clash | v1.25.4 | 2026-06-29T16:12:40Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.25.4) |
@@ -77,14 +77,14 @@
 | 33 | Loon | 3.5.0 | 2026-06-25T19:46:51Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
-| 36 | strisand | 1.6.74 | 2026-07-07T09:08:32Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
+| 36 | strisand | 1.6.75 | 2026-07-14T09:04:31Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
 | 37 | Potatso | 2.16.0 | 2026-01-06T01:40:58Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
-| 42 | V2Box | 10.1.5 | 2026-07-07T03:55:27Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.7.1-1 | 2026-06-30T16:57:14Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.1-1) |
+| 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
+| 43 | Passwall | 26.7.15-1 | 2026-07-15T05:02:24Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.15-1) |
 | 44 | OpenClash | v0.47.116 | 2026-07-07T04:39:54Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.116) |
 | 45 | homeproxy | 7826c26 | 2026-07-06T02:08:03Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/7826c263609cf413c355eea6fd8cc1255b85f5c7) |
 <!-- PROXY_CLIENT_TABLE_END -->
