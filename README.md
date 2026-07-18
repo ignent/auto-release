@@ -66,10 +66,10 @@
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
 | 23 | Karing | v1.2.22.2502 | 2026-07-10T10:18:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-07-16T01:54:58+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-07-17T05:40:29+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-07-14T14:57:02+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-07-17T13:53:46+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.90 | 2026-07-07T21:12:37Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
