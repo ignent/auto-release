@@ -28,7 +28,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-18T16:42:25+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-21T21:56:45+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -52,8 +52,8 @@
 | 8 | Clash Mi | v1.0.27.1301 | 2026-07-13T01:10:22Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.27.1301) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.7 | 2026-06-20T14:11:09Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.7) |
-| 11 | GUI.for.Clash | v1.26.0 | 2026-07-19T14:12:19Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.26.0) |
-| 12 | GUI.for.Singbox | v1.26.0 | 2026-07-19T14:12:30Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.26.0) |
+| 11 | GUI.for.Clash | v1.26.1 | 2026-07-21T14:03:28Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.26.1) |
+| 12 | GUI.for.Singbox | v1.26.1 | 2026-07-21T14:09:49Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.26.1) |
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.22 | 2026-07-04T09:32:27Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.22) |
 | 15 | V2rayN | 7.23.4 | 2026-07-11T09:45:12Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.23.4) |
@@ -66,10 +66,10 @@
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
 | 23 | Karing | v1.2.22.2502 | 2026-07-10T10:18:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-07-19T15:40:04+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-07-21T04:59:47+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-07-18T09:09:43+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-07-21T16:46:28+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.90 | 2026-07-07T21:12:37Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.19.0 | 2026-05-21T17:58:14Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
