@@ -66,7 +66,7 @@
 | 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
 | 23 | Karing | v1.2.22.2502 | 2026-07-10T10:18:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-07-23T14:57:04+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-07-24T11:57:17+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-07-22T08:00:47+00:00 | [前往下载](https://nssurge.com) |
@@ -84,7 +84,7 @@
 | 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.7.16-1 | 2026-07-16T13:40:35Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.16-1) |
+| 43 | Passwall | 26.7.24-1 | 2026-07-24T02:56:34Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.7.24-1) |
 | 44 | OpenClash | v0.47.133 | 2026-07-18T04:18:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.133) |
 | 45 | homeproxy | 7826c26 | 2026-07-06T02:08:03Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/7826c263609cf413c355eea6fd8cc1255b85f5c7) |
 <!-- PROXY_CLIENT_TABLE_END -->
