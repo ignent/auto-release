@@ -57,7 +57,7 @@
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.22 | 2026-07-04T09:32:27Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.22) |
 | 15 | V2rayN | 7.23.4 | 2026-07-11T09:45:12Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.23.4) |
-| 16 | Throne | 1.2.0 | 2026-07-22T19:19:41Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.0) |
+| 16 | Throne | 1.2.1 | 2026-07-26T13:34:29Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.1) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.32 | 2026-07-18T12:21:15Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.32) |
