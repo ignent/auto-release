@@ -28,13 +28,13 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-07-30T06:00:53+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 2 | ReSukiSU Manager Nightly | nightly | 2026-08-01T11:39:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 5 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
 | 6 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
 | 7 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 8 | Zygisk Next | v1.4.3 | 2026-07-16T11:51:19Z | [Zygisk-Next-1.4.3-817-e815170-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.3/Zygisk-Next-1.4.3-817-e815170-release.zip) |
+| 8 | Zygisk Next | v1.4.4 | 2026-08-01T11:43:07Z | [Zygisk-Next-1.4.4-831-98fd9c6-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.4/Zygisk-Next-1.4.4-831-98fd9c6-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -84,7 +84,7 @@
 | 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.8.1-1 | 2026-07-31T17:50:00Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.1-1) |
+| 43 | Passwall | 26.8.1-1 | 2026-08-01T03:58:00Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.1-1) |
 | 44 | OpenClash | v0.47.133 | 2026-07-18T04:18:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.133) |
 | 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/4b2617ab3bc67e802236b74ce16e70e3bde456da) |
 <!-- PROXY_CLIENT_TABLE_END -->
