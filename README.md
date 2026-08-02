@@ -75,12 +75,12 @@
 | 14 | Pandora-Box | v1.0.22 | 2026-07-04T09:32:27Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.22) |
 | 15 | V2rayN | 7.24.4 | 2026-07-30T12:45:22Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.4) |
 | 16 | Throne | 1.2.2 | 2026-07-29T20:39:02Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.2) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.32 | 2026-07-18T12:21:15Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.32) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
-| 22 | V2rayU | v5.1.0 | 2026-06-21T15:56:20Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.1.0) |
+| 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.22.2502 | 2026-07-10T10:18:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-07-30T22:41:26+00:00 | [前往下载](https://sing-box.sagernet.org/) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.8.1-1 | 2026-08-01T03:58:00Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.1-1) |
 | 44 | OpenClash | v0.47.133 | 2026-07-18T04:18:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.133) |
-| 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/4b2617a) |
+| 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/4b2617ab3bc67e802236b74ce16e70e3bde456da) |
 <!-- PROXY_CLIENT_TABLE_END -->
