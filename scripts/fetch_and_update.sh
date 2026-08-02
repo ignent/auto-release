@@ -134,6 +134,38 @@ fetch_text() {
   curl --fail --location --silent --show-error --retry 3 "$1"
 }
 
+fetch_onlyoffice_android_item() {
+  local item_json="$1"
+  local name page_url google_play_url page_html play_html apk_url effective_url headers_file http_code last_modified version asset_name
+  name="$(jq -r '.name' <<<"${item_json}")"
+  page_url="$(jq -r '.page_url' <<<"${item_json}")"
+  google_play_url="$(jq -r '.google_play_url' <<<"${item_json}")"
+  page_html="$(fetch_text "${page_url}")"
+  apk_url="$(printf '%s' "${page_html}" | "${PYTHON_BIN}" "${ROOT_DIR}/scripts/onlyoffice_android.py" apk-url)"
+
+  headers_file="$(mktemp "${TMP_DIR}/onlyoffice-headers.XXXXXX")"
+  http_code="$(curl --head --location --silent --show-error --retry 3 --dump-header "${headers_file}" --output /dev/null --write-out '%{http_code}' "${apk_url}")"
+  [[ "${http_code}" =~ ^2 ]] || return 1
+  effective_url="$(curl --head --location --silent --show-error --retry 3 --output /dev/null --write-out '%{url_effective}' "${apk_url}")"
+  "${PYTHON_BIN}" "${ROOT_DIR}/scripts/onlyoffice_android.py" validate-url <<<"${effective_url}" >/dev/null
+
+  last_modified="$(awk 'BEGIN { IGNORECASE = 1 } /^last-modified:/ { sub(/^[^:]*:[[:space:]]*/, ""); value = $0 } END { print value }' "${headers_file}")"
+  play_html="$(fetch_text "${google_play_url}" || true)"
+  version="$(printf '%s' "${play_html}" | "${PYTHON_BIN}" "${ROOT_DIR}/scripts/onlyoffice_android.py" google-play-version || true)"
+  asset_name="$(extract_filename_from_url "${effective_url}")"
+  [[ -n "${version}" ]] || version="N/A"
+  [[ -n "${asset_name}" ]] || asset_name="onlyoffice-documents.apk"
+
+  jq -n \
+    --arg name "${name}" \
+    --arg version "${version}" \
+    --arg updated_at "$(parse_last_modified_to_iso "${last_modified}")" \
+    --arg download_url "${effective_url}" \
+    --arg asset_name "${asset_name}" \
+    --arg source_url "${page_url}" \
+    '{ok:true,name:$name,version:$version,updated_at:$updated_at,download_url:$download_url,asset_name:$asset_name,source_url:$source_url}'
+}
+
 sanitize_filename() {
   "${PYTHON_BIN}" - "$1" <<'PY'
 import re
@@ -402,6 +434,8 @@ fetch_github_release_item() {
     else
       score="$(score_asset_name "${asset_name}" "${extensions}" "${preferred}" "${avoid}")"
     fi
+
+    (( score == -9999 )) && continue
 
     if (( score > best_score )); then
       best_score="${score}"
@@ -1177,6 +1211,10 @@ write_group_table() {
     case "${source_type}" in
       github_apk)
         result_json="$(fetch_github_release_item "${item_json}" "github_apk")"
+        fetch_status=$?
+        ;;
+      onlyoffice_android)
+        result_json="$(fetch_onlyoffice_android_item "${item_json}")"
         fetch_status=$?
         ;;
       github_asset)

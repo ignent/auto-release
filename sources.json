@@ -17,7 +17,29 @@
         { "name": "Salt Player", "type": "github_apk", "repo": "Moriafly/SaltPlayerSource" },
         { "name": "NewPipe", "type": "github_apk", "repo": "TeamNewPipe/NewPipe" },
         { "name": "AntennaPod", "type": "github_apk", "repo": "AntennaPod/AntennaPod" },
-        { "name": "ONLYOFFICE Documents", "type": "github_apk", "repo": "ONLYOFFICE/documents-app-android" },
+        {
+          "name": "ONLYOFFICE Documents",
+          "type": "onlyoffice_android",
+          "page_url": "https://www.onlyoffice.com/download-desktop#mobile",
+          "google_play_url": "https://play.google.com/store/apps/details?id=com.onlyoffice.documents&hl=en&gl=US"
+        },
+        {
+          "name": "InstallerX-Revived",
+          "type": "github_asset",
+          "repo": "wxxsfxyzm/InstallerX-Revived",
+          "extensions": [".apk"],
+          "preferred_keywords": ["offline", "release"],
+          "avoid_keywords": ["online", "debug"]
+        },
+        { "name": "Kazumi", "type": "github_apk", "repo": "Predidit/Kazumi" },
+        { "name": "Droidspaces", "type": "github_apk", "repo": "ravindu644/Droidspaces-OSS" },
+        { "name": "Thunderbird Mobile", "type": "github_apk", "repo": "thunderbird/thunderbird-android" },
+        {
+          "name": "Via",
+          "type": "direct",
+          "url": "https://res.viayoo.com/v1/via-release-cn.apk",
+          "filename": "via-release-cn.apk"
+        },
         { "name": "Droid-ify", "type": "github_apk", "repo": "Droid-ify/client" },
         { "name": "MT管理器", "type": "mt_manager_t28", "url": "https://mt2.cn/download/" }
       ]
@@ -29,6 +51,99 @@
       "start_marker": "<!-- MODULE_TABLE_START -->",
       "end_marker": "<!-- MODULE_TABLE_END -->",
       "items": [
+        {
+          "name": "APatch",
+          "type": "github_asset",
+          "repo": "bmax121/APatch",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "FolkPatch",
+          "type": "github_asset",
+          "repo": "LyraVoid/FolkPatch",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "KernelSU",
+          "type": "github_asset",
+          "repo": "tiann/KernelSU",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "KernelSU-KoWSU",
+          "type": "page_metadata",
+          "url": "https://github.com/deepongi-labs/KernelSU-KoWSU"
+        },
+        {
+          "name": "KernelSU-Next",
+          "type": "github_asset",
+          "repo": "KernelSU-Next/KernelSU-Next",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["spoofed", "debug"]
+        },
+        {
+          "name": "FuseFixer",
+          "type": "github_asset",
+          "repo": "5ec1cff/FuseFixer",
+          "extensions": [".apk"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "TrickyStore",
+          "type": "github_asset",
+          "repo": "5ec1cff/TrickyStore",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "TEESimulator",
+          "type": "github_asset",
+          "repo": "JingMatrix/TEESimulator",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "Hybrid Mount",
+          "type": "github_asset",
+          "repo": "Hybrid-Mount/meta-hybrid_mount",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["lite", "nano", "debug"]
+        },
+        {
+          "name": "meta-overlayfs",
+          "type": "github_asset",
+          "repo": "KernelSU-Modules-Repo/meta-overlayfs",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "meta-mm",
+          "type": "github_asset",
+          "repo": "KernelSU-Modules-Repo/meta-mm",
+          "extensions": [".zip"],
+          "preferred_keywords": ["release"],
+          "avoid_keywords": ["debug"]
+        },
+        {
+          "name": "magic_mount-rs",
+          "type": "github_asset",
+          "repo": "Tools-cx-app/meta-magic_mount-rs",
+          "extensions": [".zip"],
+          "preferred_keywords": ["arm64", "release"],
+          "avoid_keywords": ["armv7", "x86_64", "debug"]
+        },
         {
           "name": "SukiSU Ultra",
           "type": "github_asset",

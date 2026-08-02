@@ -17,9 +17,14 @@
 | 8 | Salt Player | 12.1.1 | 2026-07-05T07:31:34Z | [12.1.1-2026070502-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.1.1/12.1.1-2026070502-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.0 | 2026-07-22T08:38:27Z | [NewPipe_v0.29.0.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.0/NewPipe_v0.29.0.apk) |
 | 10 | AntennaPod | 3.11.4 | 2026-05-15 | [de.danoeh.antennapod_3110495.apk](https://f-droid.org/repo/de.danoeh.antennapod_3110495.apk) |
-| 11 | ONLYOFFICE Documents | N/A | N/A | 获取失败 |
-| 12 | Droid-ify | v0.7.4 | 2026-07-12T16:52:23Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.4/app-release.apk) |
-| 13 | MT管理器 | v2.26.7 | 2026-07-07 | [MT2.26.7-target28.apk](https://pan.mt2.cn/apk/26070756/target28) |
+| 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
+| 12 | InstallerX-Revived | 26.05.01 | 2026-05-30T04:27:33Z | [InstallerX-Revived-offline-26.05.01.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.05.01/InstallerX-Revived-offline-26.05.01.apk) |
+| 13 | Kazumi | 2.2.6 | 2026-08-01T10:29:14Z | [Kazumi_android_2.2.6.apk](https://github.com/Predidit/Kazumi/releases/download/2.2.6/Kazumi_android_2.2.6.apk) |
+| 14 | Droidspaces | v6.4.5 | 2026-07-17T06:26:17Z | [Droidspaces-universal-v6.4.5-1890424.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.4.5/Droidspaces-universal-v6.4.5-1890424.apk) |
+| 15 | Thunderbird Mobile | THUNDERBIRD_21_0 | 2026-07-20T21:30:00Z | [thunderbird-21.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_21_0/thunderbird-21.0.apk) |
+| 16 | Via | via-release-cn | 2026-07-06T11:09:24+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
+| 17 | Droid-ify | v0.7.4 | 2026-07-12T16:52:23Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.4/app-release.apk) |
+| 18 | MT管理器 | v2.26.7 | 2026-07-07 | [MT2.26.7-target28.apk](https://pan.mt2.cn/apk/26070756/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -27,14 +32,26 @@
 <!-- MODULE_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 2 | ReSukiSU Manager Nightly | nightly | 2026-08-01T11:39:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
-| 3 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
-| 4 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
-| 5 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
-| 6 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
-| 7 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 8 | Zygisk Next | v1.4.4 | 2026-08-01T11:43:07Z | [Zygisk-Next-1.4.4-831-98fd9c6-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.4/Zygisk-Next-1.4.4-831-98fd9c6-release.zip) |
+| 1 | APatch | 11219 | 2026-08-01T16:48:59Z | [APatch_11219_0355948_HEAD-release-signed.apk](https://github.com/bmax121/APatch/releases/download/11219/APatch_11219_0355948_HEAD-release-signed.apk) |
+| 2 | FolkPatch | 5.0-lua | 2026-08-02T10:13:47Z | [FolkPatch_115005_5.0_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/5.0-lua/FolkPatch_115005_5.0_on_main-release.apk) |
+| 3 | KernelSU | v3.2.5 | 2026-06-23T14:17:14Z | [KernelSU_v3.2.5_32525-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.2.5/KernelSU_v3.2.5_32525-release.apk) |
+| 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
+| 5 | KernelSU-Next | v3.3.0 | 2026-07-03T14:09:49Z | [KernelSU_Next_v3.3.0_33214-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.3.0/KernelSU_Next_v3.3.0_33214-release.apk) |
+| 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
+| 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
+| 8 | TEESimulator | v3.2 | 2026-03-07T11:40:33Z | [TEESimulator-v3.2-67-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v3.2/TEESimulator-v3.2-67-Release.zip) |
+| 9 | Hybrid Mount | v4.2.0 | 2026-06-27T17:05:17Z | [Hybrid-Mount-4.2.0-1815.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v4.2.0/Hybrid-Mount-4.2.0-1815.zip) |
+| 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
+| 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
+| 12 | magic_mount-rs | v4.0.6 | 2026-07-19T11:16:41Z | [magic_mount_rs-4.0.6-845-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.6/magic_mount_rs-4.0.6-845-arm64.zip) |
+| 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-01T11:39:06+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
+| 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
+| 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
+| 18 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
+| 19 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
+| 20 | Zygisk Next | v1.4.4 | 2026-08-01T11:43:07Z | [Zygisk-Next-1.4.4-831-98fd9c6-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.4/Zygisk-Next-1.4.4-831-98fd9c6-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -58,7 +75,7 @@
 | 14 | Pandora-Box | v1.0.22 | 2026-07-04T09:32:27Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.22) |
 | 15 | V2rayN | 7.24.4 | 2026-07-30T12:45:22Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.4) |
 | 16 | Throne | 1.2.2 | 2026-07-29T20:39:02Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.2) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.32 | 2026-07-18T12:21:15Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.32) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
@@ -86,5 +103,5 @@
 | 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.8.1-1 | 2026-08-01T03:58:00Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.1-1) |
 | 44 | OpenClash | v0.47.133 | 2026-07-18T04:18:35Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.133) |
-| 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/4b2617ab3bc67e802236b74ce16e70e3bde456da) |
+| 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/4b2617a) |
 <!-- PROXY_CLIENT_TABLE_END -->
