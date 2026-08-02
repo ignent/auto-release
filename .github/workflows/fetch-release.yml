@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.repository }}
+  cancel-in-progress: false
+
 jobs:
   update-and-package:
     runs-on: ubuntu-latest
@@ -14,15 +18,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Set up environment
         run: |
           sudo apt-get update
           sudo apt-get install -y jq curl zip
 
-      - name: Pull latest main
-        run: git pull origin main --rebase
-        
       - name: Make scripts executable
         run: chmod +x scripts/fetch_and_update.sh
 
@@ -31,12 +34,15 @@ jobs:
         
       - name: Package releases
         run: |
-          TODAY=$(date +%Y%m%d)
-          ZIP_NAME="releases_$TODAY.zip"
-      
-          if [ -d "releases" ] && [ "$(find releases -type f | head -n 1)" ]; then
-            find releases -type f -print0 | xargs -0 zip -j "$ZIP_NAME"
-            echo "Created $ZIP_NAME"
+          TODAY="$(date +%Y%m%d)"
+          ZIP_NAME="releases_${TODAY}.zip"
+
+          if find releases -type f -print -quit | grep -q .; then
+            (
+              cd releases
+              zip -r "../${ZIP_NAME}" .
+            )
+            echo "Created ${ZIP_NAME}"
           else
             echo "No files in releases to package."
           fi
@@ -46,11 +52,12 @@ jobs:
         with:
           name: releases_${{ github.run_id }}
           path: releases_*.zip
+          if-no-files-found: warn
       
       - name: Commit updated README
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update release table in README"
           branch: main
-          file_pattern: README.md sources.json
+          file_pattern: README.md
           github_token: ${{ secrets.GITHUB_TOKEN }}
