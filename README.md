@@ -24,7 +24,7 @@
 | 15 | Thunderbird Mobile | K9MAIL_21_1 | 2026-08-03T19:14:10Z | [k9mail-21.1.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_21_1/k9mail-21.1.apk) |
 | 16 | Via | via-release-cn | 2026-07-06T11:09:24+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.4 | 2026-07-12T16:52:23Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.4/app-release.apk) |
-| 18 | MT管理器 | v2.26.7 | 2026-07-07 | [MT2.26.7-target28.apk](https://pan.mt2.cn/apk/26070756/target28) |
+| 18 | MT管理器 | v2.26.8 | 2026-08-04 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26080495/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -33,7 +33,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | APatch | 11219 | 2026-08-01T16:48:59Z | [APatch_11219_0355948_HEAD-release-signed.apk](https://github.com/bmax121/APatch/releases/download/11219/APatch_11219_0355948_HEAD-release-signed.apk) |
-| 2 | FolkPatch | 5.0-re | 2026-08-03T19:36:59Z | [FolkPatch_115008_5.0_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/5.0-re/FolkPatch_115008_5.0_on_main-release.apk) |
+| 2 | FolkPatch | sentinel | 2026-08-05T15:44:02Z | [FolkPatch_115011_5.0_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/sentinel/FolkPatch_115011_5.0_on_main-release.apk) |
 | 3 | KernelSU | v3.2.5 | 2026-06-23T14:17:14Z | [KernelSU_v3.2.5_32525-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.2.5/KernelSU_v3.2.5_32525-release.apk) |
 | 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
 | 5 | KernelSU-Next | v3.3.0 | 2026-07-03T14:09:49Z | [KernelSU_Next_v3.3.0_33214-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.3.0/KernelSU_Next_v3.3.0_33214-release.apk) |
@@ -45,13 +45,13 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.6 | 2026-07-19T11:16:41Z | [magic_mount_rs-4.0.6-845-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.6/magic_mount_rs-4.0.6-845-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-03T17:25:53+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-05T14:52:52+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
 | 18 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
 | 19 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 20 | Zygisk Next | v1.4.4 | 2026-08-01T11:43:07Z | [Zygisk-Next-1.4.4-831-98fd9c6-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.4/Zygisk-Next-1.4.4-831-98fd9c6-release.zip) |
+| 20 | Zygisk Next | v1.4.5 | 2026-08-05T04:54:20Z | [Zygisk-Next-1.4.5-836-b13d58a-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.5/Zygisk-Next-1.4.5-836-b13d58a-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.22.2502 | 2026-07-10T10:18:51Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-08-03T12:21:35+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-08-05T03:33:18+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-07-29T14:27:50+00:00 | [前往下载](https://nssurge.com) |
