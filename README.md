@@ -21,7 +21,7 @@
 | 12 | InstallerX-Revived | 26.05.01 | 2026-05-30T04:27:33Z | [InstallerX-Revived-offline-26.05.01.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.05.01/InstallerX-Revived-offline-26.05.01.apk) |
 | 13 | Kazumi | 2.2.7 | 2026-08-08T08:17:26Z | [Kazumi_android_2.2.7.apk](https://github.com/Predidit/Kazumi/releases/download/2.2.7/Kazumi_android_2.2.7.apk) |
 | 14 | Droidspaces | v6.5.0 | 2026-08-09T06:39:05Z | [Droidspaces-universal-v6.5.0-7e67165.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.0/Droidspaces-universal-v6.5.0-7e67165.apk) |
-| 15 | Thunderbird Mobile | K9MAIL_21_1 | 2026-08-03T19:14:10Z | [k9mail-21.1.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_21_1/k9mail-21.1.apk) |
+| 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
 | 16 | Via | via-release-cn | 2026-07-06T11:09:24+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.4 | 2026-07-12T16:52:23Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.4/app-release.apk) |
 | 18 | MT管理器 | v2.26.8 | 2026-08-04 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26080495/target28) |
@@ -39,11 +39,11 @@
 | 5 | KernelSU-Next | v3.3.0 | 2026-07-03T14:09:49Z | [KernelSU_Next_v3.3.0_33214-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.3.0/KernelSU_Next_v3.3.0_33214-release.apk) |
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
-| 8 | TEESimulator | v3.2 | 2026-03-07T11:40:33Z | [TEESimulator-v3.2-67-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v3.2/TEESimulator-v3.2-67-Release.zip) |
+| 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
 | 9 | Hybrid Mount | v4.2.0 | 2026-06-27T17:05:17Z | [Hybrid-Mount-4.2.0-1815.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v4.2.0/Hybrid-Mount-4.2.0-1815.zip) |
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
-| 12 | magic_mount-rs | v4.0.6 | 2026-07-19T11:16:41Z | [magic_mount_rs-4.0.6-845-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.6/magic_mount_rs-4.0.6-845-arm64.zip) |
+| 12 | magic_mount-rs | v4.0.7 | 2026-08-12T00:48:07Z | [magic_mount_rs-4.0.7-876-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.7/magic_mount_rs-4.0.7-876-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
 | 14 | ReSukiSU Manager Nightly | nightly | 2026-08-09T15:08:22+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
@@ -61,7 +61,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.2 | 2026-07-19T17:00:26Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.2) |
 | 2 | Clash-nyanpasu | v1.6.1 | 2024-09-07T16:48:05Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v1.6.1) |
-| 3 | clash-party | v2.0.0 | 2026-07-07T02:12:01Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.0) |
+| 3 | clash-party | v2.0.1 | 2026-08-11T12:41:35Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.1) |
 | 4 | sparkle | 1.26.7 | 2026-07-31T06:55:20Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.7) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.43 | 2026-07-08T03:49:25Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.43) |
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.23.2606 | 2026-08-05T06:32:17Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.23.2606) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-08-10T08:06:24+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-08-11T04:55:30+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-08-10T13:54:08+00:00 | [前往下载](https://nssurge.com) |
@@ -101,7 +101,7 @@
 | 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.6 | 2026-07-14T17:14:00Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.8.10-1 | 2026-08-10T15:58:06Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.10-1) |
+| 43 | Passwall | 26.8.11-1 | 2026-08-11T09:10:16Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.11-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | 4b2617a | 2026-07-25T08:33:55Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/4b2617ab3bc67e802236b74ce16e70e3bde456da) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
 <!-- PROXY_CLIENT_TABLE_END -->
