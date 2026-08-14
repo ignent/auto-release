@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.7 | 2026-08-12T00:48:07Z | [magic_mount_rs-4.0.7-876-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.7/magic_mount_rs-4.0.7-876-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-13T01:05:28+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-13T15:03:14+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
