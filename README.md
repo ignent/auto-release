@@ -23,7 +23,7 @@
 | 14 | Droidspaces | v6.5.0 | 2026-08-09T06:39:05Z | [Droidspaces-universal-v6.5.0-7e67165.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.0/Droidspaces-universal-v6.5.0-7e67165.apk) |
 | 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
 | 16 | Via | via-release-cn | 2026-07-06T11:09:24+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
-| 17 | Droid-ify | v0.7.4 | 2026-07-12T16:52:23Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.4/app-release.apk) |
+| 17 | Droid-ify | v0.7.5 | 2026-08-16T04:23:32Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.5/app-release.apk) |
 | 18 | MT管理器 | v2.26.8 | 2026-08-11 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26081193/target28) |
 <!-- APK_TABLE_END -->
 
@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.7 | 2026-08-12T00:48:07Z | [magic_mount_rs-4.0.7-876-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.7/magic_mount_rs-4.0.7-876-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-14T08:02:02+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-16T09:11:30+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -75,7 +75,7 @@
 | 14 | Pandora-Box | v1.0.22 | 2026-07-04T09:32:27Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.22) |
 | 15 | V2rayN | 7.24.4 | 2026-07-30T12:45:22Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.4) |
 | 16 | Throne | 1.2.4 | 2026-08-08T23:08:42Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.4) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.32 | 2026-07-18T12:21:15Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.32) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
@@ -90,7 +90,7 @@
 | 29 | Shadowrocket | 2.2.90 | 2026-07-07T21:12:37Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
-| 32 | QuantumultX | 1.6.0 | 2026-05-21T02:17:03Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
+| 32 | QuantumultX | 1.7.0 | 2026-08-16T02:24:36Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.5.0 | 2026-06-25T19:46:51Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
