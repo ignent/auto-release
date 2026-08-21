@@ -13,7 +13,7 @@
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.1 | 2026-08-12T13:11:17Z | [LocalSend-1.18.1-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.1/LocalSend-1.18.1-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.0 | 2026-07-12T04:26:28Z | [PiliPlus_android_2.1.0-c1aeaca09+5109_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.0/PiliPlus_android_2.1.0-c1aeaca09%2B5109_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1480 | 2026-08-10T04:10:05Z | [ServerBox_v1.0.1480_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1480/ServerBox_v1.0.1480_arm64.apk) |
+| 7 | ServerBox | v1.0.1466 | 2026-07-16T08:32:06Z | [ServerBox_v1.0.1466_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1466/ServerBox_v1.0.1466_arm64.apk) |
 | 8 | Salt Player | 12.2.0 | 2026-08-10T12:54:32Z | [12.2.0-2026081002-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.2.0/12.2.0-2026081002-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.0 | 2026-08-17 | [de.danoeh.antennapod_3120095.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120095.apk) |
@@ -86,7 +86,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-08-17T09:46:41+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-08-19T12:44:19+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-08-20T11:22:45+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.90 | 2026-07-07T21:12:37Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
