@@ -7,12 +7,12 @@
 <!-- APK_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | Breezy Weather | v6.2.1 | 2026-06-07T12:53:50Z | [breezy-weather-arm64-v8a-v6.2.1_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.1/breezy-weather-arm64-v8a-v6.2.1_standard.apk) |
+| 1 | Breezy Weather | v6.2.2 | 2026-08-23T08:24:42Z | [breezy-weather-arm64-v8a-v6.2.2_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.2/breezy-weather-arm64-v8a-v6.2.2_standard.apk) |
 | 2 | FlClash | v0.8.96 | 2026-08-17T07:30:21Z | [FlClash-0.8.96-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.96/FlClash-0.8.96-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
-| 6 | PiliPlus | 2.1.1.2 | 2026-08-22T14:45:46Z | [PiliPlus_android_2.1.1-edd60d635+5231_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.1.2/PiliPlus_android_2.1.1-edd60d635%2B5231_arm64-v8a.apk) |
+| 6 | PiliPlus | 2.1.2 | 2026-08-24T03:06:40Z | [PiliPlus_android_2.1.2-17e92c470+5241_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2/PiliPlus_android_2.1.2-17e92c470%2B5241_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1466 | 2026-07-16T08:32:06Z | [ServerBox_v1.0.1466_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1466/ServerBox_v1.0.1466_arm64.apk) |
 | 8 | Salt Player | 12.2.0 | 2026-08-10T12:54:32Z | [12.2.0-2026081002-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.2.0/12.2.0-2026081002-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
@@ -22,7 +22,7 @@
 | 13 | Kazumi | 2.2.9 | 2026-08-21T06:53:25Z | [Kazumi_android_2.2.9.apk](https://github.com/Predidit/Kazumi/releases/download/2.2.9/Kazumi_android_2.2.9.apk) |
 | 14 | Droidspaces | v6.5.0 | 2026-08-09T06:39:05Z | [Droidspaces-universal-v6.5.0-7e67165.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.0/Droidspaces-universal-v6.5.0-7e67165.apk) |
 | 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
-| 16 | Via | via-release-cn | 2026-07-06T11:09:24+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
+| 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.6 | 2026-08-22T07:06:34Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.6/app-release.apk) |
 | 18 | MT管理器 | v2.26.8 | 2026-08-11 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26081193/target28) |
 <!-- APK_TABLE_END -->
@@ -45,11 +45,11 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-22T08:13:58+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-24T22:33:42+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
-| 18 | mountify | 203 | 2026-06-25T15:03:16Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/203/mountify.zip) |
+| 18 | mountify | 204 | 2026-08-25T05:14:18Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/204/mountify.zip) |
 | 19 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
 | 20 | Zygisk Next | v1.4.5 | 2026-08-05T04:54:20Z | [Zygisk-Next-1.4.5-836-b13d58a-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.5/Zygisk-Next-1.4.5-836-b13d58a-release.zip) |
 <!-- MODULE_TABLE_END -->
@@ -83,10 +83,10 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.23.2606 | 2026-08-05T06:32:17Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.23.2606) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-08-17T09:46:41+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-08-24T03:21:21+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-08-20T11:22:45+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-08-23T20:43:15+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.90 | 2026-07-07T21:12:37Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -101,7 +101,7 @@
 | 40 | Spectre | 1.1.1 | 2026-06-28T14:53:38Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.7 | 2026-08-17T21:36:59Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.8.19-2 | 2026-08-19T14:57:36Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.19-2) |
+| 43 | Passwall | 26.8.26-1 | 2026-08-25T16:34:08Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.26-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
 | 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
 <!-- PROXY_CLIENT_TABLE_END -->
