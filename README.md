@@ -12,8 +12,8 @@
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
-| 6 | PiliPlus | 2.1.2 | 2026-08-24T03:06:40Z | [PiliPlus_android_2.1.2-17e92c470+5241_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2/PiliPlus_android_2.1.2-17e92c470%2B5241_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1466 | 2026-07-16T08:32:06Z | [ServerBox_v1.0.1466_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1466/ServerBox_v1.0.1466_arm64.apk) |
+| 6 | PiliPlus | 2.1.2.1 | 2026-08-26T03:10:08Z | [PiliPlus_android_2.1.2-35e5454a4+5255_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2.1/PiliPlus_android_2.1.2-35e5454a4%2B5255_arm64-v8a.apk) |
+| 7 | ServerBox | v1.0.1538 | 2026-08-26T19:00:19Z | [ServerBox_v1.0.1538_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1538/ServerBox_v1.0.1538_arm64.apk) |
 | 8 | Salt Player | 12.2.0 | 2026-08-10T12:54:32Z | [12.2.0-2026081002-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.2.0/12.2.0-2026081002-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.0 | 2026-08-17 | [de.danoeh.antennapod_3120095.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120095.apk) |
@@ -40,18 +40,18 @@
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
 | 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
-| 9 | Hybrid Mount | v4.2.0 | 2026-06-27T17:05:17Z | [Hybrid-Mount-4.2.0-1815.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v4.2.0/Hybrid-Mount-4.2.0-1815.zip) |
+| 9 | Hybrid Mount | v6.0.0 | 2026-08-26T10:05:32Z | [Hybrid-Mount-6.0.0-1856.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.0.0/Hybrid-Mount-6.0.0-1856.zip) |
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-24T22:33:42+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-26T14:28:52+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
 | 18 | mountify | 204 | 2026-08-25T05:14:18Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/204/mountify.zip) |
 | 19 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 20 | Zygisk Next | v1.4.5 | 2026-08-05T04:54:20Z | [Zygisk-Next-1.4.5-836-b13d58a-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.5/Zygisk-Next-1.4.5-836-b13d58a-release.zip) |
+| 20 | Zygisk Next | v1.5.0 | 2026-08-26T00:54:29Z | [Zygisk-Next-1.5.0-843-5217106-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.5.0/Zygisk-Next-1.5.0-843-5217106-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -73,7 +73,7 @@
 | 12 | GUI.for.Singbox | v1.26.1 | 2026-07-21T14:09:49Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.26.1) |
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.23 | 2026-08-22T07:46:56Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.23) |
-| 15 | V2rayN | 7.24.4 | 2026-07-30T12:45:22Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.4) |
+| 15 | V2rayN | 7.24.8 | 2026-08-22T09:33:13Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.8) |
 | 16 | Throne | 1.2.4 | 2026-08-08T23:08:42Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.4) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
