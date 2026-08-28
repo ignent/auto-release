@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.0 | 2026-08-17 | [de.danoeh.antennapod_3120095.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120095.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.05.01 | 2026-05-30T04:27:33Z | [InstallerX-Revived-offline-26.05.01.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.05.01/InstallerX-Revived-offline-26.05.01.apk) |
-| 13 | Kazumi | 2.2.9 | 2026-08-21T06:53:25Z | [Kazumi_android_2.2.9.apk](https://github.com/Predidit/Kazumi/releases/download/2.2.9/Kazumi_android_2.2.9.apk) |
+| 13 | Kazumi | 2.3.0 | 2026-08-28T04:25:26Z | [Kazumi_android_2.3.0.apk](https://github.com/Predidit/Kazumi/releases/download/2.3.0/Kazumi_android_2.3.0.apk) |
 | 14 | Droidspaces | v6.5.0 | 2026-08-09T06:39:05Z | [Droidspaces-universal-v6.5.0-7e67165.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.0/Droidspaces-universal-v6.5.0-7e67165.apk) |
 | 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.1.3 | 2026-06-02T07:33:28Z | [SukiSU_v4.1.3_40796-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.1.3/SukiSU_v4.1.3_40796-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-26T14:28:52+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-27T15:01:22+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -75,7 +75,7 @@
 | 14 | Pandora-Box | v1.0.23 | 2026-08-22T07:46:56Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.23) |
 | 15 | V2rayN | 7.24.8 | 2026-08-22T09:33:13Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.8) |
 | 16 | Throne | 1.2.4 | 2026-08-08T23:08:42Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.2.4) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.33 | 2026-08-16T10:02:08Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.33) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.7 | 2026-08-17T21:36:59Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.8.26-1 | 2026-08-25T16:34:08Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.8.26-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/edece28) |
 <!-- PROXY_CLIENT_TABLE_END -->
