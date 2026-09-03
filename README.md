@@ -14,7 +14,7 @@
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.2.3 | 2026-08-30T04:20:00Z | [PiliPlus_android_2.1.2-44680b8a4+5281_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2.3/PiliPlus_android_2.1.2-44680b8a4%2B5281_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1553 | 2026-08-29T14:52:26Z | [ServerBox_v1.0.1553_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1553/ServerBox_v1.0.1553_arm64.apk) |
-| 8 | Salt Player | 12.3.0 | 2026-09-01T06:31:32Z | [12.3.0-2026090101-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.3.0/12.3.0-2026090101-official-arm64-v8a.apk) |
+| 8 | Salt Player | 12.3.1 | 2026-09-02T11:09:30Z | [12.3.1-2026090201-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.3.1/12.3.1-2026090201-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.0 | 2026-08-17 | [de.danoeh.antennapod_3120095.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120095.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
