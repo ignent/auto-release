@@ -23,7 +23,7 @@
 | 14 | Droidspaces | v6.5.0 | 2026-08-09T06:39:05Z | [Droidspaces-universal-v6.5.0-7e67165.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.0/Droidspaces-universal-v6.5.0-7e67165.apk) |
 | 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
-| 17 | Droid-ify | v0.7.6 | 2026-08-22T07:06:34Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.6/app-release.apk) |
+| 17 | Droid-ify | v0.7.7 | 2026-09-04T18:42:31Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.7/app-release.apk) |
 | 18 | MT管理器 | v2.26.8 | 2026-08-11 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26081193/target28) |
 <!-- APK_TABLE_END -->
 
@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.2.0 | 2026-09-01T09:23:37Z | [SukiSU_v4.2.0_40900_releases.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.2.0/SukiSU_v4.2.0_40900_releases.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-08-31T04:25:58+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-03T14:45:44+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -62,7 +62,7 @@
 | 1 | Clash-verge-rev | v2.5.2 | 2026-07-19T17:00:26Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.2) |
 | 2 | Clash-nyanpasu | v1.6.1 | 2024-09-07T16:48:05Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v1.6.1) |
 | 3 | clash-party | v2.0.2 | 2026-08-14T15:07:21Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.2) |
-| 4 | sparkle | 1.26.8 | 2026-08-31T10:43:46Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.8) |
+| 4 | sparkle | 1.26.8 | 2026-09-03T04:58:27Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.8) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.44 | 2026-08-16T11:44:14Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.44) |
 | 7 | FlClash | v0.8.96 | 2026-08-17T07:30:21Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.96) |
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.24.2709 | 2026-09-01T05:38:15Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.24.2709) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-08-31T07:36:11+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-09-04T08:55:23+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-08-23T20:43:15+00:00 | [前往下载](https://nssurge.com) |
