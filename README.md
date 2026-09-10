@@ -16,12 +16,12 @@
 | 7 | ServerBox | v1.0.1574 | 2026-09-06T10:53:17Z | [ServerBox_v1.0.1574_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1574/ServerBox_v1.0.1574_arm64.apk) |
 | 8 | Salt Player | 12.3.2 | 2026-09-06T12:59:47Z | [12.3.2-2026090601-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.3.2/12.3.2-2026090601-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
-| 10 | AntennaPod | 3.12.0 | 2026-08-17 | [de.danoeh.antennapod_3120095.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120095.apk) |
+| 10 | AntennaPod | 3.12.1 | 2026-09-09 | [de.danoeh.antennapod_3120195.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120195.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.05.01 | 2026-05-30T04:27:33Z | [InstallerX-Revived-offline-26.05.01.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.05.01/InstallerX-Revived-offline-26.05.01.apk) |
 | 13 | Kazumi | 2.3.1 | 2026-09-07T14:33:57Z | [Kazumi_android_2.3.1.apk](https://github.com/Predidit/Kazumi/releases/download/2.3.1/Kazumi_android_2.3.1.apk) |
 | 14 | Droidspaces | v6.5.5 | 2026-09-08T10:53:39Z | [Droidspaces-universal-v6.5.5-2280b59.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.5/Droidspaces-universal-v6.5.5-2280b59.apk) |
-| 15 | Thunderbird Mobile | THUNDERBIRD_22_0 | 2026-08-11T03:59:18Z | [thunderbird-22.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_22_0/thunderbird-22.0.apk) |
+| 15 | Thunderbird Mobile | THUNDERBIRD_23_0 | 2026-09-09T06:41:45Z | [thunderbird-23.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_23_0/thunderbird-23.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.7 | 2026-09-04T18:42:31Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.7/app-release.apk) |
 | 18 | MT管理器 | v2.26.8 | 2026-08-11 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26081193/target28) |
@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.2.0 | 2026-09-01T09:23:37Z | [SukiSU_v4.2.0_40900_releases.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.2.0/SukiSU_v4.2.0_40900_releases.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-06T17:37:36+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-09T17:24:15+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
