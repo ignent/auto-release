@@ -13,7 +13,7 @@
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.3.1 | 2026-09-05T04:43:21Z | [PiliPlus_android_2.1.3-4d66b7b63+5315_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.3.1/PiliPlus_android_2.1.3-4d66b7b63%2B5315_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1574 | 2026-09-06T10:53:17Z | [ServerBox_v1.0.1574_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1574/ServerBox_v1.0.1574_arm64.apk) |
+| 7 | ServerBox | v1.0.1617 | 2026-09-12T08:09:07Z | [ServerBox_v1.0.1617_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1617/ServerBox_v1.0.1617_arm64.apk) |
 | 8 | Salt Player | 12.3.2 | 2026-09-06T12:59:47Z | [12.3.2-2026090601-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.3.2/12.3.2-2026090601-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.1 | 2026-09-09 | [de.danoeh.antennapod_3120195.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120195.apk) |
@@ -23,8 +23,8 @@
 | 14 | Droidspaces | v6.5.5 | 2026-09-08T10:53:39Z | [Droidspaces-universal-v6.5.5-2280b59.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.5.5/Droidspaces-universal-v6.5.5-2280b59.apk) |
 | 15 | Thunderbird Mobile | THUNDERBIRD_23_0 | 2026-09-09T06:41:45Z | [thunderbird-23.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/THUNDERBIRD_23_0/thunderbird-23.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
-| 17 | Droid-ify | v0.7.7 | 2026-09-04T18:42:31Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.7/app-release.apk) |
-| 18 | MT管理器 | v2.26.8 | 2026-08-11 | [MT2.26.8-target28.apk](https://pan.mt2.cn/apk/26081193/target28) |
+| 17 | Droid-ify | v0.7.8 | 2026-09-12T18:59:36Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk) |
+| 18 | MT管理器 | v2.26.9 | 2026-09-11 | [MT2.26.9-target28.apk](https://pan.mt2.cn/apk/26091198/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -40,12 +40,12 @@
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
 | 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
-| 9 | Hybrid Mount | v6.1.0 | 2026-08-29T02:05:09Z | [Hybrid-Mount-6.1.0-1872.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.1.0/Hybrid-Mount-6.1.0-1872.zip) |
+| 9 | Hybrid Mount | v6.2.0 | 2026-09-12T10:20:47Z | [Hybrid-Mount-6.2.0-1929.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.2.0/Hybrid-Mount-6.2.0-1929.zip) |
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.2.0 | 2026-09-01T09:23:37Z | [SukiSU_v4.2.0_40900_releases.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.2.0/SukiSU_v4.2.0_40900_releases.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-10T15:17:36+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-12T11:51:33+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -98,10 +98,10 @@
 | 37 | Potatso | 2.16.0 | 2026-01-06T01:40:58Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
-| 40 | Spectre | 2.0.0 | 2026-09-10T08:03:12Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
+| 40 | Spectre | 2.0.3 | 2026-09-12T18:28:50Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.7 | 2026-08-17T21:36:59Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.9.9-1 | 2026-09-08T16:06:24Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.9.9-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/edece28) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
 <!-- PROXY_CLIENT_TABLE_END -->
