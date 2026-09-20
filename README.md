@@ -45,7 +45,7 @@
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.8 | 2026-08-18T09:21:46Z | [magic_mount_rs-4.0.8-900-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.8/magic_mount_rs-4.0.8-900-arm64.zip) |
 | 13 | SukiSU Ultra | v4.2.0 | 2026-09-01T09:23:37Z | [SukiSU_v4.2.0_40900_releases.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.2.0/SukiSU_v4.2.0_40900_releases.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-19T01:40:43+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-19T10:42:59+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -66,7 +66,7 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.45 | 2026-09-14T14:23:24Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.45) |
 | 7 | FlClash | v0.8.98 | 2026-09-14T03:20:30Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.98) |
-| 8 | Clash Mi | v1.0.29.1503 | 2026-09-02T01:37:32Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.29.1503) |
+| 8 | Clash Mi | v1.0.30.1604 | 2026-09-16T03:58:16Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.30.1604) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | 470bc5a | 2026-09-03T05:50:44Z | [前往下载](https://github.com/Watfaq/clash-rs/commit/470bc5a427bfaea3fafcedf32563010f9a47b691) |
 | 11 | GUI.for.Clash | v1.27.0 | 2026-09-07T16:45:45Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.27.0) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.8 | 2026-09-15T02:32:48Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.9.16-1 | 2026-09-16T06:42:58Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.9.16-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/edece28) |
 <!-- PROXY_CLIENT_TABLE_END -->
