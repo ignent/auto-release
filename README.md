@@ -59,23 +59,23 @@
 <!-- PROXY_CLIENT_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | Clash-verge-rev | v2.5.2 | 2026-07-19T17:00:26Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.2) |
+| 1 | Clash-verge-rev | v2.5.4 | 2026-09-20T12:28:55Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.4) |
 | 2 | Clash-nyanpasu | v1.6.1 | 2024-09-07T16:48:05Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v1.6.1) |
-| 3 | clash-party | v2.0.2 | 2026-08-14T15:07:21Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.2) |
+| 3 | clash-party | v2.0.3 | 2026-09-20T13:56:08Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.3) |
 | 4 | sparkle | 1.26.8 | 2026-09-03T04:58:27Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.8) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.45 | 2026-09-14T14:23:24Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.45) |
 | 7 | FlClash | v0.8.98 | 2026-09-14T03:20:30Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.98) |
 | 8 | Clash Mi | v1.0.30.1604 | 2026-09-16T03:58:16Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.30.1604) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
-| 10 | clash-rs | 470bc5a | 2026-09-03T05:50:44Z | [前往下载](https://github.com/Watfaq/clash-rs/commit/470bc5a427bfaea3fafcedf32563010f9a47b691) |
+| 10 | clash-rs | 470bc5a | 2026-09-03T05:50:44Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/commit/470bc5a427bfaea3fafcedf32563010f9a47b691) |
 | 11 | GUI.for.Clash | v1.27.0 | 2026-09-07T16:45:45Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.27.0) |
 | 12 | GUI.for.Singbox | v1.27.0 | 2026-09-07T16:38:11Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.27.0) |
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.23 | 2026-08-22T07:46:56Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.23) |
 | 15 | V2rayN | 7.24.9 | 2026-08-29T02:47:27Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.9) |
 | 16 | Throne | 1.3.0 | 2026-09-17T22:30:18Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.0) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.34 | 2026-09-14T13:24:09Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.34) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
