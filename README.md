@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.2 | 2026-09-20 | [de.danoeh.antennapod_3120295.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120295.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.05.01 | 2026-05-30T04:27:33Z | [InstallerX-Revived-offline-26.05.01.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.05.01/InstallerX-Revived-offline-26.05.01.apk) |
-| 13 | Kazumi | 2.3.4 | 2026-09-22T12:48:01Z | [Kazumi_android_2.3.4.apk](https://github.com/Predidit/Kazumi/releases/download/2.3.4/Kazumi_android_2.3.4.apk) |
+| 13 | Kazumi | 2.3.6 | 2026-09-23T11:56:14Z | [Kazumi_android_2.3.6.apk](https://github.com/Predidit/Kazumi/releases/download/2.3.6/Kazumi_android_2.3.6.apk) |
 | 14 | Droidspaces | v6.6.0 | 2026-09-21T06:11:20Z | [Droidspaces-universal-v6.6.0-cff50fa.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.6.0/Droidspaces-universal-v6.6.0-cff50fa.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_23_1 | 2026-09-22T05:59:50Z | [k9mail-23.1.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_23_1/k9mail-23.1.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.8 | 2026-09-15T02:32:48Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.9.16-1 | 2026-09-16T06:42:58Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.9.16-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/edece28) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
 <!-- PROXY_CLIENT_TABLE_END -->
