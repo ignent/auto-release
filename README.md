@@ -74,7 +74,7 @@
 | 13 | singbox for windows | v2.3.1 | 2026-06-17T10:02:35Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.1) |
 | 14 | Pandora-Box | v1.0.23 | 2026-08-22T07:46:56Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.23) |
 | 15 | V2rayN | 7.24.9 | 2026-08-29T02:47:27Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.9) |
-| 16 | Throne | 1.3.0 | 2026-09-17T22:30:18Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.0) |
+| 16 | Throne | 1.3.1 | 2026-09-24T22:51:03Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.1) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.34 | 2026-09-14T13:24:09Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.34) |
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-09-22T12:14:14+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-09-24T11:46:09+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-09-14T07:42:14+00:00 | [前往下载](https://nssurge.com) |
