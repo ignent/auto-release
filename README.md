@@ -40,12 +40,12 @@
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
 | 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
-| 9 | Hybrid Mount | v6.2.1 | 2026-09-21T13:08:02Z | [Hybrid-Mount-6.2.1-2042.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.2.1/Hybrid-Mount-6.2.1-2042.zip) |
+| 9 | Hybrid Mount | v6.2.2 | 2026-09-29T16:01:37Z | [Hybrid-Mount-6.2.2-2053.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.2.2/Hybrid-Mount-6.2.2-2053.zip) |
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.0.10 | 2026-09-25T07:46:28Z | [magic_mount_rs-4.0.10-918-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.10/magic_mount_rs-4.0.10-918-arm64.zip) |
 | 13 | SukiSU Ultra | v4.2.0 | 2026-09-01T09:23:37Z | [SukiSU_v4.2.0_40900-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.2.0/SukiSU_v4.2.0_40900-release.apk) |
-| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-26T13:33:02+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
+| 14 | ReSukiSU Manager Nightly | nightly | 2026-09-29T11:46:00+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
 | 17 | PlayIntegrityFix | v4.7-inject-s | 2026-07-11T09:58:43Z | [PlayIntegrityFix_v4.7-1-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.7-inject-s/PlayIntegrityFix_v4.7-1-inject-s.zip) |
@@ -74,8 +74,8 @@
 | 13 | singbox for windows | v2.3.2 | 2026-09-08T04:22:19Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.2) |
 | 14 | Pandora-Box | v1.0.23 | 2026-08-22T07:46:56Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.23) |
 | 15 | V2rayN | 7.24.9 | 2026-08-29T02:47:27Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.24.9) |
-| 16 | Throne | 1.3.1 | 2026-09-24T22:51:03Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.1) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
+| 16 | Throne | 1.3.2 | 2026-09-29T20:49:34Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.2) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.34 | 2026-09-14T13:24:09Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.34) |
 | 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
@@ -101,7 +101,7 @@
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.1.8 | 2026-09-15T02:32:48Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.9.26-1 | 2026-09-26T04:25:00Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.9.26-1) |
+| 43 | Passwall | 26.9.27-1 | 2026-09-27T07:20:17Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.9.27-1) |
 | 44 | OpenClash | v0.47.156 | 2026-08-10T14:59:36Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.47.156) |
-| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/edece28) |
+| 45 | homeproxy | edece28 | 2026-08-11T06:38:48Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/edece28a0085f36d469ec82c8d45f562f602db53) |
 <!-- PROXY_CLIENT_TABLE_END -->
