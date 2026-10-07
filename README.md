@@ -14,7 +14,7 @@
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.6 | 2026-10-05T12:36:03Z | [PiliPlus_android_2.1.6-4ed5968f3+5453_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6/PiliPlus_android_2.1.6-4ed5968f3%2B5453_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1719 | 2026-10-01T13:43:37Z | [ServerBox_v1.0.1719_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1719/ServerBox_v1.0.1719_arm64.apk) |
-| 8 | Salt Player | 12.3.2 | 2026-09-06T12:59:47Z | [12.3.2-2026090601-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.3.2/12.3.2-2026090601-official-arm64-v8a.apk) |
+| 8 | Salt Player | 12.4.0 | 2026-10-06T11:03:57Z | [12.4.0-2026100602-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.4.0/12.4.0-2026100602-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.2 | 2026-09-20 | [de.danoeh.antennapod_3120295.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120295.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
@@ -33,7 +33,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | APatch | 11224 | 2026-08-07T06:17:03Z | [APatch_11224_9a63e0f_HEAD-release-signed.apk](https://github.com/bmax121/APatch/releases/download/11224/APatch_11224_9a63e0f_HEAD-release-signed.apk) |
-| 2 | FolkPatch | v6 | 2026-10-04T17:08:59Z | [FolkPatch_115355_79920cd6_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/v6/FolkPatch_115355_79920cd6_on_main-release.apk) |
+| 2 | FolkPatch | v6 | 2026-10-04T17:08:59Z | [FolkPatch_115356_2aeabd04_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/v6/FolkPatch_115356_2aeabd04_on_main-release.apk) |
 | 3 | KernelSU | v3.3.0 | 2026-08-28T14:49:30Z | [KernelSU_v3.3.0_32601-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.3.0/KernelSU_v3.3.0_32601-release.apk) |
 | 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
 | 5 | KernelSU-Next | v3.4.0 | 2026-09-21T13:36:19Z | [KernelSU_Next_v3.4.0_33294-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.0/KernelSU_Next_v3.4.0_33294-release.apk) |
@@ -67,7 +67,7 @@
 | 6 | ClashX.Meta | v1.4.46 | 2026-10-01T12:04:52Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.46) |
 | 7 | FlClash | v0.8.99 | 2026-10-03T11:32:37Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.99) |
 | 8 | Clash Mi | v1.0.30.1605 | 2026-09-22T02:26:15Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.30.1605) |
-| 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/GtxFury/FlyClash/releases/tag/v0.2.9) |
+| 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/Devi766/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
 | 11 | GUI.for.Clash | v1.27.0 | 2026-09-07T16:45:45Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.27.0) |
 | 12 | GUI.for.Singbox | v1.27.0 | 2026-09-07T16:38:11Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.27.0) |
