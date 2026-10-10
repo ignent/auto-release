@@ -24,7 +24,7 @@
 | 15 | Thunderbird Mobile | K9MAIL_24_0 | 2026-10-05T23:38:15Z | [k9mail-24.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_24_0/k9mail-24.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.8 | 2026-09-12T18:59:36Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk) |
-| 18 | MT管理器 | v2.26.10 | 2026-10-09 | [MT2.26.10-target28.apk](https://pan.mt2.cn/apk/26100906/target28) |
+| 18 | MT管理器 | v2.26.10 | 2026-10-09 | [MT2.26.10-target28.apk](https://pan.mt2.cn/apk/26100997/target28) |
 <!-- APK_TABLE_END -->
 
 ### 模块下载
@@ -36,7 +36,7 @@
 | 2 | FolkPatch | v6 | 2026-10-04T17:08:59Z | [FolkPatch_115356_2aeabd04_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/v6/FolkPatch_115356_2aeabd04_on_main-release.apk) |
 | 3 | KernelSU | v3.3.0 | 2026-08-28T14:49:30Z | [KernelSU_v3.3.0_32601-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.3.0/KernelSU_v3.3.0_32601-release.apk) |
 | 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
-| 5 | KernelSU-Next | v3.4.0 | 2026-09-21T13:36:19Z | [KernelSU_Next_v3.4.0_33294-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.0/KernelSU_Next_v3.4.0_33294-release.apk) |
+| 5 | KernelSU-Next | v3.4.1 | 2026-10-09T19:38:05Z | [KernelSU_Next_v3.4.1_33333-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.1/KernelSU_Next_v3.4.1_33333-release.apk) |
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
 | 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
@@ -60,7 +60,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.8 | 2026-10-09T02:43:45Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8) |
-| 2 | Clash-nyanpasu | v2.0.0-beta.3 | 2026-10-07T13:35:21Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.0-beta.3) |
+| 2 | Clash-nyanpasu | v2.0.0-rc.1 | 2026-10-09T09:44:24Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.0-rc.1) |
 | 3 | clash-party | v2.0.3 | 2026-09-20T13:56:08Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.3) |
 | 4 | sparkle | 1.26.9 | 2026-09-30T10:25:48Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.9) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
@@ -83,13 +83,13 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-10-03T03:52:05+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-10-09T05:38:11+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-09-29T15:09:13+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.92 | 2026-09-07T04:14:10Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
-| 31 | Stash | 3.4.1 | 2026-07-16T17:06:42Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
+| 31 | Stash | 3.6.0 | 2026-10-09T20:26:02Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.8.1 | 2026-10-07T11:43:14Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.5.2 | 2026-10-01T18:11:07Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
