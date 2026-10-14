@@ -8,12 +8,12 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Breezy Weather | v6.2.2 | 2026-08-23T08:24:42Z | [breezy-weather-arm64-v8a-v6.2.2_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.2/breezy-weather-arm64-v8a-v6.2.2_standard.apk) |
-| 2 | FlClash | v0.8.99 | 2026-10-03T11:32:37Z | [FlClash-0.8.99-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-arm64-v8a.apk) |
+| 2 | FlClash | v0.9.0 | 2026-10-14T01:56:11Z | [FlClash-0.9.0-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.6.2 | 2026-10-10T13:07:12Z | [PiliPlus_android_2.1.6-b2d6a5bef+5472_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_android_2.1.6-b2d6a5bef%2B5472_arm64-v8a.apk) |
-| 7 | ServerBox | v1.0.1765 | 2026-10-11T18:32:29Z | [ServerBox_v1.0.1765_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1765/ServerBox_v1.0.1765_arm64.apk) |
+| 7 | ServerBox | v1.0.1773 | 2026-10-13T10:47:45Z | [ServerBox_v1.0.1773_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1773/ServerBox_v1.0.1773_arm64.apk) |
 | 8 | Salt Player | 12.4.1 | 2026-10-07T05:21:00Z | [12.4.1-2026100701-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.4.1/12.4.1-2026100701-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.2 | 2026-09-20 | [de.danoeh.antennapod_3120295.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120295.apk) |
@@ -36,7 +36,7 @@
 | 2 | FolkPatch | 115357 | 2026-10-12T12:03:07Z | [FolkPatch_115357_a843c526_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/115357/FolkPatch_115357_a843c526_on_main-release.apk) |
 | 3 | KernelSU | v3.3.1 | 2026-10-12T22:52:06Z | [KernelSU_v3.3.1_32680-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.3.1/KernelSU_v3.3.1_32680-release.apk) |
 | 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
-| 5 | KernelSU-Next | v3.4.1 | 2026-10-09T19:38:05Z | [KernelSU_Next_v3.4.1_33333-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.1/KernelSU_Next_v3.4.1_33333-release.apk) |
+| 5 | KernelSU-Next | v3.4.2 | 2026-10-13T22:00:10Z | [KernelSU_Next_v3.4.2_33355-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.2/KernelSU_Next_v3.4.2_33355-release.apk) |
 | 6 | FuseFixer | 38 | 2026-04-14T07:34:32Z | [FuseFixer-38-3574975-1776151966656-release.apk](https://github.com/5ec1cff/FuseFixer/releases/download/38/FuseFixer-38-3574975-1776151966656-release.apk) |
 | 7 | TrickyStore | 1.4.1 | 2025-11-02T09:56:37Z | [Tricky-Store-v1.4.1-245-72b2e84-release.zip](https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip) |
 | 8 | TEESimulator | v4.0 | 2026-08-11T09:02:26Z | [TEESimulator-v4.0-34-Release.zip](https://github.com/JingMatrix/TEESimulator/releases/download/v4.0/TEESimulator-v4.0-34-Release.zip) |
@@ -65,7 +65,7 @@
 | 4 | sparkle | 1.26.9 | 2026-09-30T10:25:48Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.9) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.46 | 2026-10-01T12:04:52Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.46) |
-| 7 | FlClash | v0.8.99 | 2026-10-03T11:32:37Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.8.99) |
+| 7 | FlClash | v0.9.0 | 2026-10-14T01:56:11Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.0) |
 | 8 | Clash Mi | v1.0.31.1703 | 2026-10-09T04:51:17Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703) |
 | 9 | FlyClash | v0.2.9 | 2026-05-17T05:09:56Z | [前往下载](https://github.com/Devi766/FlyClash/releases/tag/v0.2.9) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-10-11T06:27:59+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-10-11T06:27:58+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-09-29T15:09:13+00:00 | [前往下载](https://nssurge.com) |
