@@ -67,7 +67,7 @@
 | 6 | ClashX.Meta | v1.4.46 | 2026-10-01T12:04:52Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.46) |
 | 7 | FlClash | v0.9.1 | 2026-10-17T10:24:48Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.1) |
 | 8 | Clash Mi | v1.0.31.1703 | 2026-10-09T04:51:17Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703) |
-| 9 | FlyClash | v0.3.4 | 2026-10-14T08:12:46Z | [前往下载](https://github.com/Devi766/FlyClash/releases/tag/v0.3.4) |
+| 9 | FlyClash | v0.3.5 | 2026-10-20T01:01:41Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.5) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
 | 11 | GUI.for.Clash | v1.27.0 | 2026-09-07T16:45:45Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.27.0) |
 | 12 | GUI.for.Singbox | v1.27.0 | 2026-09-07T16:38:11Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.27.0) |
@@ -78,7 +78,7 @@
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.35 | 2026-09-30T16:59:35Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.35) |
-| 20 | V2rayNG | 2.2.6 | 2026-07-05T10:17:21Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.2.6) |
+| 20 | V2rayNG | 2.3.11 | 2026-10-11T07:07:53Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.11) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
@@ -89,13 +89,13 @@
 | 28 | Surge | N/A | 2026-09-29T15:09:13+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.92 | 2026-09-07T04:14:10Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
-| 31 | Stash | 3.6.3 | 2026-10-14T18:28:49Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
+| 31 | Stash | 3.6.4 | 2026-10-19T06:27:11Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.8.1 | 2026-10-07T11:43:14Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.5.2 | 2026-10-01T18:11:07Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.6.76 | 2026-09-10T06:09:15Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
-| 37 | Potatso | 3.0.0 | 2026-10-18T04:28:18Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
+| 37 | Potatso | 3.0.1 | 2026-10-19T03:27:35Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
