@@ -14,12 +14,12 @@
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
 | 6 | PiliPlus | 2.1.6.2 | 2026-10-10T13:07:12Z | [PiliPlus_android_2.1.6-b2d6a5bef+5472_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_android_2.1.6-b2d6a5bef%2B5472_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1816 | 2026-10-20T07:12:17Z | [ServerBox_v1.0.1816_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1816/ServerBox_v1.0.1816_arm64.apk) |
-| 8 | Salt Player | 12.4.1 | 2026-10-07T05:21:00Z | [12.4.1-2026100701-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.4.1/12.4.1-2026100701-official-arm64-v8a.apk) |
+| 8 | Salt Player | 12.5.0 | 2026-10-24T02:01:40Z | [12.5.0-2026102401-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.5.0/12.5.0-2026102401-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
-| 13 | Kazumi | 2.4.1 | 2026-10-22T15:04:45Z | [Kazumi_android_2.4.1.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.1/Kazumi_android_2.4.1.apk) |
+| 13 | Kazumi | 2.4.2 | 2026-10-23T09:43:33Z | [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) |
 | 14 | Droidspaces | v7.0.0 | 2026-10-14T13:05:38Z | [Droidspaces-universal-v7.0.0-37e8b45.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.0.0/Droidspaces-universal-v7.0.0-37e8b45.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_24_0 | 2026-10-05T23:38:15Z | [k9mail-24.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_24_0/k9mail-24.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -60,7 +60,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.8 | 2026-10-09T02:43:45Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8) |
-| 2 | Clash-nyanpasu | v2.0.0-rc.2 | 2026-10-14T19:17:20Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.0-rc.2) |
+| 2 | Clash-nyanpasu | v2.0.0-rc.3 | 2026-10-23T18:27:10Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.0-rc.3) |
 | 3 | clash-party | v2.0.4 | 2026-10-18T12:17:04Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4) |
 | 4 | sparkle | 1.26.9 | 2026-09-30T10:25:48Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.9) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
@@ -83,7 +83,7 @@
 | 22 | V2rayU | v5.2.0 | 2026-08-02T13:11:02Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.2.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
-| 25 | Sing-box | 1.11.89-2 | 2026-10-11T06:27:59+00:00 | [前往下载](https://sing-box.sagernet.org/) |
+| 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-09-29T15:09:13+00:00 | [前往下载](https://nssurge.com) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.9 | 2026-10-06T18:45:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.10.22-2 | 2026-10-22T15:41:37Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.10.22-2) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
 <!-- PROXY_CLIENT_TABLE_END -->
