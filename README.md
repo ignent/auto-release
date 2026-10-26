@@ -86,7 +86,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-09-29T15:09:13+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-10-25T15:09:27+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.92 | 2026-09-07T04:14:10Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.9 | 2026-10-06T18:45:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.10.22-2 | 2026-10-22T15:41:37Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.10.22-2) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
 <!-- PROXY_CLIENT_TABLE_END -->
