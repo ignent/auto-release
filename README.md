@@ -17,7 +17,7 @@
 | 8 | Salt Player | 12.5.1 | 2026-10-24T07:56:07Z | [12.5.1-2026102402-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.5.1/12.5.1-2026102402-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
-| 11 | ONLYOFFICE Documents | 9.4.1 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
+| 11 | ONLYOFFICE Documents | 10.0.0 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
 | 13 | Kazumi | 2.4.2 | 2026-10-23T09:43:33Z | [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) |
 | 14 | Droidspaces | v7.0.0 | 2026-10-14T13:05:38Z | [Droidspaces-universal-v7.0.0-37e8b45.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.0.0/Droidspaces-universal-v7.0.0-37e8b45.apk) |
@@ -75,7 +75,7 @@
 | 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
 | 16 | Throne | 1.3.2 | 2026-09-29T20:49:34Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.2) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
 | 20 | V2rayNG | 2.3.11 | 2026-10-11T07:07:53Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.11) |
@@ -94,7 +94,7 @@
 | 33 | Loon | 3.5.2 | 2026-10-01T18:11:07Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
-| 36 | strisand | 1.6.76 | 2026-09-10T06:09:15Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
+| 36 | strisand | 1.6.77 | 2026-10-25T14:50:19Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
 | 37 | Potatso | 3.0.4 | 2026-10-23T09:10:54Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
