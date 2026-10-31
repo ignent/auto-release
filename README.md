@@ -33,7 +33,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | APatch | 11282 | 2026-10-15T08:18:29Z | [APatch_11282_e8e4651_HEAD-release-signed.apk](https://github.com/bmax121/APatch/releases/download/11282/APatch_11282_e8e4651_HEAD-release-signed.apk) |
-| 2 | FolkPatch | 115357 | 2026-10-12T12:03:07Z | [FolkPatch_115357_a843c526_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/115357/FolkPatch_115357_a843c526_on_main-release.apk) |
+| 2 | FolkPatch | 115404 | 2026-10-30T16:24:35Z | [FolkPatch_115404_0f3f42ba_on_main-release.apk](https://github.com/LyraVoid/FolkPatch/releases/download/115404/FolkPatch_115404_0f3f42ba_on_main-release.apk) |
 | 3 | KernelSU | v3.3.1 | 2026-10-12T22:52:06Z | [KernelSU_v3.3.1_32680-release.apk](https://github.com/tiann/KernelSU/releases/download/v3.3.1/KernelSU_v3.3.1_32680-release.apk) |
 | 4 | KernelSU-KoWSU | N/A | N/A | [查看来源](https://github.com/deepongi-labs/KernelSU-KoWSU) |
 | 5 | KernelSU-Next | v3.4.2 | 2026-10-13T22:00:10Z | [KernelSU_Next_v3.4.2_33355-release.apk](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.4.2/KernelSU_Next_v3.4.2_33355-release.apk) |
@@ -43,7 +43,7 @@
 | 9 | Hybrid Mount | v6.2.5 | 2026-10-21T02:10:12Z | [Hybrid-Mount-6.2.5-2118.zip](https://github.com/Hybrid-Mount/meta-hybrid_mount/releases/download/v6.2.5/Hybrid-Mount-6.2.5-2118.zip) |
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
-| 12 | magic_mount-rs | v4.0.12 | 2026-10-16T10:33:56Z | [magic_mount_rs-4.0.12-941-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.0.12/magic_mount_rs-4.0.12-941-arm64.zip) |
+| 12 | magic_mount-rs | v4.1.12 | 2026-10-30T21:41:55Z | [magic_mount_rs-4.1.12-959-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.1.12/magic_mount_rs-4.1.12-959-arm64.zip) |
 | 13 | SukiSU Ultra | v4.3.0 | 2026-10-29T07:28:35Z | [SukiSU_v4.3.0_41100-release-spoofed.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.3.0/SukiSU_v4.3.0_41100-release-spoofed.apk) |
 | 14 | ReSukiSU Manager Nightly | nightly | 2026-10-03T19:59:19+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
@@ -68,19 +68,19 @@
 | 7 | FlClash | v0.9.2 | 2026-10-24T06:18:34Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.2) |
 | 8 | Clash Mi | v1.0.31.1703 | 2026-10-09T04:51:17Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703) |
 | 9 | FlyClash | v0.3.5 | 2026-10-20T01:01:41Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.5) |
-| 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq/clash-rs/releases/tag/v0.10.10) |
+| 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
 | 11 | GUI.for.Clash | v1.28.1 | 2026-10-21T15:30:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.28.1) |
 | 12 | GUI.for.Singbox | v1.28.1 | 2026-10-21T15:37:44Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.28.1) |
 | 13 | singbox for windows | v2.3.2 | 2026-09-08T04:22:19Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.2) |
 | 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
 | 16 | Throne | 1.3.2 | 2026-09-29T20:49:34Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.2) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
-| 20 | V2rayNG | 2.3.11 | 2026-10-11T07:07:53Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.11) |
+| 20 | V2rayNG | 2.3.14 | 2026-10-28T03:06:38Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.14) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
-| 22 | V2rayU | v5.3.2 | 2026-10-28T14:00:46Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.3.2) |
+| 22 | V2rayU | v5.4.0 | 2026-10-30T16:36:01Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
@@ -91,7 +91,7 @@
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.8.1 | 2026-10-07T11:43:14Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
-| 33 | Loon | 3.5.2 | 2026-10-01T18:11:07Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
+| 33 | Loon | 3.5.3 | 2026-10-30T08:19:03Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.6.77 | 2026-10-25T14:50:19Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.1.9 | 2026-10-06T18:45:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.10.29-1 | 2026-10-29T01:49:15Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.10.29-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
