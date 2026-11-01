@@ -60,9 +60,9 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.8 | 2026-10-09T02:43:45Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8) |
-| 2 | Clash-nyanpasu | v2.0.0 | 2026-10-27T08:40:48Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.0) |
+| 2 | Clash-nyanpasu | v2.0.1 | 2026-10-31T07:45:15Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
 | 3 | clash-party | v2.0.4 | 2026-10-18T12:17:04Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4) |
-| 4 | sparkle | 1.26.9 | 2026-09-30T10:25:48Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.9) |
+| 4 | sparkle | 1.26.10 | 2026-10-31T10:20:47Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.10) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.47 | 2026-10-21T19:00:59Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.47) |
 | 7 | FlClash | v0.9.2 | 2026-10-24T06:18:34Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.2) |
@@ -86,7 +86,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-10-29T15:30:26+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-10-31T13:56:08+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -100,7 +100,7 @@
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
-| 42 | V2Box | 10.1.9 | 2026-10-06T18:45:54Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
+| 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.10.29-1 | 2026-10-29T01:49:15Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.10.29-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
 | 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
