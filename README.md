@@ -12,12 +12,12 @@
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
-| 6 | PiliPlus | 2.2.0 | 2026-11-01T07:33:43Z | [PiliPlus_android_2.2.0-265f879fa+5580_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0/PiliPlus_android_2.2.0-265f879fa%2B5580_arm64-v8a.apk) |
+| 6 | PiliPlus | 2.2.0.1 | 2026-11-02T12:28:28Z | [PiliPlus_android_2.2.0-979b06418+5590_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.1/PiliPlus_android_2.2.0-979b06418%2B5590_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1856 | 2026-11-01T07:33:37Z | [ServerBox_v1.0.1856_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1856/ServerBox_v1.0.1856_arm64.apk) |
-| 8 | Salt Player | 12.5.2 | 2026-10-29T02:51:24Z | [12.5.2-2026102801-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.5.2/12.5.2-2026102801-official-arm64-v8a.apk) |
+| 8 | Salt Player | 12.6.0 | 2026-11-02T08:29:13Z | [12.6.0-2026110201-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.6.0/12.6.0-2026110201-official-arm64-v8a.apk) |
 | 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
-| 11 | ONLYOFFICE Documents | 10.0.0 | 2026-06-22T15:15:07+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
+| 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-02T12:43:00+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
 | 13 | Kazumi | 2.4.2 | 2026-10-23T09:43:33Z | [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) |
 | 14 | Droidspaces | v7.1.0 | 2026-10-27T12:37:51Z | [Droidspaces-universal-v7.1.0-4344dc5.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.1.0/Droidspaces-universal-v7.1.0-4344dc5.apk) |
@@ -59,7 +59,7 @@
 <!-- PROXY_CLIENT_TABLE_START -->
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| 1 | Clash-verge-rev | v2.5.8 | 2026-10-09T02:43:45Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8) |
+| 1 | Clash-verge-rev | v2.5.9 | 2026-11-02T10:09:17Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.9) |
 | 2 | Clash-nyanpasu | v2.0.1 | 2026-10-31T07:45:15Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
 | 3 | clash-party | v2.0.4 | 2026-10-18T12:17:04Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4) |
 | 4 | sparkle | 1.26.10 | 2026-10-31T10:20:47Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.10) |
@@ -95,7 +95,7 @@
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.7.0 | 2026-11-01T10:48:55Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
-| 37 | Potatso | 3.0.5 | 2026-10-28T04:11:55Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
+| 37 | Potatso | 3.1.0 | 2026-11-01T11:17:20Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
