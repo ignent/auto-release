@@ -8,7 +8,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Breezy Weather | v6.2.2 | 2026-08-23T08:24:42Z | [breezy-weather-arm64-v8a-v6.2.2_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.2/breezy-weather-arm64-v8a-v6.2.2_standard.apk) |
-| 2 | FlClash | v0.9.2 | 2026-10-24T06:18:34Z | [FlClash-0.9.2-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) |
+| 2 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [FlClash-0.9.3-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
-| 13 | Kazumi | 2.4.2 | 2026-10-23T09:43:33Z | [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) |
+| 13 | Kazumi | 2.4.3 | 2026-11-04T12:12:33Z | [Kazumi_android_2.4.3.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_android_2.4.3.apk) |
 | 14 | Droidspaces | v7.1.0 | 2026-10-27T12:37:51Z | [Droidspaces-universal-v7.1.0-4344dc5.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.1.0/Droidspaces-universal-v7.1.0-4344dc5.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_24_0 | 2026-10-05T23:38:15Z | [k9mail-24.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_24_0/k9mail-24.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -65,20 +65,20 @@
 | 4 | sparkle | 1.26.10 | 2026-10-31T10:20:47Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.10) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.47 | 2026-10-21T19:00:59Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.47) |
-| 7 | FlClash | v0.9.2 | 2026-10-24T06:18:34Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.2) |
+| 7 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.3) |
 | 8 | Clash Mi | v1.0.31.1703 | 2026-10-09T04:51:17Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703) |
 | 9 | FlyClash | v0.3.5 | 2026-10-20T01:01:41Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.5) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
 | 11 | GUI.for.Clash | v1.28.1 | 2026-10-21T15:30:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.28.1) |
 | 12 | GUI.for.Singbox | v1.28.1 | 2026-10-21T15:37:44Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.28.1) |
-| 13 | singbox for windows | v2.3.2 | 2026-09-08T04:22:19Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.3.2) |
+| 13 | singbox for windows | v2.4.0 | 2026-10-31T05:51:06Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
 | 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
 | 16 | Throne | 1.3.2 | 2026-09-29T20:49:34Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.2) |
-| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/NetchX/Netch/releases/tag/1.9.7) |
-| 18 | Hiddify | v4.1.1 | 2026-03-05T17:22:57Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1) |
+| 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
+| 18 | Hiddify | v5.5.5 | 2026-11-04T21:06:14Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5) |
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
-| 20 | V2rayNG | 2.3.14 | 2026-10-28T03:06:38Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.14) |
+| 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.4.0 | 2026-10-30T16:36:01Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.0) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
@@ -88,7 +88,7 @@
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
 | 28 | Surge | N/A | 2026-11-02T02:05:58+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
-| 30 | Egern | 2.20.0 | 2026-07-23T17:04:21Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
+| 30 | Egern | 2.21.0 | 2026-11-04T20:40:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
 | 32 | QuantumultX | 1.8.1 | 2026-10-07T11:43:14Z | [前往下载](https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4) |
 | 33 | Loon | 3.5.3 | 2026-10-30T08:19:03Z | [前往下载](https://apps.apple.com/in/app/loon/id1373567447?uo=4) |
