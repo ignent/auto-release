@@ -44,7 +44,7 @@
 | 10 | meta-overlayfs | v1.3.1 | 2025-12-02T12:57:14Z | [meta-overlayfs-13100-1.3.1.zip](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip) |
 | 11 | meta-mm | v1.0.1-sprout | 2026-01-11T11:02:55Z | [meta-magic_mount-v1.0.1-sprout-release.zip](https://github.com/KernelSU-Modules-Repo/meta-mm/releases/download/v1.0.1-sprout/meta-magic_mount-v1.0.1-sprout-release.zip) |
 | 12 | magic_mount-rs | v4.1.12 | 2026-10-30T21:41:55Z | [magic_mount_rs-4.1.12-959-arm64.zip](https://github.com/Tools-cx-app/meta-magic_mount-rs/releases/download/v4.1.12/magic_mount_rs-4.1.12-959-arm64.zip) |
-| 13 | SukiSU Ultra | v4.3.0-r1 | 2026-11-03T15:17:47Z | [SukiSU_v4.3.0-r1_41140-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.3.0-r1/SukiSU_v4.3.0-r1_41140-release.apk) |
+| 13 | SukiSU Ultra | v4.3.0-r2 | 2026-11-05T15:13:49Z | [SukiSU_v4.3.0-r2_41150-release.apk](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/download/v4.3.0-r2/SukiSU_v4.3.0-r2_41150-release.apk) |
 | 14 | ReSukiSU Manager Nightly | nightly | 2026-10-03T19:59:19+00:00 | [Manager-release.zip](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Manager-release.zip) |
 | 15 | Tricky Addon Enhanced | v5.53.1 | 2026-05-01T16:33:06Z | [TA_enhanced-v5.53.1.zip](https://github.com/Enginex0/tricky-addon-enhanced/releases/download/v5.53.1/TA_enhanced-v5.53.1.zip) |
 | 16 | TEESimulator-RS | v6.0.1-282 | 2026-06-19T15:54:47Z | [TEESimulator-RS-v6.0.1-282-Release.zip](https://github.com/Enginex0/TEESimulator-RS/releases/download/v6.0.1-282/TEESimulator-RS-v6.0.1-282-Release.zip) |
@@ -74,7 +74,7 @@
 | 13 | singbox for windows | v2.4.0 | 2026-10-31T05:51:06Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
 | 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
-| 16 | Throne | 1.3.2 | 2026-09-29T20:49:34Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.3.2) |
+| 16 | Throne | 1.4.0 | 2026-11-05T15:45:00Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.4.0) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v5.5.5 | 2026-11-04T21:06:14Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5) |
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
