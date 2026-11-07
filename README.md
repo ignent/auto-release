@@ -74,7 +74,7 @@
 | 13 | singbox for windows | v2.4.0 | 2026-10-31T05:51:06Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
 | 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
-| 16 | Throne | 1.4.0 | 2026-11-05T15:45:00Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.4.0) |
+| 16 | Throne | 1.4.1 | 2026-11-06T23:05:33Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.4.1) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
 | 18 | Hiddify | v5.5.5 | 2026-11-04T21:06:14Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5) |
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
@@ -101,7 +101,7 @@
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.10.29-1 | 2026-10-29T01:49:15Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.10.29-1) |
+| 43 | Passwall | 26.11.3-1 | 2026-11-03T15:27:50Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.3-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
