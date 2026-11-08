@@ -15,12 +15,12 @@
 | 6 | PiliPlus | 2.2.0.2 | 2026-11-03T07:43:02Z | [PiliPlus_android_2.2.0-d9e9626f1+5598_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.2/PiliPlus_android_2.2.0-d9e9626f1%2B5598_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1856 | 2026-11-01T07:33:37Z | [ServerBox_v1.0.1856_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1856/ServerBox_v1.0.1856_arm64.apk) |
 | 8 | Salt Player | 12.6.0 | 2026-11-02T08:29:13Z | [12.6.0-2026110201-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.6.0/12.6.0-2026110201-official-arm64-v8a.apk) |
-| 9 | NewPipe | v0.29.1 | 2026-08-15T22:05:38Z | [NewPipe_v0.29.1.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk) |
+| 9 | NewPipe | v0.29.2 | 2026-11-07T21:14:05Z | [NewPipe_v0.29.2.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.2/NewPipe_v0.29.2.apk) |
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
 | 13 | Kazumi | 2.4.3 | 2026-11-04T12:12:33Z | [Kazumi_android_2.4.3.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_android_2.4.3.apk) |
-| 14 | Droidspaces | v7.1.0 | 2026-10-27T12:37:51Z | [Droidspaces-universal-v7.1.0-4344dc5.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.1.0/Droidspaces-universal-v7.1.0-4344dc5.apk) |
+| 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_24_0 | 2026-10-05T23:38:15Z | [k9mail-24.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_24_0/k9mail-24.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.8 | 2026-09-12T18:59:36Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk) |
@@ -51,7 +51,7 @@
 | 17 | PlayIntegrityFix | v4.9-inject-s | 2026-10-15T14:11:46Z | [PlayIntegrityFix_v4.9-inject-s.zip](https://github.com/KOWX712/PlayIntegrityFix/releases/download/v4.9-inject-s/PlayIntegrityFix_v4.9-inject-s.zip) |
 | 18 | mountify | 205 | 2026-10-15T06:39:30Z | [mountify.zip](https://github.com/backslashxx/mountify/releases/download/205/mountify.zip) |
 | 19 | LSPosed | v2.0.4-7741 | 2026-06-01T16:16:20+00:00 | [查看来源](https://t.me/LSPosed/312) |
-| 20 | Zygisk Next | v1.5.2 | 2026-10-15T01:00:18Z | [Zygisk-Next-1.5.2-864-a4a72ce-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.5.2/Zygisk-Next-1.5.2-864-a4a72ce-release.zip) |
+| 20 | Zygisk Next | v1.5.3 | 2026-11-07T16:32:11Z | [Zygisk-Next-1.5.3-880-22a1bf5-release.zip](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.5.3/Zygisk-Next-1.5.3-880-22a1bf5-release.zip) |
 <!-- MODULE_TABLE_END -->
 
 ## Proxy Tools
@@ -86,7 +86,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-11-02T02:05:58+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-11-07T14:26:09+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.21.0 | 2026-11-04T20:40:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -95,7 +95,7 @@
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.7.0 | 2026-11-01T10:48:55Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
-| 37 | Potatso | 3.1.0 | 2026-11-01T11:17:20Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
+| 37 | Potatso | 3.2.0 | 2026-11-07T19:37:18Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.3-1 | 2026-11-03T15:27:50Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.3-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
 <!-- PROXY_CLIENT_TABLE_END -->
