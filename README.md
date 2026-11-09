@@ -80,7 +80,7 @@
 | 19 | ClashMetaForAndroid | v2.11.36 | 2026-10-21T16:44:10Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.36) |
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
-| 22 | V2rayU | v5.4.0 | 2026-10-30T16:36:01Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.0) |
+| 22 | V2rayU | v5.4.1 | 2026-11-08T13:26:18Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.1) |
 | 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.3-1 | 2026-11-03T15:27:50Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.3-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
