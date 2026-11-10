@@ -66,13 +66,13 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.47 | 2026-10-21T19:00:59Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.47) |
 | 7 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.3) |
-| 8 | Clash Mi | v1.0.31.1703 | 2026-10-09T04:51:17Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703) |
+| 8 | Clash Mi | v1.0.32.1803 | 2026-11-03T03:08:21Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.32.1803) |
 | 9 | FlyClash | v0.3.5 | 2026-10-20T01:01:41Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.5) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
 | 11 | GUI.for.Clash | v1.28.1 | 2026-10-21T15:30:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.28.1) |
 | 12 | GUI.for.Singbox | v1.28.1 | 2026-10-21T15:37:44Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.28.1) |
 | 13 | singbox for windows | v2.4.0 | 2026-10-31T05:51:06Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
-| 14 | Pandora-Box | v1.0.24 | 2026-10-16T12:45:28Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.24) |
+| 14 | Pandora-Box | v1.0.26 | 2026-11-09T16:39:01Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.26) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
 | 16 | Throne | 1.4.1 | 2026-11-06T23:05:33Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.4.1) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
@@ -81,7 +81,7 @@
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.4.1 | 2026-11-08T13:26:18Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.1) |
-| 23 | Karing | v1.2.25.2802 | 2026-09-10T02:20:39Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.25.2802) |
+| 23 | Karing | v1.2.26.2923 | 2026-11-09T03:37:00Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2923) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
