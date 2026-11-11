@@ -15,13 +15,13 @@
 | 6 | PiliPlus | 2.2.0.2 | 2026-11-03T07:43:02Z | [PiliPlus_android_2.2.0-d9e9626f1+5598_arm64-v8a.apk](https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.2.0.2/PiliPlus_android_2.2.0-d9e9626f1%2B5598_arm64-v8a.apk) |
 | 7 | ServerBox | v1.0.1856 | 2026-11-01T07:33:37Z | [ServerBox_v1.0.1856_arm64.apk](https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1856/ServerBox_v1.0.1856_arm64.apk) |
 | 8 | Salt Player | 12.6.0 | 2026-11-02T08:29:13Z | [12.6.0-2026110201-official-arm64-v8a.apk](https://github.com/Moriafly/SaltPlayerSource/releases/download/12.6.0/12.6.0-2026110201-official-arm64-v8a.apk) |
-| 9 | NewPipe | v0.29.2 | 2026-11-07T21:14:05Z | [NewPipe_v0.29.2.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.2/NewPipe_v0.29.2.apk) |
+| 9 | NewPipe | v0.29.3 | 2026-11-10T09:52:10Z | [NewPipe_v0.29.3.apk](https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.3/NewPipe_v0.29.3.apk) |
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
 | 13 | Kazumi | 2.4.3 | 2026-11-04T12:12:33Z | [Kazumi_android_2.4.3.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_android_2.4.3.apk) |
 | 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
-| 15 | Thunderbird Mobile | K9MAIL_24_0 | 2026-10-05T23:38:15Z | [k9mail-24.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_24_0/k9mail-24.0.apk) |
+| 15 | Thunderbird Mobile | K9MAIL_25_0 | 2026-11-10T21:23:23Z | [k9mail-25.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_25_0/k9mail-25.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.8 | 2026-09-12T18:59:36Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk) |
 | 18 | MT管理器 | v2.26.11 | 2026-11-03 | [MT2.26.11-target28.apk](https://pan.mt2.cn/apk/26110366/target28) |
@@ -69,8 +69,8 @@
 | 8 | Clash Mi | v1.0.32.1803 | 2026-11-03T03:08:21Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.32.1803) |
 | 9 | FlyClash | v0.3.5 | 2026-10-20T01:01:41Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.5) |
 | 10 | clash-rs | v0.10.10 | 2026-10-05T03:51:26Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.10) |
-| 11 | GUI.for.Clash | v1.28.1 | 2026-10-21T15:30:18Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.28.1) |
-| 12 | GUI.for.Singbox | v1.28.1 | 2026-10-21T15:37:44Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.28.1) |
+| 11 | GUI.for.Clash | v1.29.0 | 2026-11-10T14:13:07Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.29.0) |
+| 12 | GUI.for.Singbox | v1.29.0 | 2026-11-10T14:28:10Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/tag/v1.29.0) |
 | 13 | singbox for windows | v2.4.0 | 2026-10-31T05:51:06Z | [前往下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
 | 14 | Pandora-Box | v1.0.26 | 2026-11-09T16:39:01Z | [前往下载](https://github.com/snakem982/Pandora-Box/releases/tag/v1.0.26) |
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
@@ -81,12 +81,12 @@
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.4.1 | 2026-11-08T13:26:18Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.1) |
-| 23 | Karing | v1.2.26.2923 | 2026-11-09T03:37:00Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2923) |
+| 23 | Karing | v1.2.26.2926 | 2026-11-11T03:39:58Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2926) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-11-07T14:26:09+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-11-11T02:33:59+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.21.0 | 2026-11-04T20:40:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -101,7 +101,7 @@
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
 | 41 | vproxy | N/A | N/A | [前往下载](https://vx.5vnetwork.com/zh) |
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
-| 43 | Passwall | 26.11.3-1 | 2026-11-03T15:27:50Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.3-1) |
+| 43 | Passwall | 26.11.11-1 | 2026-11-10T16:47:20Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.11-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
 <!-- PROXY_CLIENT_TABLE_END -->
