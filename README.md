@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
-| 13 | Kazumi | 2.4.3 | 2026-11-04T12:12:33Z | [Kazumi_android_2.4.3.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_android_2.4.3.apk) |
+| 13 | Kazumi | 2.4.4 | 2026-11-12T10:27:44Z | [Kazumi_android_2.4.4.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_android_2.4.4.apk) |
 | 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_25_0 | 2026-11-10T21:23:23Z | [k9mail-25.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_25_0/k9mail-25.0.apk) |
 | 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -81,7 +81,7 @@
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.4.1 | 2026-11-08T13:26:18Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.1) |
-| 23 | Karing | v1.2.26.2928 | 2026-11-12T04:57:41Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2928) |
+| 23 | Karing | v1.2.26.2929 | 2026-11-12T10:35:59Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2929) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
@@ -95,7 +95,7 @@
 | 34 | LanceX | 2.3.57 | 2026-06-04T09:30:39Z | [前往下载](https://apps.apple.com/us/app/lancex/id1536754048) |
 | 35 | Pharos Pro | 1.8.7 | 2025-12-30T02:41:20Z | [前往下载](https://apps.apple.com/us/app/pharos-pro/id1456610173?uo=4) |
 | 36 | strisand | 1.7.1 | 2026-11-11T08:42:42Z | [前往下载](https://apps.apple.com/us/app/streisand/id6450534064?uo=4) |
-| 37 | Potatso | 3.2.0 | 2026-11-07T19:37:18Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
+| 37 | Potatso | 3.3.0 | 2026-11-12T17:19:14Z | [前往下载](https://apps.apple.com/us/app/potatso/id1239860606?uo=4) |
 | 38 | kitsunebi | 2.3.6 | 2020-01-17T18:34:45Z | [前往下载](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?uo=4) |
 | 39 | oneclick | 2.5.0 | 2022-01-22T01:52:36Z | [前往下载](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197?uo=4) |
 | 40 | Spectre | 2.0.7 | 2026-09-14T08:59:04Z | [前往下载](https://apps.apple.com/us/app/spectre-vpn/id1508712998?uo=4) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.11-1 | 2026-11-10T16:47:20Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.11-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
