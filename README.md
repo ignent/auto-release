@@ -22,7 +22,7 @@
 | 13 | Kazumi | 2.4.4 | 2026-11-12T10:27:44Z | [Kazumi_android_2.4.4.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_android_2.4.4.apk) |
 | 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_25_0 | 2026-11-10T21:23:23Z | [k9mail-25.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_25_0/k9mail-25.0.apk) |
-| 16 | Via | via-release-cn | 2026-08-24T09:20:39+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
+| 16 | Via | via-release-cn | 2026-11-13T05:04:49+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
 | 17 | Droid-ify | v0.7.8 | 2026-09-12T18:59:36Z | [app-release.apk](https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk) |
 | 18 | MT管理器 | v2.26.11 | 2026-11-03 | [MT2.26.11-target28.apk](https://pan.mt2.cn/apk/26110366/target28) |
 <!-- APK_TABLE_END -->
@@ -64,7 +64,7 @@
 | 3 | clash-party | v2.0.4 | 2026-10-18T12:17:04Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4) |
 | 4 | sparkle | 1.26.10 | 2026-10-31T10:20:47Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.10) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
-| 6 | ClashX.Meta | v1.4.47 | 2026-10-21T19:00:59Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.47) |
+| 6 | ClashX.Meta | v1.4.48 | 2026-11-13T05:49:51Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.48) |
 | 7 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.3) |
 | 8 | Clash Mi | v1.0.32.1803 | 2026-11-03T03:08:21Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.32.1803) |
 | 9 | FlyClash | v0.3.6 | 2026-11-11T17:06:22Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.6) |
@@ -81,12 +81,12 @@
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
 | 22 | V2rayU | v5.4.1 | 2026-11-08T13:26:18Z | [前往下载](https://github.com/yanue/V2rayU/releases/tag/v5.4.1) |
-| 23 | Karing | v1.2.26.2929 | 2026-11-12T10:35:59Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2929) |
+| 23 | Karing | v1.2.26.2931 | 2026-11-13T12:03:34Z | [前往下载](https://github.com/KaringX/karing/releases/tag/v1.2.26.2931) |
 | 24 | Clash for Windows | N/A | N/A | [前往下载](https://purehub.app/detail.php?id=2) |
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-11-11T02:33:59+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-11-13T06:32:06+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.21.0 | 2026-11-04T20:40:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 3.6.5 | 2026-10-21T19:03:50Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
