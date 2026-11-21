@@ -8,7 +8,7 @@
 | 序号 | 软件名 | 版本 | 更新时间 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | 1 | Breezy Weather | v6.2.2 | 2026-08-23T08:24:42Z | [breezy-weather-arm64-v8a-v6.2.2_standard.apk](https://github.com/breezy-weather/breezy-weather/releases/download/v6.2.2/breezy-weather-arm64-v8a-v6.2.2_standard.apk) |
-| 2 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [FlClash-0.9.3-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.3/FlClash-0.9.3-android-arm64-v8a.apk) |
+| 2 | FlClash | v0.9.4 | 2026-11-19T07:31:00Z | [FlClash-0.9.4-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-android-arm64-v8a.apk) |
 | 3 | 阅读 | 3.25 | 2024-08-16T04:49:21Z | [legado_app_3.25.apk](https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk) |
 | 4 | StreamMusic | v1.3.9 | 2025-07-11T03:41:37Z | [musiver_1.3.9_arm64-v8a.apk](https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.9/musiver_1.3.9_arm64-v8a.apk) |
 | 5 | LocalSend | v1.18.2 | 2026-08-21T14:02:01Z | [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) |
@@ -61,11 +61,11 @@
 | --- | --- | --- | --- | --- |
 | 1 | Clash-verge-rev | v2.5.10 | 2026-11-03T10:04:21Z | [前往下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.10) |
 | 2 | Clash-nyanpasu | v2.0.1 | 2026-10-31T07:45:15Z | [前往下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
-| 3 | clash-party | v2.0.4 | 2026-10-18T12:17:04Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.4) |
+| 3 | clash-party | v2.0.5 | 2026-11-20T04:09:45Z | [前往下载](https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.5) |
 | 4 | sparkle | 1.26.10 | 2026-10-31T10:20:47Z | [前往下载](https://github.com/xishang0128/sparkle/releases/tag/1.26.10) |
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.48 | 2026-11-13T05:49:51Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.48) |
-| 7 | FlClash | v0.9.3 | 2026-11-04T07:54:38Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.3) |
+| 7 | FlClash | v0.9.4 | 2026-11-19T07:31:00Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.4) |
 | 8 | Clash Mi | v1.0.32.1803 | 2026-11-03T03:08:21Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.32.1803) |
 | 9 | FlyClash | v0.3.6 | 2026-11-11T17:06:22Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.6) |
 | 10 | clash-rs | v0.10.12 | 2026-11-14T17:07:28Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.12) |
@@ -86,7 +86,7 @@
 | 25 | Sing-box | 1.11.89-2 | 2026-10-24T01:08:12+00:00 | [前往下载](https://sing-box.sagernet.org/) |
 | 26 | v2raytun | N/A | N/A | [前往下载](https://v2raytun.com/) |
 | 27 | Surfboard | N/A | N/A | [前往下载](https://manual.getsurfboard.com) |
-| 28 | Surge | N/A | 2026-11-18T15:47:09+00:00 | [前往下载](https://nssurge.com) |
+| 28 | Surge | N/A | 2026-11-20T13:22:25+00:00 | [前往下载](https://nssurge.com) |
 | 29 | Shadowrocket | 2.2.93 | 2026-10-29T03:15:39Z | [前往下载](https://apps.apple.com/ae/app/shadowrocket/id932747118?uo=4) |
 | 30 | Egern | 2.21.0 | 2026-11-04T20:40:07Z | [前往下载](https://apps.apple.com/us/app/egern/id1616105820?uo=4) |
 | 31 | Stash | 5.0.0 | 2026-11-14T17:09:45Z | [前往下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.11-1 | 2026-11-10T16:47:20Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.11-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
