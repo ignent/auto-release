@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
-| 13 | Kazumi | 2.4.4 | 2026-11-12T10:27:44Z | [Kazumi_android_2.4.4.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_android_2.4.4.apk) |
+| 13 | Kazumi | 2.4.5 | 2026-11-21T05:56:21Z | [Kazumi_android_2.4.5.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.5/Kazumi_android_2.4.5.apk) |
 | 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_25_0 | 2026-11-10T21:23:23Z | [k9mail-25.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_25_0/k9mail-25.0.apk) |
 | 16 | Via | via-release-cn | 2026-11-13T05:04:49+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.11-1 | 2026-11-10T16:47:20Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.11-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
 <!-- PROXY_CLIENT_TABLE_END -->
