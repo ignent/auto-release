@@ -19,7 +19,7 @@
 | 10 | AntennaPod | 3.12.3 | 2026-10-15 | [de.danoeh.antennapod_3120395.apk](https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk) |
 | 11 | ONLYOFFICE Documents | 10.0.0 | 2026-11-03T11:57:17+00:00 | [onlyoffice-documents.apk](https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk) |
 | 12 | InstallerX-Revived | 26.09 | 2026-09-30T05:04:25Z | [InstallerX-Revived-online-26.09.apk](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/download/26.09/InstallerX-Revived-online-26.09.apk) |
-| 13 | Kazumi | 2.4.5 | 2026-11-21T05:56:21Z | [Kazumi_android_2.4.5.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.5/Kazumi_android_2.4.5.apk) |
+| 13 | Kazumi | 2.4.6 | 2026-11-22T05:42:23Z | [Kazumi_android_2.4.6.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.6/Kazumi_android_2.4.6.apk) |
 | 14 | Droidspaces | v7.2.0 | 2026-11-07T12:43:55Z | [Droidspaces-universal-v7.2.0-cdadb9eb.apk](https://github.com/ravindu644/Droidspaces-OSS/releases/download/v7.2.0/Droidspaces-universal-v7.2.0-cdadb9eb.apk) |
 | 15 | Thunderbird Mobile | K9MAIL_25_0 | 2026-11-10T21:23:23Z | [k9mail-25.0.apk](https://github.com/thunderbird/thunderbird-android/releases/download/K9MAIL_25_0/k9mail-25.0.apk) |
 | 16 | Via | via-release-cn | 2026-11-13T05:04:49+00:00 | [via-release-cn.apk](https://res.viayoo.com/v1/via-release-cn.apk) |
@@ -66,7 +66,7 @@
 | 5 | AnyPortal | v0.6.31+105 | 2025-10-17T13:09:40Z | [前往下载](https://github.com/AnyPortal/AnyPortal/releases/tag/v0.6.31%2B105) |
 | 6 | ClashX.Meta | v1.4.48 | 2026-11-13T05:49:51Z | [前往下载](https://github.com/MetaCubeX/ClashX.Meta/releases/tag/v1.4.48) |
 | 7 | FlClash | v0.9.4 | 2026-11-19T07:31:00Z | [前往下载](https://github.com/chen08209/FlClash/releases/tag/v0.9.4) |
-| 8 | Clash Mi | v1.0.32.1803 | 2026-11-03T03:08:21Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.32.1803) |
+| 8 | Clash Mi | v1.0.33.1905 | 2026-11-22T06:38:43Z | [前往下载](https://github.com/KaringX/clashmi/releases/tag/v1.0.33.1905) |
 | 9 | FlyClash | v0.3.6 | 2026-11-11T17:06:22Z | [前往下载](https://github.com/Devi766/Diodos/releases/tag/v0.3.6) |
 | 10 | clash-rs | v0.10.12 | 2026-11-14T17:07:28Z | [前往下载](https://github.com/Watfaq-legacy/clash-rs/releases/tag/v0.10.12) |
 | 11 | GUI.for.Clash | v1.29.0 | 2026-11-10T14:13:07Z | [前往下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases/tag/v1.29.0) |
@@ -76,7 +76,7 @@
 | 15 | V2rayN | 7.25.6 | 2026-10-11T05:59:58Z | [前往下载](https://github.com/2dust/v2rayN/releases/tag/7.25.6) |
 | 16 | Throne | 1.4.2 | 2026-11-14T21:13:49Z | [前往下载](https://github.com/throneproj/Throne/releases/tag/1.4.2) |
 | 17 | netch | 1.9.7 | 2022-06-24T07:04:37Z | [前往下载](https://github.com/netchx/netch/releases/tag/1.9.7) |
-| 18 | Hiddify | v5.5.5 | 2026-11-04T21:06:14Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v5.5.5) |
+| 18 | Hiddify | v5.9.15 | 2026-11-19T07:44:59Z | [前往下载](https://github.com/hiddify/hiddify-app/releases/tag/v5.9.15) |
 | 19 | ClashMetaForAndroid | v2.11.37 | 2026-11-11T06:52:15Z | [前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.37) |
 | 20 | V2rayNG | 2.3.15 | 2026-11-01T06:59:32Z | [前往下载](https://github.com/2dust/v2rayNG/releases/tag/2.3.15) |
 | 21 | Nekobox | 1.4.2 | 2026-02-09T03:55:00Z | [前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2) |
@@ -103,5 +103,5 @@
 | 42 | V2Box | 10.2.0 | 2026-10-31T18:03:18Z | [前往下载](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690?uo=4) |
 | 43 | Passwall | 26.11.11-1 | 2026-11-10T16:47:20Z | [前往下载](https://github.com/Openwrt-Passwall/openwrt-passwall/releases/tag/26.11.11-1) |
 | 44 | OpenClash | v0.48.002 | 2026-10-12T03:40:07Z | [前往下载](https://github.com/vernesong/OpenClash/releases/tag/v0.48.002) |
-| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/releases/tag/fadaa67) |
+| 45 | homeproxy | fadaa67 | 2026-10-02T07:58:18Z | [前往下载](https://github.com/immortalwrt/homeproxy/commit/fadaa676104f59ff6ace480a780a258d846d0aec) |
 <!-- PROXY_CLIENT_TABLE_END -->
